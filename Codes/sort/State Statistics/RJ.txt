@@ -1,0 +1,310 @@
+{ID: 582028463151792128, Place: None, User Location: #Jodhpur         #ProudIndian}
+{ID: 582044979448582146, Place: None, User Location: KOTA, Rajasthan, India}
+{ID: 582061463600156672, Place: None, User Location: KOTA, Rajasthan, India}
+{ID: 582113254404591617, Place: None, User Location: KOTA, Rajasthan, India}
+{ID: 582028636657618944, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: jaipur}
+
+{ID: 582028688834760704, Place: None, User Location: Jaipur, India}
+
+{ID: 582029126921371648, Place: None, User Location: Jaipur, India}
+
+{ID: 582029571358261248, Place: None, User Location: Jaipur, India}
+
+{ID: 582029697371910144, Place: None, User Location: Jaipur, India}
+
+{ID: 582030141347352576, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: jaipur}
+
+{ID: 582031179102056449, Place: None, User Location: Jaipur, India}
+
+{ID: 582031413710471168, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: jaipur}
+
+{ID: 582031441355132928, Place: None, User Location: Jaipur, India}
+
+{ID: 582035927377162240, Place: None, User Location: Jaipur, India}
+
+{ID: 582036963709968384, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: jaipur Hindustan}
+
+{ID: 582036974573256704, Place: None, User Location: Jaipur, India}
+
+{ID: 582037439423762432, Place: None, User Location: Jaipur, India}
+
+{ID: 582039164515799041, Place: None, User Location: Jaipur, India}
+
+{ID: 582040809316294656, Place: None, User Location: Jaipur, India}
+
+{ID: 582041622835150848, Place: None, User Location: Jaipur, India}
+
+{ID: 582041864078958592, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: JAIPUR(India)}
+
+{ID: 582042255466233856, Place: None, User Location: Jaipur, India}
+
+{ID: 582043031580254209, Place: None, User Location: Jaipur, India}
+
+{ID: 582043749657653248, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582044142718472193, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582044310532595712, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582045154833408000, Place: None, User Location: Jaipur, India}
+
+{ID: 582045319300399104, Place: None, User Location: Jaipur, India }
+
+{ID: 582045563580895232, Place: None, User Location: Jaipur, India }
+
+{ID: 582045895513927681, Place: None, User Location: Jaipur, India }
+
+{ID: 582046311727267840, Place: None, User Location: Jaipur, India}
+
+{ID: 582047178392104961, Place: None, User Location: Jaipur, India}
+
+{ID: 582047552339464192, Place: None, User Location: Jaipur, India}
+
+{ID: 582048615897571328, Place: None, User Location: Jaipur, India}
+
+{ID: 582049403810131968, Place: None, User Location: Jaipur, India}
+
+{ID: 582050938308804608, Place: None, User Location: Jaipur, India}
+
+{ID: 582052560745295872, Place: None, User Location: Jaipur,India}
+
+{ID: 582052889054433282, Place: None, User Location: Jaipur, India}
+
+{ID: 582052969572659200, Place: None, User Location: Jaipur,India}
+
+{ID: 582052975020933122, Place: None, User Location: Jaipur, Rajasthan, India}
+
+{ID: 582052976388280321, Place: None, User Location: Jaipur,India}
+
+{ID: 582052988140724224, Place: None, User Location: Jaipur,India
+
+{ID: 582054465630445569, Place: None, User Location: Jaipur,India}
+
+{ID: 582054810955829248, Place: None, User Location: Jaipur, India}
+
+{ID: 582055763868155904, Place: None, User Location: Jaipur,India}
+
+{ID: 582055799888830464, Place: None, User Location: Jaipur,India}
+
+{ID: 582055876858552320, Place: None, User Location: Jaipur,India}
+
+{ID: 582058134992130048, Place: None, User Location: Jaipur, India}
+
+{ID: 582059464057954305, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: JAIPUR(India)}
+
+{ID: 582059500170940416, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582060293745811456, Place: None, User Location: Jaipur, India}
+
+{ID: 582062116007358464, Place: None, User Location: Jaipur,India}
+
+{ID: 582062325739352066, Place: None, User Location: Jaipur,India}
+
+{ID: 582063619543674880, Place: None, User Location: Jaipur, India}
+
+{ID: 582066239029190656, Place: None, User Location: Jaipur, Rajasthan, India}
+
+{ID: 582066847157084160, Place: None, User Location: Jaipur, India}
+
+{ID: 582067059774791681, Place: None, User Location: Jaipur, India}
+
+{ID: 582067211516268544, Place: None, User Location: Jaipur, India}
+
+{ID: 582067783539671040, Place: None, User Location: Jaipur, India}
+
+{ID: 582068599495360512, Place: None, User Location: Jaipur,India}
+
+{ID: 582069070528385024, Place: None, User Location: Jaipur, India}
+
+{ID: 582070263342219264, Place: None, User Location: Jaipur, India}
+
+{ID: 582073453223624704, Place: {u'full_name': u'Ludhiana, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/5dbd0cff60d628af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6336767, 30.5689804], [75.6336767, 31.0192096], [76.1521489, 31.0192096], [76.1521489, 30.5689804]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5dbd0cff60d628af', u'name': u'Ludhiana'}, User Location: Jaipur-Bhatinda}
+
+{ID: 582077319029788672, Place: None, User Location: Jaipur, India}
+
+{ID: 582078319098617856, Place: None, User Location: Jaipur, India}
+
+{ID: 582078658279444480, Place: None, User Location: Jaipur,India}
+
+{ID: 582079036509134849, Place: None, User Location: Jaipur, India}
+
+{ID: 582079310485319680, Place: None, User Location: Jaipur,India}
+
+{ID: 582079478605615104, Place: None, User Location: Jaipur, India}
+
+{ID: 582079494439063552, Place: None, User Location: Jaipur,India}
+
+{ID: 582079516073283584, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: *Inside my Shell*}
+
+{ID: 582079698282287104, Place: None, User Location: Jaipur,India}
+
+{ID: 582079746692907008, Place: None, User Location: Jaipur,India}
+
+{ID: 582080773374656512, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582083537311920128, Place: None, User Location: Jaipur, India}
+
+{ID: 582084120102088704, Place: None, User Location: India , Jaipur }
+
+{ID: 582084617190010880, Place: None, User Location: India , Jaipur }
+
+{ID: 582084856844132352, Place: None, User Location: JAIPUR(India)}
+
+{ID: 582085292879794176, Place: None, User Location: Jaipur, India}
+
+{ID: 582086124408946688, Place: None, User Location: Jaipur, India}
+
+{ID: 582086265132052480, Place: None, User Location: Jaipur, India}
+
+{ID: 582086717412225024, Place: None, User Location: Jaipur,Rajasthan,India}
+
+{ID: 582086783237644288, Place: None, User Location: Jaipur, India}
+
+{ID: 582086913756037120, Place: None, User Location: India,Jaipur(pinkycity)}
+
+{ID: 582086986900467712, Place: None, User Location: India,Jaipur(pinkycity)}
+
+{ID: 582087103435055104, Place: None, User Location: Jaipur, India}
+
+{ID: 582087323174621184, Place: None, User Location: India,Jaipur(pinkycity)}
+
+{ID: 582088379409420288, Place: None, User Location: Jaipur, Rajasthan, India}
+
+{ID: 582090164387758080, Place: {u'full_name': u'Amer, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/0999eb20b0e87818.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.5144564, 26.9154217], [75.5144564, 27.1369846], [75.9836188, 27.1369846], [75.9836188, 26.9154217]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0999eb20b0e87818', u'name': u'Amer'}, User Location: Jaipur}
+
+{ID: 582090552260235265, Place: None, User Location: Jaipur, India}
+
+{ID: 582095099250642944, Place: None, User Location: Jaipur, India}
+
+{ID: 582107287902261248, Place: {u'full_name': u'Jaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.4979969, 26.800561], [75.4979969, 27.0188054], [75.9970446, 27.0188054], [75.9970446, 26.800561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3f08724493b18d74', u'name': u'Jaipur'}, User Location: jaipur}
+
+{ID: 582108669183037440, Place: None, User Location: Jaipur, India}
+
+{ID: 582109458932711424, Place: None, User Location: Jaipur, India}
+
+{ID: 582109688440848384, Place: None, User Location: Jaipur, India}
+
+{ID: 582110307318771712, Place: None, User Location: Jaipur, India}
+{ID: 582028629279813632, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582028815611785216, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582029812060925952, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582029953337667584, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582030245160574976, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582030454108217344, Place: {u'full_name': u'Bikaner, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/39bcbc12c2a9eb56.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.2065164, 27.6983256], [72.2065164, 28.9031884], [73.7413761, 28.9031884], [73.7413761, 27.6983256]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'39bcbc12c2a9eb56', u'name': u'Bikaner'}, User Location: }
+
+{ID: 582030762901311488, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582030965066756096, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582031678530396160, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582031909993074688, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582036466529742848, Place: None, User Location: Ajmer, Rajasthan, India}
+
+{ID: 582036839155965953, Place: {u'full_name': u'Jodhpur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/4093957f0fab11d6.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6100969, 25.8528564], [72.6100969, 26.4943697], [73.4524747, 26.4943697], [73.4524747, 25.8528564]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4093957f0fab11d6', u'name': u'Jodhpur'}, User Location: Jodhpur}
+
+{ID: 582037280539328512, Place: {u'full_name': u'Jodhpur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/4093957f0fab11d6.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6100969, 25.8528564], [72.6100969, 26.4943697], [73.4524747, 26.4943697], [73.4524747, 25.8528564]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4093957f0fab11d6', u'name': u'Jodhpur'}, User Location: Jodhpur}
+
+{ID: 582039467139043328, Place: None, User Location: Pune/Rajasthan, India}
+
+{ID: 582039613310521344, Place: None, User Location: Pune/Rajasthan, India
+
+{ID: 582040104438345728, Place: None, User Location: Rajasthan (India)}
+
+{ID: 582040716718686208, Place: None, User Location: Bikaner, Rajasthan, India}
+
+{ID: 582042455375118336, Place: {u'full_name': u'Udaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/6440cc236ab92f2b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.5202054, 24.1750673], [73.5202054, 24.7437875], [74.1322938, 24.7437875], [74.1322938, 24.1750673]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6440cc236ab92f2b', u'name': u'Udaipur'}, User Location: Udaipur}
+
+{ID: 582042607980716032, Place: None, User Location: Ajmer, Rajasthan, India}
+
+{ID: 582044112754319361, Place: {u'full_name': u'Udaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/6440cc236ab92f2b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.5202054, 24.1750673], [73.5202054, 24.7437875], [74.1322938, 24.7437875], [74.1322938, 24.1750673]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6440cc236ab92f2b', u'name': u'Udaipur'}, User Location: Udaipur Rajasthan}
+
+{ID: 582045896419885057, Place: {u'full_name': u'Udaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/6440cc236ab92f2b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.5202054, 24.1750673], [73.5202054, 24.7437875], [74.1322938, 24.7437875], [74.1322938, 24.1750673]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6440cc236ab92f2b', u'name': u'Udaipur'}, User Location: Udaipur, Rajasthan, India }
+
+{ID: 582050961608216576, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582052750231392256, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582052822734143488, Place: {u'full_name': u'Udaipur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/6440cc236ab92f2b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.5202054, 24.1750673], [73.5202054, 24.7437875], [74.1322938, 24.7437875], [74.1322938, 24.1750673]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6440cc236ab92f2b', u'name': u'Udaipur'}, User Location: Udaipur, Rajasthan, India }
+
+{ID: 582052956167491585, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582054983287238657, Place: None, User Location: Bhiwadi, Rajasthan, India}
+
+{ID: 582063871696850944, Place: None, User Location: Ajmer, Rajasthan, India}
+
+{ID: 582064284487716864, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582066650507190273, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582066977826414592, Place: None, User Location: Jodhpur, Rajasthan, India}
+
+{ID: 582066990916874240, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582067168256212992, Place: None, User Location: Ajmer, Rajasthan, India}
+
+{ID: 582069796197531648, Place: None, User Location: Ajmer, Rajasthan, India}
+
+{ID: 582070258590056448, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582071144338976768, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582073501999198208, Place: {u'full_name': u'Raniwara, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/3b9eb8498859719d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.1956916, 24.7399842], [72.1956916, 24.7585968], [72.2176557, 24.7585968], [72.2176557, 24.7399842]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3b9eb8498859719d', u'name': u'Raniwara'}, User Location: Raniwara Rajasthan india}
+
+{ID: 582076749778853888, Place: None, User Location: Pune/Rajasthan, India}
+
+{ID: 582078290707410944, Place: None, User Location: Kota,Rajasthan(India)}
+
+{ID: 582080624640413696, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: sikar,raj.(INDIA)}
+
+{ID: 582081038781812736, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: sikar,raj.(INDIA)}
+
+{ID: 582081387521396736, Place: None, User Location: Rajasthan, India}
+
+{ID: 582083735568289792, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582085117838958592, Place: None, User Location: Barmer, Rajasthan- India }
+
+{ID: 582086880360968192, Place: None, User Location: Jalore, Rajasthan, India }
+
+{ID: 582095455611273216, Place: None, User Location: Kota,Rajasthan(India)}
+
+{ID: 582100837561810944, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582101533975650304, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582107401446248448, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582108850112720896, Place: {u'full_name': u'Rajasthan, India', u'url': u'https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[69.4843655, 23.0604641], [69.4843655, 30.1964341], [78.2707545, 30.1964341], [78.2707545, 23.0604641]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5920782e29e11cac', u'name': u'Rajasthan'}, User Location: Jaisalmer Rajasthan}
+
+{ID: 582108959558893568, Place: {u'full_name': u'Jodhpur, Rajasthan', u'url': u'https://api.twitter.com/1.1/geo/id/4093957f0fab11d6.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6100969, 25.8528564], [72.6100969, 26.4943697], [73.4524747, 26.4943697], [73.4524747, 25.8528564]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4093957f0fab11d6', u'name': u'Jodhpur'}, User Location: }
+{ID: 582036959847059458, Place: None, User Location: #Jodhpur         #ProudIndian}
+
+{ID: 582037303465418753, Place: None, User Location: #Jodhpur         #ProudIndian}
+
+{ID: 582058057678475264, Place: None, User Location: #Jodhpur         #ProudIndian}
+
+{ID: 582081675510726656, Place: None, User Location: #Jodhpur         #ProudIndian}
+
+{ID: 582081805450223617, Place: None, User Location: #Jodhpur         #ProudIndian}
+
+{ID: 582107162027032576, Place: None, User Location: #Jodhpur         #ProudIndian}
+{ID: 582062621488226304, Place: None, User Location: Udaipur, India }
+
+{ID: 582066896867962880, Place: None, User Location: Udaipur, India }
+{ID: 582044066340188160, Place: None, User Location: Ajmer, India}
+
+{ID: 582066787048693761, Place: None, User Location: Ajmer,India}
+
+{ID: 582081442320158720, Place: None, User Location: Ajmer,India}
+{ID: 582081656451833856, Place: None, User Location: Chittorgarh, India}
+{ID: 582040362966896640, Place: None, User Location: Bhiwadi (India)}
+
+{ID: 582088386975899648, Place: None, User Location: Bhiwadi (India)}
+

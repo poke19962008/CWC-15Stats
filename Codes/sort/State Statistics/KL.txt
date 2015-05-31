@@ -1,0 +1,236 @@
+{ID: 582029071510536193, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582029114250563585, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582029777122414592, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: Made In India}
+
+{ID: 582031003134234624, Place: None, User Location: Kerala, India}
+
+{ID: 582031910597054464, Place: {u'full_name': u'India', u'url': u'https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json', u'country': u'India', u'place_type': u'country', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 6.7604429], [68.1061138, 37.07827], [97.4152924, 37.07827], [97.4152924, 6.7604429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'b850c1bfd38f30e0', u'name': u'India'}, User Location: Kerala,India}
+
+{ID: 582033057957433344, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582033526456905728, Place: {u'full_name': u'Vaniyamkulam-II, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/4e0f51fd8c46bbd1.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.3196748, 10.7724218], [76.3196748, 10.7853845], [76.337559, 10.7853845], [76.337559, 10.7724218]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4e0f51fd8c46bbd1', u'name': u'Vaniyamkulam-II'}, User Location: }
+
+{ID: 582033544098131969, Place: None, User Location: Anchal,Kerala,India}
+
+{ID: 582034073889034240, Place: None, User Location: Kerala, India}
+
+{ID: 582034945910018048, Place: None, User Location: Kerala, India}
+
+{ID: 582035347728674817, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582035471875866624, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582035476896296960, Place: None, User Location: India, Kerala, trivandrum}
+
+{ID: 582036838455644161, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582040517262876672, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582040650234929153, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582040670350618624, Place: None, User Location: Kerala, India}
+
+{ID: 582041399278759937, Place: None, User Location: Pala|Kerala|India}
+
+{ID: 582041948665548800, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582042821206605824, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582043271976878080, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582043584578220032, Place: None, User Location: Anchal,Kerala,India}
+
+{ID: 582043845929504768, Place: None, User Location: Anchal,Kerala,India}
+
+{ID: 582044272645427200, Place: {u'full_name': u'Guruvayoor-Manattala-Perakam-Edakkazhiyur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/1b4eec447e11e982.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.9547616, 10.3434464], [75.9547616, 10.6958073], [76.1360577, 10.6958073], [76.1360577, 10.3434464]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b4eec447e11e982', u'name': u'Guruvayoor-Manattala-Perakam-Edakkazhiyur'}, User Location: Dubai}
+
+{ID: 582046214981599233, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582046218118774784, Place: {u'full_name': u'Kerala, India', u'url': u'https://api.twitter.com/1.1/geo/id/5d01806d080d1e50.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8605746, 8.2913039], [74.8605746, 12.7950804], [77.4126871, 12.7950804], [77.4126871, 8.2913039]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5d01806d080d1e50', u'name': u'Kerala'}, User Location: Kochi,kerala,india}
+
+{ID: 582046869502763008, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582047601429741568, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582048644658032641, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582049138688159744, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: India}
+
+{ID: 582052111116083200, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582052718505816064, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582052786247864320, Place: None, User Location: Anchal,Kerala,India}
+
+{ID: 582052795303501824, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582052980263796736, Place: None, User Location: Trivandrum,kerala,India}
+
+{ID: 582053075277377536, Place: {u'full_name': u'Kodungallur-Edavilangu, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/784664256da1f800.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.1100819, 10.1781877], [76.1100819, 10.4010147], [76.2785194, 10.4010147], [76.2785194, 10.1781877]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'784664256da1f800', u'name': u'Kodungallur-Edavilangu'}, User Location: Kerala, India}
+
+{ID: 582053351669542912, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582059881311690752, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582060253350621184, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582060546050154496, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582060941333811200, Place: None, User Location: Kerala, India}
+
+{ID: 582061712796332032, Place: None, User Location: Kerala, India}
+
+{ID: 582064677368168448, Place: {u'full_name': u'Trissur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/5db62743b5f394ba.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.0860856, 10.403334], [76.0860856, 10.6265084], [76.4804486, 10.6265084], [76.4804486, 10.403334]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5db62743b5f394ba', u'name': u'Trissur'}, User Location: }
+
+{ID: 582067291711385600, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: India}
+
+{ID: 582067467234754560, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582067477091241984, Place: {u'full_name': u'Kerala, India', u'url': u'https://api.twitter.com/1.1/geo/id/5d01806d080d1e50.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8605746, 8.2913039], [74.8605746, 12.7950804], [77.4126871, 12.7950804], [77.4126871, 8.2913039]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5d01806d080d1e50', u'name': u'Kerala'}, User Location: Charal Mount}
+
+{ID: 582067479301754880, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582067863713751040, Place: {u'full_name': u'Kerala, India', u'url': u'https://api.twitter.com/1.1/geo/id/5d01806d080d1e50.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8605746, 8.2913039], [74.8605746, 12.7950804], [77.4126871, 12.7950804], [77.4126871, 8.2913039]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5d01806d080d1e50', u'name': u'Kerala'}, User Location: Charal Mount}
+
+{ID: 582069054065778688, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582070584512761857, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582073089560821760, Place: None, User Location: India-Kerala,Trivandrum}
+
+{ID: 582074273264717824, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582074561392291840, Place: None, User Location: Kerala, India}
+
+{ID: 582074768813342720, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582075723730436096, Place: None, User Location: Kerala-Cochin-India}
+
+{ID: 582076541871374337, Place: {u'full_name': u'Kozhikode, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/546b0f5984d3f92e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.739486, 11.1243463], [75.739486, 11.5463196], [76.1446789, 11.5463196], [76.1446789, 11.1243463]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'546b0f5984d3f92e', u'name': u'Kozhikode'}, User Location: calicut}
+
+{ID: 582077080256413697, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: India}
+
+{ID: 582077705622966272, Place: {u'full_name': u'Kottayam, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/5aea3d3e01007847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.3917423, 9.4882294], [76.3917423, 9.7059603], [76.765653, 9.7059603], [76.765653, 9.4882294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5aea3d3e01007847', u'name': u'Kottayam'}, User Location: KURAVILANGAD, KOTTAYAM}
+
+{ID: 582078045139255296, Place: {u'full_name': u'Kanayannur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2312365, 9.8221529], [76.2312365, 10.0723946], [76.4706725, 10.0723946], [76.4706725, 9.8221529]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a01d1cbca786e81', u'name': u'Kanayannur'}, User Location: India}
+
+{ID: 582078891805798400, Place: None, User Location: Kerala, India : Chicago, U.S.A}
+
+{ID: 582079030922362880, Place: None, User Location: Kerala,India}
+
+{ID: 582079427808518144, Place: None, User Location: Kerala, India : Chicago, U.S.A}
+
+{ID: 582080221425364992, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582080677253754880, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: India}
+
+{ID: 582082506360508416, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582082811013681152, Place: {u'full_name': u'Kodungallur-Edavilangu, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/784664256da1f800.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.1100819, 10.1781877], [76.1100819, 10.4010147], [76.2785194, 10.4010147], [76.2785194, 10.1781877]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'784664256da1f800', u'name': u'Kodungallur-Edavilangu'}, User Location: Kerala, India}
+
+{ID: 582083109434343424, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582083353798668288, Place: {u'full_name': u'Kodungallur-Edavilangu, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/784664256da1f800.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.1100819, 10.1781877], [76.1100819, 10.4010147], [76.2785194, 10.4010147], [76.2785194, 10.1781877]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'784664256da1f800', u'name': u'Kodungallur-Edavilangu'}, User Location: Kerala, India}
+
+{ID: 582083457653731328, Place: None, User Location: Cochin, Kerala, India}
+
+{ID: 582083648037478400, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582084091601780737, Place: {u'full_name': u'Kanayannur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2312365, 9.8221529], [76.2312365, 10.0723946], [76.4706725, 10.0723946], [76.4706725, 9.8221529]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a01d1cbca786e81', u'name': u'Kanayannur'}, User Location: cochin}
+
+{ID: 582084931934765056, Place: None, User Location: Kochi,Kerala,India}
+
+{ID: 582085335129034752, Place: None, User Location: Trivandrum,kerala,India}
+
+{ID: 582085888202559489, Place: {u'full_name': u'Koovappady, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/2424cece987ad917.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.4670161, 10.1526856], [76.4670161, 10.1702334], [76.4951354, 10.1702334], [76.4951354, 10.1526856]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2424cece987ad917', u'name': u'Koovappady'}, User Location: }
+
+{ID: 582085989327228928, Place: {u'full_name': u'Kanayannur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2312365, 9.8221529], [76.2312365, 10.0723946], [76.4706725, 10.0723946], [76.4706725, 9.8221529]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a01d1cbca786e81', u'name': u'Kanayannur'}, User Location: Kannur}
+
+{ID: 582086645429760002, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582086974019739648, Place: {u'full_name': u'Kanayannur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2312365, 9.8221529], [76.2312365, 10.0723946], [76.4706725, 10.0723946], [76.4706725, 9.8221529]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a01d1cbca786e81', u'name': u'Kanayannur'}, User Location: Kannur}
+
+{ID: 582087624795418625, Place: {u'full_name': u'Kanayannur, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/7a01d1cbca786e81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2312365, 9.8221529], [76.2312365, 10.0723946], [76.4706725, 10.0723946], [76.4706725, 9.8221529]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a01d1cbca786e81', u'name': u'Kanayannur'}, User Location: Kannur}
+
+{ID: 582088440621072384, Place: None, User Location: Kerala,India}
+
+{ID: 582088757286850560, Place: None, User Location: Kochi, Kerala, India}
+
+{ID: 582092752852164608, Place: None, User Location: Kasaragod,Kerala,India}
+
+{ID: 582093503573950464, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582095843068502016, Place: None, User Location: Kerala, India}
+
+{ID: 582095914862432256, Place: {u'full_name': u'Kunhimangalam, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/4863abbc0a7bdc3f.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.224275, 12.0592691], [75.224275, 12.0929307], [75.2440884, 12.0929307], [75.2440884, 12.0592691]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4863abbc0a7bdc3f', u'name': u'Kunhimangalam'}, User Location: India}
+
+{ID: 582096003819384832, Place: None, User Location: India kerala }
+
+{ID: 582096088708042753, Place: None, User Location: Kozhikode, Kerala, India}
+
+{ID: 582096310938923008, Place: None, User Location: India kerala }
+
+{ID: 582103923839766529, Place: {u'full_name': u'Kerala, India', u'url': u'https://api.twitter.com/1.1/geo/id/5d01806d080d1e50.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8605746, 8.2913039], [74.8605746, 12.7950804], [77.4126871, 12.7950804], [77.4126871, 8.2913039]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5d01806d080d1e50', u'name': u'Kerala'}, User Location: }
+
+{ID: 582104835778035712, Place: None, User Location: Kerala, India}
+
+{ID: 582106843700338689, Place: None, User Location: Kerala, India}
+
+{ID: 582107562226651138, Place: None, User Location: Calicut, Kerala, India}
+
+{ID: 582108386570858496, Place: None, User Location: India kerala }
+
+{ID: 582109316368330754, Place: None, User Location: Kochi, Kerala, India}
+
+{ID: 582109724981628930, Place: None, User Location: Kerala State, India.}
+
+{ID: 582109961062215680, Place: {u'full_name': u'Kozhikode, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/546b0f5984d3f92e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.739486, 11.1243463], [75.739486, 11.5463196], [76.1446789, 11.5463196], [76.1446789, 11.1243463]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'546b0f5984d3f92e', u'name': u'Kozhikode'}, User Location: calicut}
+
+{ID: 582110027055427585, Place: None, User Location: India kerala }
+
+{ID: 582110469961318400, Place: {u'full_name': u'Trivandrum, Kerala', u'url': u'https://api.twitter.com/1.1/geo/id/24dab5a953e050c5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7996471, 8.3860508], [76.7996471, 8.6724215], [77.0429796, 8.6724215], [77.0429796, 8.3860508]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'24dab5a953e050c5', u'name': u'Trivandrum'}, User Location: Thrissur, God's Own Country}
+
+{ID: 582112708243406848, Place: None, User Location: Kozhikode, Kerala, India}
+{ID: 582029920747974656, Place: None, User Location: Trivandrum, India }
+
+{ID: 582036990251528192, Place: None, User Location: Trivandrum, India}
+
+{ID: 582042381337300992, Place: None, User Location: Trivandrum, India}
+
+{ID: 582045004589191168, Place: None, User Location: Trivandrum, India}
+
+{ID: 582066132619755520, Place: None, User Location: Trivandrum, India}
+
+{ID: 582066209400709120, Place: None, User Location: Trivandrum, India}
+
+{ID: 582066599429017600, Place: None, User Location: Trivandrum, India}
+
+{ID: 582109092908412928, Place: None, User Location: Trivandrum, India}
+
+{ID: 582109197405323264, Place: None, User Location: Trivandrum, India}
+{ID: 582057869878525952, Place: None, User Location: N.Paravoor,KL,India}
+
+{ID: 582059547923087360, Place: None, User Location: N.Paravoor,KL,India}
+{ID: 582077335270268928, Place: None, User Location: Kochi, India}
+
+{ID: 582081278071042048, Place: None, User Location: Kochi, India}
+
+{ID: 582081406286753793, Place: None, User Location: Kochi, India}
+
+{ID: 582084386402648064, Place: None, User Location: Kochi, India}
+
+{ID: 582084488361996289, Place: None, User Location: Kochi, India}
+
+{ID: 582091973764341760, Place: None, User Location: Kochi, India}
+{ID: 582047932821590016, Place: None, User Location: kochy , India}
+
+{ID: 582048519030079488, Place: None, User Location: kochy , India}
+
+{ID: 582081231933718528, Place: None, User Location: kochy , India}
+
+{ID: 582085736410710016, Place: None, User Location: kochy , India}
+{ID: 582064624486326272, Place: None, User Location: Calicut,India}
+
+

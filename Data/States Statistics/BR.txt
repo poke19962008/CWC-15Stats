@@ -1,0 +1,83 @@
+{ID: 582028170079039488, Place: None, User Location: patna, India}
+{ID: 582031228141879296, Place: None, User Location: patna, India}
+{ID: 582035261812400128, Place: None, User Location: patna, India}
+{ID: 582037140197920769, Place: None, User Location: patna, India}
+{ID: 582037380435062784, Place: None, User Location: patna, India}
+{ID: 582039571296202752, Place: None, User Location: patna, India}
+{ID: 582028996520497152, Place: None, User Location: Patna, India}
+{ID: 582030692961259522, Place: None, User Location: Patna, India}
+{ID: 582031122999091200, Place: None, User Location: Patna, India}
+{ID: 582031501774065665, Place: None, User Location: Patna, India}
+{ID: 582040712780337152, Place: None, User Location: Patna, India}
+{ID: 582042934117208064, Place: None, User Location: Patna, India}
+{ID: 582046307151257600, Place: None, User Location: Patna, India}
+{ID: 582050433461559296, Place: None, User Location: Patna, India}
+{ID: 582052001845915648, Place: None, User Location: Patna, India}
+{ID: 582066769415647232, Place: None, User Location: Patna, India}
+{ID: 582067636923580416, Place: None, User Location: Patna, India}
+{ID: 582067803412365313, Place: None, User Location: Patna, India}
+{ID: 582082932539412480, Place: None, User Location: Patna, India}
+{ID: 582094486542553088, Place: None, User Location: Patna, India}
+{ID: 582094800809123840, Place: None, User Location: Patna, India}
+{ID: 582095488972918784, Place: None, User Location: Patna, India}
+{ID: 582100799880196096, Place: None, User Location: Patna, India}
+{ID: 582109172394631168, Place: None, User Location: Patna, India}
+{ID: 582094128600604672, Place: None, User Location: Bangalore. India}
+{ID: 582030550296174593, Place: None, User Location: Motihari,Bihar,India}
+
+{ID: 582036054330355713, Place: None, User Location: Patna,Bihar,India}
+
+{ID: 582037285715095552, Place: None, User Location: Chhapra,Bihar,India}
+
+{ID: 582038263533195264, Place: None, User Location: Indian First, Bihari Second }
+
+{ID: 582038923280449537, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582042187577323520, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582043394265911296, Place: {u'full_name': u'Patna City Outer, Bihar', u'url': u'https://api.twitter.com/1.1/geo/id/3fc8d86eb228a23d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.1732311, 25.3913299], [85.1732311, 25.6251825], [85.4123089, 25.6251825], [85.4123089, 25.3913299]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3fc8d86eb228a23d', u'name': u'Patna City Outer'}, User Location: PATNA, INDIA}
+
+{ID: 582055819442659328, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582057433327013888, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582062954629111809, Place: None, User Location: Chhapra,Bihar,India}
+
+{ID: 582066709802029056, Place: None, User Location: Chhapra,Bihar,India}
+
+{ID: 582079658016919552, Place: None, User Location: Chhapra, Bihar, India}
+
+{ID: 582080099404541952, Place: None, User Location: Bihar , India }
+
+{ID: 582083901520158720, Place: None, User Location: Motihari,Bihar,India}
+
+{ID: 582085069948370944, Place: None, User Location: Bihar, India}
+
+{ID: 582085808833724416, Place: None, User Location: Bihar, India}
+
+{ID: 582095989860753408, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582098302654554112, Place: None, User Location: Patna, Bihar, India}
+
+{ID: 582107367699013632, Place: None, User Location: Indian First, Bihari Second }
+{ID: 582032562513580033, Place: None, User Location: Muzaffarpur, India}
+
+{ID: 582074285155434496, Place: None, User Location: Muzaffarpur, India}
+
+{ID: 582077354136076289, Place: None, User Location: Muzaffarpur, India}
+{ID: 582040544878182401, Place: None, User Location: Patna,India.}
+
+{ID: 582042182112165888, Place: None, User Location: Patna,India.}
+
+{ID: 582052118896357376, Place: None, User Location: Patna,India}
+
+{ID: 582077061948268544, Place: None, User Location: Patna,India}
+
+{ID: 582085561676009472, Place: None, User Location: Patna,India}
+
+{ID: 582086348267384832, Place: None, User Location: Patna,  India}
+
+{ID: 582086478576119808, Place: None, User Location: Patna,India}
+
+{ID: 582086980005011457, Place: None, User Location: Patna,  India}
+

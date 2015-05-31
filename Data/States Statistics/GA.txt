@@ -1,0 +1,101 @@
+{ID: 582030311552221184, Place: None, User Location: Goa,India}
+{ID: 582031645022126080, Place: None, User Location: Goa,India}
+{ID: 582037623297875969, Place: None, User Location: Goa,India}
+{ID: 582039518460575745, Place: None, User Location: Goa,India}
+{ID: 582052629695496194, Place: None, User Location: Goa,India}
+{ID: 582067261935992832, Place: None, User Location: Goa,India}
+{ID: 582095175666683904, Place: None, User Location: Goa,India}
+{ID: 582038545927434240, Place: None, User Location: Vasco Da Gama,Goa,India}
+{ID: 582066156686745600, Place: None, User Location: Vasco Da Gama,Goa,India}
+{ID: 582101628049874945, Place: None, User Location: Vasco Da Gama,Goa,India}
+{ID: 582028539836252160, Place: None, User Location: Goa, India}
+{ID: 582030194526973953, Place: None, User Location: Goa, India}
+{ID: 582032564736557056, Place: None, User Location: Goa, India}
+{ID: 582034045720113153, Place: None, User Location: Goa, India}
+{ID: 582035877993398272, Place: None, User Location: Goa, India}
+{ID: 582036292885606400, Place: None, User Location: Goa, India}
+{ID: 582036794926981121, Place: None, User Location: Goa, India}
+{ID: 582037261857886208, Place: None, User Location: Goa, India}
+{ID: 582037892064624641, Place: None, User Location: Goa, India}
+{ID: 582038920117891072, Place: None, User Location: Goa, India}
+{ID: 582039648001658880, Place: None, User Location: Goa, India}
+{ID: 582040672145842176, Place: None, User Location: Goa, India}
+{ID: 582043555830456320, Place: None, User Location: Goa, India}
+{ID: 582047225934565377, Place: None, User Location: Goa, India}
+{ID: 582055736869421056, Place: None, User Location: Goa, India}
+{ID: 582064650453303296, Place: None, User Location: Goa, India}
+{ID: 582073653518426112, Place: None, User Location: Goa, India}
+{ID: 582073653522665472, Place: None, User Location: Goa, India}
+{ID: 582073674062163968, Place: None, User Location: Goa, India}
+{ID: 582073690977767425, Place: None, User Location: Goa, India}
+{ID: 582073715396993024, Place: None, User Location: Goa, India}
+{ID: 582079196081594368, Place: None, User Location: Goa, India}
+{ID: 582081277009883137, Place: None, User Location: Goa, India}
+{ID: 582083634611417088, Place: None, User Location: Goa, India}
+{ID: 582085003284078592, Place: None, User Location: Goa, India}
+{ID: 582086422472962048, Place: None, User Location: Goa, India}
+{ID: 582086711385042944, Place: None, User Location: Goa, India}
+{ID: 582095187372957696, Place: None, User Location: Goa, India}
+{ID: 582106024892448768, Place: None, User Location: Goa, India}
+{ID: 582107392470454272, Place: None, User Location: Goa, India}
+{ID: 582108517194018816, Place: None, User Location: Goa, India}
+{ID: 582108946040688640, Place: None, User Location: Goa, India}
+{ID: 582109322609459200, Place: None, User Location: Goa, India}
+{ID: 582113130408382464, Place: None, User Location: Goa, India}
+{ID: 582029803852849152, Place: None, User Location: Goa/ Pune, India}
+
+{ID: 582030368879964160, Place: None, User Location: Goa/ Pune, India}
+
+{ID: 582035366632235008, Place: None, User Location: ♥ Goa | India ♥}
+
+{ID: 582037652553101314, Place: {u'full_name': u'Goalpara, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/62fdee989242b9cf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.6119504, 26.1369517], [90.6119504, 26.1849515], [90.6424554, 26.1849515], [90.6424554, 26.1369517]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'62fdee989242b9cf', u'name': u'Goalpara'}, User Location: Goalpara Assam India}
+
+{ID: 582037742512525313, Place: None, User Location: Goa-India}
+
+{ID: 582037998130229248, Place: {u'full_name': u'Ponda, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/5a48fa649ca2da0c.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.9753179, 15.3756401], [73.9753179, 15.4242352], [74.0352941, 15.4242352], [74.0352941, 15.3756401]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5a48fa649ca2da0c', u'name': u'Ponda'}, User Location: Goa, India}
+
+{ID: 582042675446075392, Place: None, User Location: ♚ Goa, India}
+
+{ID: 582052334055727104, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582053355259756544, Place: {u'full_name': u'Bardes, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/56f5c20f1acb9473.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7289743, 15.4902517], [73.7289743, 15.6841696], [73.9066671, 15.6841696], [73.9066671, 15.4902517]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'56f5c20f1acb9473', u'name': u'Bardes'}, User Location: Kankavli}
+
+{ID: 582055722415833088, Place: None, User Location: Goa, India.}
+
+{ID: 582066516281036800, Place: None, User Location: Kundaim-Goa India}
+
+{ID: 582067550021775360, Place: None, User Location: Kundaim-Goa India}
+
+{ID: 582067578845065216, Place: {u'full_name': u'Marmagao, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/2995b5a9d0658e0b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7829601, 15.3222937], [73.7829601, 15.4161978], [73.9579574, 15.4161978], [73.9579574, 15.3222937]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2995b5a9d0658e0b', u'name': u'Marmagao'}, User Location: Goa , India}
+
+{ID: 582068674887950336, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582073117071138816, Place: {u'full_name': u'Goa, India', u'url': u'https://api.twitter.com/1.1/geo/id/789617d5021ec20c.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.6757345, 14.7520281], [73.6757345, 15.7995893], [74.3356021, 15.7995893], [74.3356021, 14.7520281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'789617d5021ec20c', u'name': u'Goa'}, User Location: Goa, India}
+
+{ID: 582078902413082624, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582079272367435776, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: Goa }
+
+{ID: 582079818914627584, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582079978344304640, Place: None, User Location: Goa India}
+
+{ID: 582081532153610240, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: Goa }
+
+{ID: 582081708406652929, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: }
+
+{ID: 582082476983459840, Place: None, User Location: Goa India}
+
+{ID: 582086398510903296, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582087627806887936, Place: None, User Location: Goa - India}
+
+{ID: 582107321708326912, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: Goa }
+
+{ID: 582107763439882240, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: Goa }
+
+{ID: 582108408884531200, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: Goa }
+
+{ID: 582110229799653376, Place: {u'full_name': u'Panaji, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/639177026c069435.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7856479, 15.4074509], [73.7856479, 15.565275], [73.9611189, 15.565275], [73.9611189, 15.4074509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'639177026c069435', u'name': u'Panaji'}, User Location: Goa}
+
+{ID: 582110516736208896, Place: None, User Location: Goa India}

@@ -1,0 +1,276 @@
+{ID: 582028530218717184, Place: {u'full_name': u'Ludhiana, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/5dbd0cff60d628af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6336767, 30.5689804], [75.6336767, 31.0192096], [76.1521489, 31.0192096], [76.1521489, 30.5689804]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5dbd0cff60d628af', u'name': u'Ludhiana'}, User Location: punjab }
+
+{ID: 582029513032232960, Place: {u'full_name': u'Mohali, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/175ac8b36fb626a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.5154544, 30.5690943], [76.5154544, 30.9389658], [76.860158, 30.9389658], [76.860158, 30.5690943]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'175ac8b36fb626a2', u'name': u'Mohali'}, User Location: Chandigarh,India}
+
+{ID: 582030566431834113, Place: None, User Location: Ferozepur,Punjab (India)}
+
+{ID: 582030577768882177, Place: None, User Location: Punjab, India}
+
+{ID: 582030752444862464, Place: None, User Location: ludhiana | Punjab | India}
+
+{ID: 582031116661452802, Place: None, User Location: Anandpur, Sahib, Punjab,India}
+
+{ID: 582031289894641664, Place: None, User Location: Anandpur, Sahib, Punjab,India}
+
+{ID: 582031308613881856, Place: None, User Location: Ferozepur,Punjab (India)}
+
+{ID: 582034840544935936, Place: {u'full_name': u'Mohali, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/175ac8b36fb626a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.5154544, 30.5690943], [76.5154544, 30.9389658], [76.860158, 30.9389658], [76.860158, 30.5690943]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'175ac8b36fb626a2', u'name': u'Mohali'}, User Location: Chandigarh,India}
+
+{ID: 582035921542868992, Place: {u'full_name': u'Kharar, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/3440471a9b084da4.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.6287517, 30.7268849], [76.6287517, 30.7616663], [76.6747483, 30.7616663], [76.6747483, 30.7268849]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3440471a9b084da4', u'name': u'Kharar'}, User Location: Chandigarh }
+
+{ID: 582036113654620160, Place: None, User Location: punjab,India}
+
+{ID: 582036414751064064, Place: None, User Location: Anandpur, Sahib, Punjab,India}
+
+{ID: 582036448322285568, Place: {u'full_name': u'Doraha, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/7023902f25daf6cd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.0242085, 30.6628986], [76.0242085, 30.8067447], [76.3199693, 30.8067447], [76.3199693, 30.6628986]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7023902f25daf6cd', u'name': u'Doraha'}, User Location: Ludhiana}
+
+{ID: 582036453468737536, Place: None, User Location: punjab,India}
+
+{ID: 582036773464735744, Place: None, User Location: punjab,India}
+
+{ID: 582036972971036673, Place: None, User Location: punjab,India}
+
+{ID: 582037177854361600, Place: None, User Location: Punjab,India}
+
+{ID: 582037340824084481, Place: None, User Location: punjab,India}
+
+{ID: 582037611461627904, Place: None, User Location: Punjab, India}
+
+{ID: 582037860787691520, Place: None, User Location: Punjab,India}
+
+{ID: 582038618845364225, Place: None, User Location: Punjab, India}
+
+{ID: 582038941076828160, Place: None, User Location: Jalandhar, Punjab, India}
+
+{ID: 582039501935005697, Place: None, User Location: Jalandhar, Punjab, India}
+
+{ID: 582040743608369153, Place: None, User Location: Punjab, India.}
+
+{ID: 582040943794229248, Place: None, User Location: Punjab, India}
+
+{ID: 582041070843789312, Place: None, User Location: Anandpur, Sahib, Punjab,India}
+
+{ID: 582041405633077248, Place: {u'full_name': u'Amritsar, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/19a220c0b1bad13d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.6967112, 31.4830592], [74.6967112, 31.846036], [75.4048958, 31.846036], [75.4048958, 31.4830592]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'19a220c0b1bad13d', u'name': u'Amritsar'}, User Location: Amritsar, Punjab}
+
+{ID: 582041685061820416, Place: {u'full_name': u'Mohali, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/175ac8b36fb626a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.5154544, 30.5690943], [76.5154544, 30.9389658], [76.860158, 30.9389658], [76.860158, 30.5690943]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'175ac8b36fb626a2', u'name': u'Mohali'}, User Location: Nepal/India}
+
+{ID: 582042160758800384, Place: None, User Location: Batala, Punjab. India}
+
+{ID: 582042451130462208, Place: None, User Location: Bathinda, Punjab, India}
+
+{ID: 582043430555004928, Place: None, User Location: Punjab,India}
+
+{ID: 582045751502499840, Place: None, User Location: Punjab (India)}
+
+{ID: 582046020520968192, Place: None, User Location: Punjab, India.}
+
+{ID: 582046201295417344, Place: None, User Location: Punjab, India.}
+
+{ID: 582047151984803840, Place: None, User Location: Dasuya,Hoshiarpur,Punjab;India}
+
+{ID: 582047913099956224, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582047918565126144, Place: None, User Location: Punjab, India.}
+
+{ID: 582049748783210496, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582049819029458944, Place: None, User Location: Ludhiana, Punjab, India}
+
+{ID: 582053453389680640, Place: {u'full_name': u'Ludhiana, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/5dbd0cff60d628af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6336767, 30.5689804], [75.6336767, 31.0192096], [76.1521489, 31.0192096], [76.1521489, 30.5689804]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5dbd0cff60d628af', u'name': u'Ludhiana'}, User Location: Ludhiana, Punjab}
+
+{ID: 582054397267480576, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582055751092342785, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582057215839862784, Place: None, User Location: Punjab, India}
+
+{ID: 582057298425610240, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582057426981015552, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582058023083864065, Place: {u'full_name': u'Banga, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/3e6d32219429b6dd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.9847651, 31.1766232], [75.9847651, 31.193309], [76.0109677, 31.193309], [76.0109677, 31.1766232]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3e6d32219429b6dd', u'name': u'Banga'}, User Location: }
+
+{ID: 582059071035043840, Place: None, User Location: Punjab, India}
+
+{ID: 582063430640672768, Place: {u'full_name': u'Ludhiana, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/5dbd0cff60d628af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6336767, 30.5689804], [75.6336767, 31.0192096], [76.1521489, 31.0192096], [76.1521489, 30.5689804]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5dbd0cff60d628af', u'name': u'Ludhiana'}, User Location: }
+
+{ID: 582066889880248320, Place: None, User Location: Ludhiana,Punjab,India}
+
+{ID: 582067580732456960, Place: None, User Location: Punjab, India}
+
+{ID: 582070300918964224, Place: None, User Location: Punjab, India.}
+
+{ID: 582070884250185729, Place: {u'full_name': u'Mohali, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/175ac8b36fb626a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.5154544, 30.5690943], [76.5154544, 30.9389658], [76.860158, 30.9389658], [76.860158, 30.5690943]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'175ac8b36fb626a2', u'name': u'Mohali'}, User Location: India}
+
+{ID: 582073677740556288, Place: None, User Location: Anandpur, Sahib, Punjab,India}
+
+{ID: 582074555612590080, Place: None, User Location: Punjab, India.}
+
+{ID: 582074932986675200, Place: None, User Location: Ludhiana, Punjab, India}
+
+{ID: 582076192330674177, Place: None, User Location: Dasuya,Hoshiarpur,Punjab;India}
+
+{ID: 582076804896153601, Place: None, User Location: Punjab,India}
+
+{ID: 582084803727470593, Place: None, User Location: Ludhiana, Punjab, India}
+
+{ID: 582086070013071361, Place: None, User Location: Punjab (India)}
+
+{ID: 582086384065724416, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582087607762296832, Place: None, User Location: Dasuya,Hoshiarpur,Punjab;India}
+
+{ID: 582090172637949952, Place: None, User Location: Punjab, India.}
+
+{ID: 582096363162198016, Place: None, User Location: Patiala, Punjab, India}
+
+{ID: 582096459572645888, Place: None, User Location: Zirakpur (Punjab), India}
+
+{ID: 582099029992960000, Place: None, User Location: punjab,India}
+
+{ID: 582105574315200512, Place: None, User Location: Punjab, India}
+
+{ID: 582107550801387520, Place: None, User Location: Punjab, India}
+
+{ID: 582107739997872129, Place: None, User Location: Punjab, India.}
+
+{ID: 582107803768254464, Place: None, User Location: Punjab, India}
+
+{ID: 582108395261415424, Place: None, User Location: Dasuya,Hoshiarpur,Punjab;India}
+
+{ID: 582108481911586816, Place: None, User Location: Punjab, India}
+
+{ID: 582108522302722048, Place: None, User Location: Punjab, India.}
+
+{ID: 582108601935757312, Place: None, User Location: Punjab, India.}
+
+{ID: 582109514750660608, Place: None, User Location: Punjab, India}
+
+{ID: 582109664915009536, Place: {u'full_name': u'Kot Kapura, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/7f77b3a0ee46bbf5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8007079, 30.565467], [74.8007079, 30.6032443], [74.8509522, 30.6032443], [74.8509522, 30.565467]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7f77b3a0ee46bbf5', u'name': u'Kot Kapura'}, User Location: }
+
+{ID: 582109761719537664, Place: None, User Location: Punjab, India }
+
+{ID: 582109773610364928, Place: {u'full_name': u'Kot Kapura, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/7f77b3a0ee46bbf5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.8007079, 30.565467], [74.8007079, 30.6032443], [74.8509522, 30.6032443], [74.8509522, 30.565467]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7f77b3a0ee46bbf5', u'name': u'Kot Kapura'}, User Location: }
+
+{ID: 582109778043797504, Place: None, User Location: Punjab, India}
+
+{ID: 582110320904171520, Place: None, User Location: Punjab, India.}
+
+{ID: 582110407755628544, Place: None, User Location: Punjab, India.}
+
+{ID: 582110529818263553, Place: {u'full_name': u'Mohali, Punjab', u'url': u'https://api.twitter.com/1.1/geo/id/175ac8b36fb626a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.5154544, 30.5690943], [76.5154544, 30.9389658], [76.860158, 30.9389658], [76.860158, 30.5690943]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'175ac8b36fb626a2', u'name': u'Mohali'}, User Location: Chandigarh,India}
+{ID: 582039134602047490, Place: None, User Location: PB, India}
+{ID: 582035696593965056, Place: None, User Location: jharkhand,India}
+
+{ID: 582037047092719616, Place: None, User Location: Dhanbad,Jharkhand,India}
+
+{ID: 582037663521185792, Place: {u'full_name': u'Ranchi, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/042b5e87acf40437.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.8693226, 23.0058297], [84.8693226, 23.7150386], [85.9019883, 23.7150386], [85.9019883, 23.0058297]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'042b5e87acf40437', u'name': u'Ranchi'}, User Location: }
+
+{ID: 582037742063779840, Place: None, User Location: jharkhand,India}
+
+{ID: 582043048617451520, Place: {u'full_name': u'Hazaribag, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/514536feb9849bc2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.0180727, 23.4207255], [85.0180727, 24.3648428], [85.9344068, 24.3648428], [85.9344068, 23.4207255]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'514536feb9849bc2', u'name': u'Hazaribag'}, User Location: Ranchi, India}
+
+{ID: 582047156397162496, Place: None, User Location: Dhanbad,Jharkhand,India}
+
+{ID: 582047202752606209, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582047246553882624, Place: None, User Location: jharkhand,India}
+
+{ID: 582053014690766848, Place: None, User Location: jharkhand,India}
+
+{ID: 582059664881258496, Place: None, User Location: Hazaribag Jharkhand,India }
+
+{ID: 582065433139933185, Place: {u'full_name': u'Dhanbad, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/4548b61a3dcb2e76.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.2900996, 23.6295029], [86.2900996, 24.0596029], [86.8253239, 24.0596029], [86.8253239, 23.6295029]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4548b61a3dcb2e76', u'name': u'Dhanbad'}, User Location: Dhanbad, India}
+
+{ID: 582066024935100416, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582066597684113409, Place: None, User Location: Katras,Dhanbad,Jharkhand,India}
+
+{ID: 582076518517493760, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582076759975178240, Place: None, User Location: Dhanbad,Jharkhand,India}
+
+{ID: 582077724002361344, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582079087201546241, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582079494137118720, Place: None, User Location: Ranchi Jharkhand India}
+
+{ID: 582079581068210177, Place: None, User Location: Ranchi Jharkhand India}
+
+{ID: 582080463780454400, Place: None, User Location: Dhanbad, Jharkhand,India}
+
+{ID: 582080551105916929, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582081174949928961, Place: None, User Location: Dhanbad,Jharkhand,India}
+
+{ID: 582081434455707648, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582082098250551296, Place: None, User Location: Ranchi,Jharkhand,India}
+
+{ID: 582082357378695168, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582082660173918209, Place: {u'full_name': u'Ranchi, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/042b5e87acf40437.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.8693226, 23.0058297], [84.8693226, 23.7150386], [85.9019883, 23.7150386], [85.9019883, 23.0058297]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'042b5e87acf40437', u'name': u'Ranchi'}, User Location: Ranchi, India}
+
+{ID: 582082863878705152, Place: {u'full_name': u'Ranchi, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/042b5e87acf40437.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.8693226, 23.0058297], [84.8693226, 23.7150386], [85.9019883, 23.7150386], [85.9019883, 23.0058297]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'042b5e87acf40437', u'name': u'Ranchi'}, User Location: }
+
+{ID: 582082895847632896, Place: None, User Location: Nagaland & Jharkhand, India}
+
+{ID: 582084433114722304, Place: {u'full_name': u'Dhanbad, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/4548b61a3dcb2e76.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.2900996, 23.6295029], [86.2900996, 24.0596029], [86.8253239, 24.0596029], [86.8253239, 23.6295029]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4548b61a3dcb2e76', u'name': u'Dhanbad'}, User Location: Dhanbad, India}
+
+{ID: 582084796769116160, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Ranchi, Jharkhand}
+
+{ID: 582085728294674432, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Ranchi, Jharkhand}
+
+{ID: 582086177345257472, Place: None, User Location:  Ranchi  - Jharkhand - India }
+
+{ID: 582095461269438465, Place: None, User Location: Jharkhand India.✌}
+{ID: 582047101875433472, Place: None, User Location: Ludhiana,India}
+
+{ID: 582047144326004737, Place: None, User Location: Ludhiana,India}
+
+{ID: 582047251368783873, Place: None, User Location: Ludhiana,India}
+
+{ID: 582047285762076674, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052435469840384, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052467010981889, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052516327604225, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052543250894849, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052562800508929, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052626889457665, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052654261530625, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052681159585792, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052933509885952, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052979139723264, Place: None, User Location: Ludhiana,India}
+
+{ID: 582052994402758656, Place: None, User Location: Ludhiana,India}
+
+{ID: 582069035606540289, Place: None, User Location: Ludhiana, India}
+
+{ID: 582073657104605184, Place: None, User Location: Ludhiana,India}
+
+{ID: 582075230480281601, Place: None, User Location: Ludhiana,India}
+
+{ID: 582095849313841152, Place: None, User Location: Ludhiana, India}
+
+{ID: 582099027472171008, Place: None, User Location: Ludhiana,India}
+
+{ID: 582108282350759936, Place: None, User Location: Ludhiana,India}
+{ID: 582038435034107905, Place: None, User Location: Patiala,India}
+
+{ID: 582041633664819200, Place: None, User Location: Patiala , India.}
+
+{ID: 582079509966393344, Place: None, User Location: Patiala,India}
+{ID: 582030215523618816, Place: None, User Location: Jalandhar,India }
+
+{ID: 582081495428268033, Place: None, User Location: Jalandhar, India}

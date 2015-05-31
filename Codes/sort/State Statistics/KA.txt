@@ -1,0 +1,994 @@
+{ID: 582028389965398016, Place: None, User Location: Bangalore, India}
+{ID: 582028535100887040, Place: None, User Location: Bangalore, India}
+{ID: 582028626335416320, Place: None, User Location: Bangalore, India}
+{ID: 582028843004788737, Place: None, User Location: Bangalore, India}
+{ID: 582028882754150401, Place: None, User Location: Bangalore, India}
+{ID: 582028981689454592, Place: None, User Location: Bangalore, India}
+{ID: 582029178368696322, Place: None, User Location: Bangalore, India}
+{ID: 582029262913294336, Place: None, User Location: Bangalore, India}
+{ID: 582030614603268096, Place: None, User Location: Bangalore, India}
+{ID: 582030677933056001, Place: None, User Location: Bangalore, India}
+{ID: 582030704751435776, Place: None, User Location: Bangalore, India}
+{ID: 582031120285347840, Place: None, User Location: Bangalore, India}
+{ID: 582031195455668224, Place: None, User Location: Bangalore, India}
+{ID: 582031305078018048, Place: None, User Location: Bangalore, India}
+{ID: 582031322031353856, Place: None, User Location: Bangalore, India}
+{ID: 582031369695424512, Place: None, User Location: Bangalore, India}
+{ID: 582031389744238592, Place: None, User Location: Bangalore, India}
+{ID: 582031537127833600, Place: None, User Location: Bangalore, India}
+{ID: 582031544765689856, Place: None, User Location: Bangalore, India}
+{ID: 582031638290243584, Place: None, User Location: Bangalore, India}
+{ID: 582031638294499328, Place: None, User Location: Bangalore, India}
+{ID: 582031925931429888, Place: None, User Location: Bangalore, India}
+{ID: 582031981308821504, Place: None, User Location: Bangalore, India}
+{ID: 582032005799415808, Place: None, User Location: Bangalore, India}
+{ID: 582032140004560896, Place: None, User Location: Bangalore, India}
+{ID: 582032162502774784, Place: None, User Location: Bangalore, India}
+{ID: 582032166617378818, Place: None, User Location: Bangalore, India}
+{ID: 582032556977037312, Place: None, User Location: Bangalore, India}
+{ID: 582032585200553984, Place: None, User Location: Bangalore, India}
+{ID: 582032970812260352, Place: None, User Location: Bangalore, India}
+{ID: 582033538792329216, Place: None, User Location: Bangalore, India}
+{ID: 582033557473771520, Place: None, User Location: Bangalore, India}
+{ID: 582034874732675072, Place: None, User Location: Bangalore, India}
+{ID: 582035016303009793, Place: None, User Location: Bangalore, India}
+{ID: 582035146607448064, Place: None, User Location: Bangalore, India}
+{ID: 582035386928537600, Place: None, User Location: Bangalore, India}
+{ID: 582035435196563456, Place: None, User Location: Bangalore, India}
+{ID: 582035481757491200, Place: None, User Location: Bangalore, India}
+{ID: 582035584463478785, Place: None, User Location: Bangalore, India}
+{ID: 582035781419548673, Place: None, User Location: Bangalore, India}
+{ID: 582036097221316608, Place: None, User Location: Bangalore, India}
+{ID: 582036335432593409, Place: None, User Location: Bangalore, India}
+{ID: 582036452617261056, Place: None, User Location: Bangalore, India}
+{ID: 582036645957922816, Place: None, User Location: Bangalore, India}
+{ID: 582037085646774272, Place: None, User Location: Bangalore, India}
+{ID: 582037104584065026, Place: None, User Location: Bangalore, India}
+{ID: 582037220107771904, Place: None, User Location: Bangalore, India}
+{ID: 582037325917470721, Place: None, User Location: Bangalore, India}
+{ID: 582037328752820224, Place: None, User Location: Bangalore, India}
+{ID: 582037342959071232, Place: None, User Location: Bangalore, India}
+{ID: 582037381810761728, Place: None, User Location: Bangalore, India}
+{ID: 582037463234785281, Place: None, User Location: Bangalore, India}
+{ID: 582037621745954817, Place: None, User Location: Bangalore, India}
+{ID: 582037666931179520, Place: None, User Location: Bangalore, India}
+{ID: 582037891724939264, Place: None, User Location: Bangalore, India}
+{ID: 582037915867316224, Place: None, User Location: Bangalore, India}
+{ID: 582037948146655232, Place: None, User Location: Bangalore, India}
+{ID: 582038011434569729, Place: None, User Location: Bangalore, India}
+{ID: 582038119517581312, Place: None, User Location: Bangalore, India}
+{ID: 582038538780172288, Place: None, User Location: Bangalore, India}
+{ID: 582038609236140032, Place: None, User Location: Bangalore, India}
+{ID: 582038679536869378, Place: None, User Location: Bangalore, India}
+{ID: 582039067568680960, Place: None, User Location: Bangalore, India}
+{ID: 582039553646587904, Place: None, User Location: Bangalore, India}
+{ID: 582040201737805824, Place: None, User Location: Bangalore, India}
+{ID: 582040213960073216, Place: None, User Location: Bangalore, India}
+{ID: 582040251150946305, Place: None, User Location: Bangalore, India}
+{ID: 582040744342384640, Place: None, User Location: Bangalore, India}
+{ID: 582040800571236353, Place: None, User Location: Bangalore, India}
+{ID: 582041519923732481, Place: None, User Location: Bangalore, India}
+{ID: 582041731731824640, Place: None, User Location: Bangalore, India}
+{ID: 582041807850106880, Place: None, User Location: Bangalore, India}
+{ID: 582041827743653888, Place: None, User Location: Bangalore, India}
+{ID: 582042206606753792, Place: None, User Location: Bangalore, India}
+{ID: 582042227641225216, Place: None, User Location: Bangalore, India}
+{ID: 582042608421117953, Place: None, User Location: Bangalore, India}
+{ID: 582042855100661760, Place: None, User Location: Bangalore, India}
+{ID: 582043254335520768, Place: None, User Location: Bangalore, India}
+{ID: 582043542198972416, Place: None, User Location: Bangalore, India}
+{ID: 582044035688206336, Place: None, User Location: Bangalore, India}
+{ID: 582044041367293952, Place: None, User Location: Bangalore, India}
+{ID: 582044522625937408, Place: None, User Location: Bangalore, India}
+{ID: 582044997643452416, Place: None, User Location: Bangalore, India}
+{ID: 582045247452008448, Place: None, User Location: Bangalore, India}
+{ID: 582045338283835392, Place: None, User Location: Bangalore, India}
+{ID: 582045933040349184, Place: None, User Location: Bangalore, India}
+{ID: 582046240088571904, Place: None, User Location: Bangalore, India}
+{ID: 582046388424347648, Place: None, User Location: Bangalore, India}
+{ID: 582046424210124800, Place: None, User Location: Bangalore, India}
+{ID: 582046479985987584, Place: None, User Location: Bangalore, India}
+{ID: 582046750761824256, Place: None, User Location: Bangalore, India}
+{ID: 582047599110189056, Place: None, User Location: Bangalore, India}
+{ID: 582047665984176128, Place: None, User Location: Bangalore, India}
+{ID: 582047724884738048, Place: None, User Location: Bangalore, India}
+{ID: 582048466987184128, Place: None, User Location: Bangalore, India}
+{ID: 582048855006392320, Place: None, User Location: Bangalore, India}
+{ID: 582049423791812610, Place: None, User Location: Bangalore, India}
+{ID: 582049610216017921, Place: None, User Location: Bangalore, India}
+{ID: 582050971259277313, Place: None, User Location: Bangalore, India}
+{ID: 582051027064500225, Place: None, User Location: Bangalore, India}
+{ID: 582052020766408704, Place: None, User Location: Bangalore, India}
+{ID: 582052257723650049, Place: None, User Location: Bangalore, India}
+{ID: 582052621122297856, Place: None, User Location: Bangalore, India}
+{ID: 582052825015844864, Place: None, User Location: Bangalore, India}
+{ID: 582053144600834048, Place: None, User Location: Bangalore, India}
+{ID: 582053152150532096, Place: None, User Location: Bangalore, India}
+{ID: 582053490077253632, Place: None, User Location: Bangalore, India}
+{ID: 582054305424744448, Place: None, User Location: Bangalore, India}
+{ID: 582054470005051392, Place: None, User Location: Bangalore, India}
+{ID: 582054836583055360, Place: None, User Location: Bangalore, India}
+{ID: 582055358887137282, Place: None, User Location: Bangalore, India}
+{ID: 582055383499329536, Place: None, User Location: Bangalore, India}
+{ID: 582055402746966016, Place: None, User Location: Bangalore, India}
+{ID: 582055809422483457, Place: None, User Location: Bangalore, India}
+{ID: 582055829072838657, Place: None, User Location: Bangalore, India}
+{ID: 582057404344336385, Place: None, User Location: Bangalore, India}
+{ID: 582057422581170177, Place: None, User Location: Bangalore, India}
+{ID: 582057449684791296, Place: None, User Location: Bangalore, India}
+{ID: 582058093573353472, Place: None, User Location: Bangalore, India}
+{ID: 582059845022412801, Place: None, User Location: Bangalore, India}
+{ID: 582061445942112256, Place: None, User Location: Bangalore, India}
+{ID: 582064292603670528, Place: None, User Location: Bangalore, India}
+{ID: 582064626906497025, Place: None, User Location: Bangalore, India}
+{ID: 582065423430000640, Place: None, User Location: Bangalore, India}
+{ID: 582065456103583744, Place: None, User Location: Bangalore, India}
+{ID: 582066221740269568, Place: None, User Location: Bangalore, India}
+{ID: 582066741397721088, Place: None, User Location: Bangalore, India}
+{ID: 582066771634442241, Place: None, User Location: Bangalore, India}
+{ID: 582066942430691328, Place: None, User Location: Bangalore, India}
+{ID: 582067827441426432, Place: None, User Location: Bangalore, India}
+{ID: 582067833795788800, Place: None, User Location: Bangalore, India}
+{ID: 582068532667547648, Place: None, User Location: Bangalore, India}
+{ID: 582069796734259200, Place: None, User Location: Bangalore, India}
+{ID: 582070537536442368, Place: None, User Location: Bangalore, India}
+{ID: 582070893767102464, Place: None, User Location: Bangalore, India}
+{ID: 582071160772255744, Place: None, User Location: Bangalore, India}
+{ID: 582071391589048320, Place: None, User Location: Bangalore, India}
+{ID: 582072023704154112, Place: None, User Location: Bangalore, India}
+{ID: 582072838976237568, Place: None, User Location: Bangalore, India}
+{ID: 582073227402342400, Place: None, User Location: Bangalore, India}
+{ID: 582073300370620417, Place: None, User Location: Bangalore, India}
+{ID: 582073936332066816, Place: None, User Location: Bangalore, India}
+{ID: 582074279581224960, Place: None, User Location: Bangalore, India}
+{ID: 582074549333721088, Place: None, User Location: Bangalore, India}
+{ID: 582074568459698176, Place: None, User Location: Bangalore, India}
+{ID: 582075725018071041, Place: None, User Location: Bangalore, India}
+{ID: 582075728209932288, Place: None, User Location: Bangalore, India}
+{ID: 582075958703693824, Place: None, User Location: Bangalore, India}
+{ID: 582076550457270272, Place: None, User Location: Bangalore, India}
+{ID: 582077066771767296, Place: None, User Location: Bangalore, India}
+{ID: 582077706667364352, Place: None, User Location: Bangalore, India}
+{ID: 582079038274945024, Place: None, User Location: Bangalore, India}
+{ID: 582079625905319937, Place: None, User Location: Bangalore, India}
+{ID: 582079687104462848, Place: None, User Location: Bangalore, India}
+{ID: 582080144354873344, Place: None, User Location: Bangalore, India}
+{ID: 582080283911946240, Place: None, User Location: Bangalore, India}
+{ID: 582080700230172672, Place: None, User Location: Bangalore, India}
+{ID: 582080755339116544, Place: None, User Location: Bangalore, India}
+{ID: 582080801078046720, Place: None, User Location: Bangalore, India}
+{ID: 582081085279854592, Place: None, User Location: Bangalore, India}
+{ID: 582081878603137024, Place: None, User Location: Bangalore, India}
+{ID: 582082509023748096, Place: None, User Location: Bangalore, India}
+{ID: 582082843834068992, Place: None, User Location: Bangalore, India}
+{ID: 582083461000761344, Place: None, User Location: Bangalore, India}
+{ID: 582083502847311872, Place: None, User Location: Bangalore, India}
+{ID: 582083737078267904, Place: None, User Location: Bangalore, India}
+{ID: 582084019967275008, Place: None, User Location: Bangalore, India}
+{ID: 582084818034262016, Place: None, User Location: Bangalore, India}
+{ID: 582085275272122368, Place: None, User Location: Bangalore, India}
+{ID: 582085282066874368, Place: None, User Location: Bangalore, India}
+{ID: 582085948617322496, Place: None, User Location: Bangalore, India}
+{ID: 582086001360670720, Place: None, User Location: Bangalore, India}
+{ID: 582086053223223296, Place: None, User Location: Bangalore, India}
+{ID: 582086378315350016, Place: None, User Location: Bangalore, India}
+{ID: 582086550126661633, Place: None, User Location: Bangalore, India}
+{ID: 582086855270625280, Place: None, User Location: Bangalore, India}
+{ID: 582086860249243648, Place: None, User Location: Bangalore, India}
+{ID: 582086952582705152, Place: None, User Location: Bangalore, India}
+{ID: 582086970274234369, Place: None, User Location: Bangalore, India}
+{ID: 582086985801551873, Place: None, User Location: Bangalore, India}
+{ID: 582086994886467584, Place: None, User Location: Bangalore, India}
+{ID: 582087015493083136, Place: None, User Location: Bangalore, India}
+{ID: 582087105842528256, Place: None, User Location: Bangalore, India}
+{ID: 582088415522353152, Place: None, User Location: Bangalore, India}
+{ID: 582092690059182081, Place: None, User Location: Bangalore, India}
+{ID: 582092711353716736, Place: None, User Location: Bangalore, India}
+{ID: 582093701570301952, Place: None, User Location: Bangalore, India}
+{ID: 582094121726132224, Place: None, User Location: Bangalore, India}
+{ID: 582095545109348352, Place: None, User Location: Bangalore, India}
+{ID: 582095842422571008, Place: None, User Location: Bangalore, India}
+{ID: 582096324884983808, Place: None, User Location: Bangalore, India}
+{ID: 582096432590512128, Place: None, User Location: Bangalore, India}
+{ID: 582096449669746688, Place: None, User Location: Bangalore, India}
+{ID: 582096451804753920, Place: None, User Location: Bangalore, India}
+{ID: 582101543039582208, Place: None, User Location: Bangalore, India}
+{ID: 582103437917093888, Place: None, User Location: Bangalore, India}
+{ID: 582103918827569152, Place: None, User Location: Bangalore, India}
+{ID: 582104892019339264, Place: None, User Location: Bangalore, India}
+{ID: 582106025450307584, Place: None, User Location: Bangalore, India}
+{ID: 582106443752452096, Place: None, User Location: Bangalore, India}
+{ID: 582106837354295296, Place: None, User Location: Bangalore, India}
+{ID: 582107255014739968, Place: None, User Location: Bangalore, India}
+{ID: 582107373600264192, Place: None, User Location: Bangalore, India}
+{ID: 582107460120420352, Place: None, User Location: Bangalore, India}
+{ID: 582107664206802944, Place: None, User Location: Bangalore, India}
+{ID: 582108141438918656, Place: None, User Location: Bangalore, India}
+{ID: 582108265175080960, Place: None, User Location: Bangalore, India}
+{ID: 582108296124874752, Place: None, User Location: Bangalore, India}
+{ID: 582108340584460288, Place: None, User Location: Bangalore, India}
+{ID: 582108356212486144, Place: None, User Location: Bangalore, India}
+{ID: 582108407714312192, Place: None, User Location: Bangalore, India}
+{ID: 582108700061671424, Place: None, User Location: Bangalore, India}
+{ID: 582109517657161728, Place: None, User Location: Bangalore, India}
+{ID: 582109607339782144, Place: None, User Location: Bangalore, India}
+{ID: 582109742312529920, Place: None, User Location: Bangalore, India}
+{ID: 582110097939152896, Place: None, User Location: Bangalore, India}
+{ID: 582110483655700480, Place: None, User Location: Bangalore, India}
+{ID: 582110514836209664, Place: None, User Location: Bangalore, India}
+{ID: 582110780255956992, Place: None, User Location: Bangalore, India}
+{ID: 582112749024493568, Place: None, User Location: Bangalore, India}
+{ID: 582113056546664448, Place: None, User Location: Bangalore, India}
+{ID: 582028385964048385, Place: None, User Location: Bengaluru, India }
+{ID: 582029334552002561, Place: None, User Location: Bengaluru, India }
+{ID: 582037225858199553, Place: None, User Location: Bengaluru, India }
+{ID: 582037384012947457, Place: None, User Location: Bengaluru, India }
+{ID: 582037914890174464, Place: None, User Location: Bengaluru, India }
+{ID: 582060031807356929, Place: None, User Location: Bengaluru, India }
+{ID: 582072549061754880, Place: None, User Location: Bengaluru, India }
+{ID: 582077054037819392, Place: None, User Location: Bengaluru, India }
+{ID: 582079122752425984, Place: None, User Location: Bengaluru, India }
+{ID: 582079306781749249, Place: None, User Location: Bengaluru, India }
+{ID: 582081333385515008, Place: None, User Location: Bengaluru, India }
+{ID: 582087317881430017, Place: None, User Location: Bengaluru, India }
+{ID: 582107330038276097, Place: None, User Location: Bengaluru, India }
+{ID: 582106354749341696, Place: None, User Location: Bengaluru,India.}
+{ID: 582038191055622144, Place: None, User Location: Mysore , India}
+{ID: 582042603731845120, Place: None, User Location: Mysore , India}
+{ID: 582043062324453376, Place: None, User Location: Mysore , India}
+{ID: 582046991309402112, Place: None, User Location: Mysore , India}
+{ID: 582047906519121920, Place: None, User Location: Mysore , India}
+{ID: 582048175676112897, Place: None, User Location: Mysore , India}
+{ID: 582051005761613824, Place: None, User Location: Mysore , India}
+{ID: 582052357761937408, Place: None, User Location: Mysore , India}
+{ID: 582053062321123328, Place: None, User Location: Mysore , India}
+{ID: 582055363710562304, Place: None, User Location: Mysore , India}
+{ID: 582057913860018176, Place: None, User Location: Mysore , India}
+{ID: 582060257553227776, Place: None, User Location: Mysore , India}
+{ID: 582061287095431168, Place: None, User Location: Mysore , India}
+{ID: 582064650583310337, Place: None, User Location: Mysore , India}
+{ID: 582066155130519552, Place: None, User Location: Mysore , India}
+{ID: 582067170009489408, Place: None, User Location: Mysore , India}
+{ID: 582079435744006144, Place: None, User Location: Mysore , India}
+{ID: 582081589779173377, Place: None, User Location: Mysore , India}
+{ID: 582082384184520704, Place: None, User Location: Mysore , India}
+{ID: 582028405454954497, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+{ID: 582065766347886592, Place: None, User Location: Bangalore | India}
+{ID: 582110796978655233, Place: None, User Location: Bangalore | India}
+{ID: 582110719375638529, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+{ID: 582037139057049600, Place: None, User Location: Bangalore, India }
+{ID: 582040726336237568, Place: None, User Location: Bangalore, India }
+{ID: 582041586315366400, Place: None, User Location: Bangalore, India }
+{ID: 582070853191401472, Place: None, User Location: Bangalore, India }
+{ID: 582103906257260544, Place: None, User Location: Bangalore, India }
+{ID: 582108766427963392, Place: None, User Location: Bangalore, India }
+{ID: 582110692716642304, Place: None, User Location: Bangalore, India }
+{ID: 582029610000506882, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582029738438361088, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582030268988461057, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582030868216094720, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582031043911258112, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582031363403972608, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582031444387569664, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582031663737094144, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582031738731405313, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582032100066365440, Place: None, User Location: Bangalore,India}
+
+{ID: 582033506399711233, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582034727529381888, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582034924779130880, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582034930072326144, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582034939425640448, Place: None, User Location: Bangalore, India.}
+
+{ID: 582034944236519426, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582034982220144641, Place: None, User Location: Mangalore / Bangalore, India}
+
+{ID: 582035020769939456, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582035036204978176, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582035054420836352, Place: None, User Location: Bangalore, India.}
+
+{ID: 582035099320864768, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582035153586769920, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582035212160241664, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582035389638053888, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Indore/Bangalore }
+
+{ID: 582035410567630848, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582035507275661314, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582035524312956928, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582035543468306432, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582035639329112065, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore  +----  Ranchi}
+
+{ID: 582035790349275136, Place: None, User Location: India | Odisha | Bangalore}
+
+{ID: 582036205748916224, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582036275181449216, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582036436297195520, Place: None, User Location: Bangalore , India}
+
+{ID: 582036457428160512, Place: None, User Location: Bangalore, India.}
+
+{ID: 582036732633169920, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582036833996931072, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582036967929466880, Place: None, User Location: Bangalore,India}
+
+{ID: 582037085286064128, Place: None, User Location: Bangalore, Karnataka, India.}
+
+{ID: 582037409262530560, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582037503504310272, Place: None, User Location: Navsari / Bangalore, India}
+
+{ID: 582037668353040384, Place: None, User Location: Bangalore, India.}
+
+{ID: 582037739622674432, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582037839942057984, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582037941368823808, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Madurai - Bangalore, India.}
+
+{ID: 582037946003431425, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, Assam, India }
+
+{ID: 582037968761843712, Place: None, User Location: Bangalore,India}
+
+{ID: 582038221065826304, Place: None, User Location: Bangalore, India.}
+
+{ID: 582038282239803392, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582038411260792832, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582038509218742272, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582038723786715136, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582038826895298561, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582038900354494465, Place: None, User Location: Bangalore,India}
+
+{ID: 582038975856046080, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582039031267000320, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582039154713743360, Place: None, User Location: Bangalore,India}
+
+{ID: 582039171495145473, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582039171964911616, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582039241884069888, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore.}
+
+{ID: 582039395156422656, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582039457139818496, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582040263087935489, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582040335930384384, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582040648922058752, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582040670698745856, Place: None, User Location: Bangalore, India.}
+
+{ID: 582040732032110593, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582040814794121216, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582040820137623552, Place: None, User Location: Bangalore,India}
+
+{ID: 582041053852643329, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore | Kottayam}
+
+{ID: 582041063516336128, Place: None, User Location: Bangalore , India}
+
+{ID: 582041098576498688, Place: None, User Location: Bangalore India}
+
+{ID: 582041300003786752, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582041389115912192, Place: None, User Location: Bangalore, India.}
+
+{ID: 582041444216508416, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582041600508891136, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582041694788448256, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore; India}
+
+{ID: 582041818717507584, Place: None, User Location: Bangalore, India.}
+
+{ID: 582041960623394816, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582042465168793600, Place: None, User Location: Bangalore, India.}
+
+{ID: 582042602888802304, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582044151270629377, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582044531400413184, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582045148067983360, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582045201264291840, Place: None, User Location: Bangalore,India}
+
+{ID: 582045634473033728, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582045637673250817, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582045725535571968, Place: None, User Location: Bangalore,Karnataka,India}
+
+{ID: 582045754228805633, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582045898391195648, Place: None, User Location: Bangalore,Karnataka,India}
+
+{ID: 582046009217318912, Place: {u'full_name': u'Kuala Lumpur Federal Territory, Malaysia', u'url': u'https://api.twitter.com/1.1/geo/id/18e4bff5b64c28c9.json', u'country': u'Malaysia', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[101.6151605, 3.0332003], [101.6151605, 3.2445482], [101.7587738, 3.2445482], [101.7587738, 3.0332003]]]}, u'country_code': u'MY', u'attributes': {}, u'id': u'18e4bff5b64c28c9', u'name': u'Kuala Lumpur Federal Territory'}, User Location: India | Odisha | Bangalore}
+
+{ID: 582046117560365059, Place: None, User Location: India | Odisha | Bangalore}
+
+{ID: 582046271877197824, Place: None, User Location: Bangalore, India.}
+
+{ID: 582046283877093376, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582046317058224128, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582046334569451520, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582046354161037312, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582046860530958337, Place: None, User Location: Bangalore,India}
+
+{ID: 582046868944736256, Place: None, User Location: Bangalore - India}
+
+{ID: 582047473507561472, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582047564674928640, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582047887460200448, Place: None, User Location: Bangalore,India}
+
+{ID: 582048589112688640, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582049081159094272, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582051955775684608, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582052532173705216, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582052721991122944, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582052946268962816, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582052960017879040, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582053011838484480, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582053265182830592, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: bangalore}
+
+{ID: 582053345918996480, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582054494428491776, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: bangalore}
+
+{ID: 582054869269262336, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582055295976783872, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582055821116231680, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582057287046410240, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582057904871583744, Place: None, User Location: Bangalore,India}
+
+{ID: 582058208816025600, Place: None, User Location: Bangalore,India}
+
+{ID: 582059586661679104, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582059974475448321, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582060250091552768, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582060515070844928, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582061252907646976, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582062325382844416, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582062604270481408, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582063203665846272, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582063209164640256, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582064340678782976, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582064632069668864, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582066192166195201, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582066259413458944, Place: None, User Location: India, Virudhunagar/Bangalore}
+
+{ID: 582067364419608577, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582068554427576320, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582068651924160512, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582068717372100610, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582068928664342528, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582069376091750402, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582069768947048450, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582069769039273984, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582069794549075968, Place: None, User Location: Indian In Bangalore}
+
+{ID: 582070884334112768, Place: None, User Location: Bangalore,India}
+
+{ID: 582071198508392448, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582071394684391424, Place: None, User Location: Bangalore,India}
+
+{ID: 582072880478834689, Place: None, User Location: Bangalore,India}
+
+{ID: 582073056694116352, Place: None, User Location: Bangalore,Karnataka,India}
+
+{ID: 582073260960923649, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582073469564628992, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582073472207077376, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582073735693213697, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582073737450668032, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore }
+
+{ID: 582073744320937984, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582073927528157184, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582074144449138689, Place: None, User Location: Bangalore , India}
+
+{ID: 582074927034937344, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582074936589561856, Place: None, User Location: Bangalore.India}
+
+{ID: 582075228546678785, Place: None, User Location: India | Odisha | Bangalore}
+
+{ID: 582077069519093760, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582077743392649216, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582079097821478912, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582079213349380096, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore, India}
+
+{ID: 582079244236300288, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582079357578964992, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582079963655856128, Place: None, User Location: Bangalore, Coimbatore, India}
+
+{ID: 582080808485199872, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582081008532525056, Place: None, User Location: Bangalore,India}
+
+{ID: 582081282676412416, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582081913847861248, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582082252361703424, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582082323912388608, Place: None, User Location: Bangalore,India}
+
+{ID: 582082665148387328, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582083190547877888, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582083298358226944, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582083727355842560, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582083981992017920, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582084080277143552, Place: None, User Location: Bangalore India }
+
+{ID: 582084687788535808, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore / Nasik}
+
+{ID: 582084725898022912, Place: None, User Location: Bangalore, India.}
+
+{ID: 582085408848097280, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582085470663774208, Place: None, User Location: Bangalore,India}
+
+{ID: 582085606076895233, Place: None, User Location: Bangalore,India}
+
+{ID: 582085622484992000, Place: None, User Location: SJC, Bangalore, India}
+
+{ID: 582085721357295617, Place: None, User Location: India, karnataka, bangalore }
+
+{ID: 582086000731500544, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582086314800992256, Place: None, User Location: Bangalore, India.}
+
+{ID: 582086782126145536, Place: None, User Location: Bangalore, Karnataka, India}
+
+{ID: 582086828414496768, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582086921855238144, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582086940054302721, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582087096367632384, Place: None, User Location: India, Virudhunagar/Bangalore}
+
+{ID: 582087307441799168, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582087307869564930, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582090152006148096, Place: None, User Location:  Bangalore  India}
+
+{ID: 582090586569601024, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582090607117541376, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582093414369398784, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582093755949281280, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: bangalore}
+
+{ID: 582094142999687168, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582094146791321602, Place: None, User Location: India Bangalore}
+
+{ID: 582096263551655937, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore}
+
+{ID: 582096566065897472, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582096575704354816, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore, India}
+
+{ID: 582100771673526274, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582104858930454528, Place: None, User Location: Bangalore, Agra, India}
+
+{ID: 582105093920534528, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bangalore}
+
+{ID: 582107644334215168, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582107748654944256, Place: None, User Location: Varanasi/Bangalore/Pune India}
+
+{ID: 582108067593994240, Place: None, User Location: Bangalore, India.}
+
+{ID: 582108106382934016, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore }
+
+{ID: 582108382754050048, Place: None, User Location: Varanasi/Bangalore/Pune India}
+
+{ID: 582108508495081472, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bangalore,India}
+
+{ID: 582108644365316096, Place: None, User Location: Indian In Bangalore}
+
+{ID: 582108733104259072, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582109147350487040, Place: None, User Location: Bangalore,India}
+
+{ID: 582110043526410240, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Indore/Bangalore }
+
+{ID: 582110157984788480, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore}
+
+{ID: 582110541704888321, Place: None, User Location: Bangalore. Karnataka. India}
+{ID: 582029099914297344, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582029340566663168, Place: None, User Location: Bengaluru, India}
+
+{ID: 582029652195069952, Place: None, User Location: Bengaluru, India}
+
+{ID: 582029912363565056, Place: None, User Location: Bengaluru, India}
+
+{ID: 582030540871577600, Place: None, User Location: Bengaluru, India}
+
+{ID: 582030965347741696, Place: None, User Location: Bengaluru, India}
+
+{ID: 582031066497601536, Place: None, User Location: Bengaluru Area, India}
+
+{ID: 582031998375456768, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582034954546098176, Place: None, User Location: Bengaluru, India}
+
+{ID: 582035288840675328, Place: None, User Location: Bengaluru, India}
+
+{ID: 582035694773673984, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: }
+
+{ID: 582035703283904513, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582036417427087361, Place: None, User Location: Bengaluru, India}
+
+{ID: 582036595341066240, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: India(Bangluru)}
+
+{ID: 582036603331203072, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582037182031929344, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: Bengaluru, India }
+
+{ID: 582037200272896001, Place: None, User Location: Bengaluru, India}
+
+{ID: 582037432486363136, Place: None, User Location: Bengaluru, India}
+
+{ID: 582037575117856768, Place: None, User Location: Bengaluru,Karnataka, India}
+
+{ID: 582037709373325312, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka, India}
+
+{ID: 582037745763102720, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582038232419819520, Place: None, User Location: Bengaluru, India}
+
+{ID: 582038444450279424, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka, India}
+
+{ID: 582038768007294976, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582039252910743552, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582040816702468096, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: mysore}
+
+{ID: 582042058749145088, Place: None, User Location: Bengaluru/India}
+
+{ID: 582042133554589696, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: mysore}
+
+{ID: 582042444809699328, Place: None, User Location: Bengaluru, India}
+
+{ID: 582042952676982784, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: bengaluru}
+
+{ID: 582043066506174464, Place: None, User Location: Bengaluru, India}
+
+{ID: 582043876514406400, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582044484487118849, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582044549419151361, Place: None, User Location: Bengaluru, India}
+
+{ID: 582044562555703297, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru}
+
+{ID: 582044941519458304, Place: None, User Location: Bengaluru, India}
+
+{ID: 582045160063692800, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: }
+
+{ID: 582045853713502209, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: World Citizen}
+
+{ID: 582046460620861440, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Lost In Imagination}
+
+{ID: 582046727428935684, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: mysore}
+
+{ID: 582047103402123264, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582047568307208192, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: World Citizen}
+
+{ID: 582047580755881984, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru South, Karnataka}
+
+{ID: 582047676067278849, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: India}
+
+{ID: 582047730983272449, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: mysore}
+
+{ID: 582047914131779584, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582048086756720640, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582048973365518337, Place: None, User Location: Bengaluru, India}
+
+{ID: 582050437165031425, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582052307669360640, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582052701350944768, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: mysore}
+
+{ID: 582052725082300418, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582052730266517504, Place: None, User Location: Bengaluru, India}
+
+{ID: 582052795613769728, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Namma Bengaluru}
+
+{ID: 582052803754917888, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: UK,Dubai,Saudi,Udupi.........}
+
+{ID: 582053192449462272, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582053368564084736, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582053369855918080, Place: None, User Location: Bengaluru, India}
+
+{ID: 582054389545746432, Place: None, User Location: Bengaluru,India}
+
+{ID: 582054893646528512, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582055896617897984, Place: None, User Location: Bengaluru, India}
+
+{ID: 582059342616137728, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582059464506798080, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: World Citizen}
+
+{ID: 582059865691987968, Place: None, User Location: Bengaluru,Udupi, India}
+
+{ID: 582060954042519552, Place: None, User Location: Bengaluru, India}
+
+{ID: 582062119199232000, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: }
+
+{ID: 582062268369645570, Place: None, User Location: Bengaluru, India}
+
+{ID: 582062931640131584, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Chandernagore}
+
+{ID: 582064666420989952, Place: {u'full_name': u'Raja Rajeshwari Nagar, Bengaluru South', u'url': u'https://api.twitter.com/1.1/geo/id/4046f77bc766328a.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4991274, 12.9025173], [77.4991274, 12.9382466], [77.536013, 12.9382466], [77.536013, 12.9025173]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4046f77bc766328a', u'name': u'Raja Rajeshwari Nagar'}, User Location: Bengaluru, Karnataka, India}
+
+{ID: 582064824378507265, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582066715732746242, Place: None, User Location: Bengaluru, India}
+
+{ID: 582067225797877760, Place: None, User Location: Bengaluru, India}
+
+{ID: 582067643219243008, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582068717258854400, Place: None, User Location: Bengaluru, India}
+
+{ID: 582069370370707456, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582070315364143104, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582074138421940224, Place: None, User Location: Bengaluru, India}
+
+{ID: 582074192138412032, Place: None, User Location: Bengaluru, India}
+
+{ID: 582074931887796224, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Kanpur}
+
+{ID: 582076774869127169, Place: None, User Location: Bengaluru, India}
+
+{ID: 582081957539917824, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582082225912430593, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru/NIT-B/Hyderabad}
+
+{ID: 582082313040756736, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582082433933135872, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru, Karnataka}
+
+{ID: 582082591387447296, Place: None, User Location: Bengaluru, India}
+
+{ID: 582083382110105600, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Bengaluru}
+
+{ID: 582083383490015234, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bengaluru/NIT-B/Hyderabad}
+
+{ID: 582083532064890880, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582083664361570304, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582083812709953536, Place: None, User Location: Bengaluru, India}
+
+{ID: 582084123910479872, Place: None, User Location: Bengaluru, India}
+
+{ID: 582084762950467584, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location:  мαηgαℓσяє / вαηgαℓσяє}
+
+{ID: 582084961483694081, Place: None, User Location: Bengaluru, India}
+
+{ID: 582085968074657792, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582086353237585920, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582086881183031296, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582089124200378368, Place: None, User Location: Bengaluru, India}
+
+{ID: 582089718512291840, Place: None, User Location: Bengaluru, India}
+
+{ID: 582091163055706112, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: www.maverickscricket.com}
+
+{ID: 582091923248193536, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Like a wind I can b anywhere;)}
+
+{ID: 582092707696246785, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: INDIA}
+
+{ID: 582095540210413568, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Anantapur,Andhra Pradesh,India}
+
+{ID: 582099047491612672, Place: None, User Location: Bengaluru, Karnataka, India}
+
+{ID: 582103406325579776, Place: None, User Location: Bengaluru, India}
+
+{ID: 582104279441256450, Place: None, User Location: Bengaluru,India}
+
+{ID: 582104724607905793, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: India}
+
+{ID: 582106400370728960, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582107058289278976, Place: {u'full_name': u'BTM Layout, Bengaluru South', u'url': u'https://api.twitter.com/1.1/geo/id/7b414b247a194c82.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5999856, 12.8976639], [77.5999856, 12.9278129], [77.6228349, 12.9278129], [77.6228349, 12.8976639]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7b414b247a194c82', u'name': u'BTM Layout'}, User Location: Banglore}
+
+{ID: 582110176829775872, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+
+{ID: 582110284115914752, Place: None, User Location: Bengaluru, Karnataka, India}
+{ID: 582035271698382848, Place: None, User Location: Mysore, India}
+
+{ID: 582036995272282112, Place: None, User Location: Mysore, India}
+
+{ID: 582047918745489408, Place: None, User Location: Mysore,India}
+
+{ID: 582052729855430656, Place: None, User Location: Mysore, India}
+
+{ID: 582060282517700610, Place: None, User Location: Mysore, India}
+
+{ID: 582067879970897920, Place: None, User Location: India,Karnataka,Mysore}
+
+{ID: 582074920043151360, Place: None, User Location: Mysore,India}
+
+{ID: 582079320916545536, Place: None, User Location: Mysore,India}
+
+{ID: 582079463803895808, Place: None, User Location: Mysore,India}
+
+{ID: 582079773603561472, Place: None, User Location: Mysore,India}
+
+{ID: 582085527907614720, Place: None, User Location: Mysore, India}
+
+{ID: 582090590029918209, Place: None, User Location: Mysore, India}
+{ID: 582030887530844160, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: }
+
+{ID: 582030979545460736, Place: {u'full_name': u'Anekal Bangaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5563622, 12.6570548], [77.5563622, 12.9377007], [77.8354856, 12.9377007], [77.8354856, 12.6570548]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'123ad1f35e190c93', u'name': u'Anekal Bangaluru'}, User Location: }
+
+{ID: 582035021784977408, Place: None, User Location: Manipal, Karnataka, India}
+
+{ID: 582037225342300162, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582038673853550592, Place: {u'full_name': u'Udupi, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/07e9ae6de31fd60b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.6673227, 13.0860557], [74.6673227, 13.5681746], [74.9581509, 13.5681746], [74.9581509, 13.0860557]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'07e9ae6de31fd60b', u'name': u'Udupi'}, User Location: Manipal, Karnataka, India}
+
+{ID: 582039379054481408, Place: None, User Location: Chinthamani,Karnataka,India}
+
+{ID: 582040286487937025, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582042739216285696, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582043642317025280, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582047189679013888, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582049455626588160, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582052950492622849, Place: None, User Location: Manipal, Karnataka, India}
+
+{ID: 582055778787278849, Place: None, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582059861694803968, Place: None, User Location: Manipal, Karnataka, India}
+
+{ID: 582073028558749698, Place: None, User Location: Karnataka, Udupi , India}
+
+{ID: 582073490662014976, Place: None, User Location: mangaluru, karnataka ,India}
+
+{ID: 582074193363099649, Place: None, User Location: Manipal, Karnataka, India}
+
+{ID: 582082510818975744, Place: None, User Location: Shimoga, Karnataka, India}
+
+{ID: 582085058539835392, Place: {u'full_name': u'Karnataka, India', u'url': u'https://api.twitter.com/1.1/geo/id/7631956ba2a1ed11.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.0509625, 11.5823783], [74.0509625, 18.4767361], [78.5882952, 18.4767361], [78.5882952, 11.5823783]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7631956ba2a1ed11', u'name': u'Karnataka'}, User Location: ☺ Karnataka ♥ India ☺}
+
+{ID: 582094219692527616, Place: {u'full_name': u'Udupi, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/07e9ae6de31fd60b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.6673227, 13.0860557], [74.6673227, 13.5681746], [74.9581509, 13.5681746], [74.9581509, 13.0860557]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'07e9ae6de31fd60b', u'name': u'Udupi'}, User Location: Manipal, Karnataka, India}
+
+{ID: 582103442438557696, Place: None, User Location: City of Joy, Karnataka, India}
+
+{ID: 582101534877437952, Place: None, User Location: Mandya - India}
+{ID: 582032982812196864, Place: None, User Location: Mangalore ,India}
+
+{ID: 582063883705139200, Place: None, User Location: Mangalore, India}
+
+{ID: 582093366348767234, Place: None, User Location: Mangalore,India}
+
+{ID: 582093788778131456, Place: None, User Location: Mangalore,India}
+
+{ID: 582098654275600384, Place: None, User Location: Mangalore,India}
+{ID: 582081735338250240, Place: None, User Location: Banglore,India}
+{ID: 582072831879430145, Place: None, User Location: Bangaluru,India.}
+{ID: 582079103773229057, Place: None, User Location: Yelahanka, India}
+

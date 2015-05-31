@@ -1,0 +1,75 @@
+{ID: 582030975166595073, Place: None, User Location: Chandigarh, India}
+
+{ID: 582031190074351616, Place: None, User Location: Chandigarh, India}
+
+{ID: 582032171122094080, Place: None, User Location: Chandigarh/Patiala ,India}
+
+{ID: 582035035726815233, Place: None, User Location: Chandigarh,India}
+
+{ID: 582035261661425665, Place: None, User Location: Chandigarh, India}
+
+{ID: 582035853498679296, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'22aecab5acddee3b', u'name': u'Chandigarh'}, User Location: Chandigarh/Patiala ,India}
+
+{ID: 582035935237275648, Place: None, User Location: Chandigarh, India}
+
+{ID: 582036336812515328, Place: None, User Location: Chandigarh, India}
+
+{ID: 582036363299553280, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'22aecab5acddee3b', u'name': u'Chandigarh'}, User Location: Chandigarh/Patiala ,India}
+
+{ID: 582036448041254912, Place: None, User Location: Chandigarh, India}
+
+{ID: 582036639242801152, Place: None, User Location: Chandigarh, India}
+
+{ID: 582036787784081410, Place: None, User Location: Chandigarh, India}
+
+{ID: 582040273871458304, Place: None, User Location: Chandigarh, India}
+
+{ID: 582040531288506369, Place: None, User Location: Chandigarh, India}
+
+{ID: 582041091068710913, Place: None, User Location: Chandigarh, India}
+
+{ID: 582042836775768065, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'22aecab5acddee3b', u'name': u'Chandigarh'}, User Location: Chandigarh/Patiala ,India}
+
+{ID: 582042989133885441, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'22aecab5acddee3b', u'name': u'Chandigarh'}, User Location: }
+
+{ID: 582043200044470272, Place: None, User Location: Chandigarh, India}
+
+{ID: 582044132777963520, Place: None, User Location: Chandigarh, India}
+
+{ID: 582046406510186496, Place: None, User Location: Chandigarh, India}
+
+{ID: 582047544470953984, Place: None, User Location: Chandigarh, India}
+
+{ID: 582057967656177664, Place: None, User Location: Chandigarh,India}
+
+{ID: 582059120431235072, Place: None, User Location: Panchkula, Chandigarh, India }
+
+{ID: 582062081039425536, Place: None, User Location: Chandigarh,India}
+
+{ID: 582078055654522880, Place: None, User Location: Chandigarh,India}
+
+{ID: 582078962764898304, Place: None, User Location: Chandigarh, India}
+
+{ID: 582081605889441793, Place: None, User Location: Chandigarh, India}
+
+{ID: 582083320873250816, Place: None, User Location: Chandigarh,India}
+
+{ID: 582083374409326592, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'22aecab5acddee3b', u'name': u'Chandigarh'}, User Location: }
+
+{ID: 582086032230735873, Place: {u'full_name': u'Chandigarh, India', u'url': u'https://api.twitter.com/1.1/geo/id/202ffeabbc5e1e32.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7038129, 30.665455], [76.7038129, 30.795316], [76.8492359, 30.795316], [76.8492359, 30.665455]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'202ffeabbc5e1e32', u'name': u'Chandigarh'}, User Location: Chandigarh - Earth}
+
+{ID: 582089728427593728, Place: None, User Location: Chandigarh, India}
+
+{ID: 582090636850958337, Place: None, User Location: Chandigarh, India}
+
+{ID: 582093340503453696, Place: None, User Location: Chandigarh, India}
+
+{ID: 582098605428756482, Place: None, User Location: Chandigarh, India}
+
+{ID: 582098608800972801, Place: None, User Location: Chandigarh, India}
+
+{ID: 582107216741707777, Place: None, User Location: Chandigarh, India}
+{ID: 582040242565197824, Place: None, User Location: Raigarh(c.g.), India}
+{ID: 582045869186289666, Place: None, User Location: Raipur, India.}
+{ID: 582054774117253120, Place: None, User Location: Rajnandgaon (C.G.) India}
+{ID: 582054914525777920, Place: None, User Location: Rajnandgaon (C.G.) India}

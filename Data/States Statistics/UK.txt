@@ -1,0 +1,123 @@
+{ID: 582028277256196096, Place: None, User Location: Uttarakhand, India}
+{ID: 582036186853588992, Place: None, User Location: Dehradun, Uttarakhand (India)}
+
+{ID: 582036310640041984, Place: None, User Location: Dehradun, Uttarakhand (India)}
+
+{ID: 582037352299655168, Place: {u'full_name': u'Dehra Dun Rural, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/52c3be90f64094b1.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5754024, 29.9430506], [77.5754024, 30.5424039], [78.2992783, 30.5424039], [78.2992783, 29.9430506]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'52c3be90f64094b1', u'name': u'Dehra Dun Rural'}, User Location: Dehradun}
+
+{ID: 582038148873461760, Place: None, User Location: Dehradun, India}
+
+{ID: 582038886408278016, Place: None, User Location: Dehradun, India}
+
+{ID: 582047165133889536, Place: None, User Location: Dehradun, India}
+
+{ID: 582055789466034176, Place: None, User Location: Dehradun,India }
+
+{ID: 582075225543593984, Place: {u'full_name': u'Dehradun, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/4dc738f4d56072ed.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.8828083, 30.2279839], [77.8828083, 30.4133607], [78.1347123, 30.4133607], [78.1347123, 30.2279839]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4dc738f4d56072ed', u'name': u'Dehradun'}, User Location: }
+
+{ID: 582083180552830976, Place: None, User Location: Dehradun , India}
+
+{ID: 582084174472818688, Place: None, User Location: Dehradun , India}
+{ID: 582029913336614913, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582030064709058561, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582030071835168768, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582030099534323712, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582030116223459328, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582030194078187521, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582035158972297216, Place: None, User Location: Haridwar, Uttarakhand, India}
+
+{ID: 582036145254486016, Place: None, User Location: Haridwar, Uttarakhand, India}
+
+{ID: 582037715287293952, Place: None, User Location: Haridwar, Uttarakhand, India}
+
+{ID: 582045794708037632, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582045882524135424, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582046064745660416, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582046064741519360, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582046244333219840, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582046244337381376, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582048518807928832, Place: None, User Location: Uttarakhand[India]}
+
+{ID: 582048821749919744, Place: None, User Location: Uttarakhand[India]}
+
+{ID: 582086879853604864, Place: None, User Location: Uttarakhand[India]}
+
+{ID: 582090590910730240, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582090619763314690, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582090631419293696, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582091181376438272, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582091235336175617, Place: None, User Location: Uttarakhand [India]}
+
+{ID: 582109846163554304, Place: None, User Location: Uttarakhand[India]}
+{ID: 582089093816803329, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582089641437724673, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582089756097454080, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582090551266127872, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582090886969843712, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582091180667621376, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582091619878367232, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582096598865293313, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582098642900652032, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582101568352223234, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582103951832526848, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582104764990664704, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582105708310568960, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582107322199093248, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582107570749345792, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582107808910323712, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582108305859813376, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582108515809898496, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582108843737415681, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582109106426683392, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582109501458755584, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582109832808828928, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582109911657500672, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582110325752762368, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582110547291684864, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582113272381329408, Place: {u'full_name': u'Roorkee, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.7143369, 29.5402497], [77.7143369, 30.2454836], [78.1213382, 30.2454836], [78.1213382, 29.5402497]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f31ba5eefd5e0fb', u'name': u'Roorkee'}, User Location: Tumhare ghar k pas ☑ ;)♥ }
+
+{ID: 582046898996957185, Place: None, User Location: India, Haridwar}
+{ID: 582067484704002048, Place: None, User Location: Almora(India)}
+{ID: 582082171160035330, Place: None, User Location: Clement Town, India}
+

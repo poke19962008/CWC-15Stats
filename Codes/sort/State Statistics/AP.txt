@@ -1,0 +1,98 @@
+{ID: 582028469187395584, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: ÜT: 17.42691,78.45637}
+{ID: 582037197827633152, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: Vishakapatnam INDIA}
+{ID: 582030737186017281, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: TIRUPATI / Lives in Hyd}
+
+{ID: 582032538379493376, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: TIRUPATI / Lives in Hyd}
+
+{ID: 582036303614590976, Place: None, User Location: Andhra Pradesh, India}
+
+{ID: 582036387651723266, Place: None, User Location: Andhra Pradesh, India}
+
+{ID: 582037790193385472, Place: {u'full_name': u'Andhra Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/4171b3606efc06af.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7608096, 12.6223436], [76.7608096, 19.9164621], [84.7687824, 19.9164621], [84.7687824, 12.6223436]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4171b3606efc06af', u'name': u'Andhra Pradesh'}, User Location: }
+
+{ID: 582040492654792704, Place: {u'full_name': u'Andhra Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/4171b3606efc06af.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7608096, 12.6223436], [76.7608096, 19.9164621], [84.7687824, 19.9164621], [84.7687824, 12.6223436]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4171b3606efc06af', u'name': u'Andhra Pradesh'}, User Location: }
+
+{ID: 582041811318779905, Place: {u'full_name': u'Chittoor, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/33bc3d7eed29e600.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.8029315, 13.0190811], [78.8029315, 13.4904704], [79.3162198, 13.4904704], [79.3162198, 13.0190811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'33bc3d7eed29e600', u'name': u'Chittoor'}, User Location: Chitwan, Nepal}
+
+{ID: 582043653939449856, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Vizag}
+
+{ID: 582044443131269120, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: }
+
+{ID: 582044952781164544, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Visakhapatnam, Andhra Pradesh}
+
+{ID: 582046220983496704, Place: {u'full_name': u'Madhira, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/143309a2bb332ea4.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.3538599, 16.9110232], [80.3538599, 16.9415033], [80.369914, 16.9415033], [80.369914, 16.9110232]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'143309a2bb332ea4', u'name': u'Madhira'}, User Location: India }
+
+{ID: 582048519856369664, Place: None, User Location: Andhra Pradesh - India}
+
+{ID: 582051027118997504, Place: {u'full_name': u'Medchal, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/23644d3c33b1fe02.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.2478407, 17.150579], [78.2478407, 17.7123495], [78.7200457, 17.7123495], [78.7200457, 17.150579]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'23644d3c33b1fe02', u'name': u'Medchal'}, User Location: }
+
+{ID: 582052734481793024, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Vizag}
+
+{ID: 582054248432582656, Place: None, User Location: Anantapur,Andhra Pradesh,India}
+
+{ID: 582054258880552960, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: }
+
+{ID: 582064341773500416, Place: None, User Location: India,Andhra Pradesh, Warangal}
+
+{ID: 582066114915491840, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Visakhapatnam, India}
+
+{ID: 582067770034016257, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Wonderland}
+
+{ID: 582075706693156864, Place: None, User Location: Anantapur,Andhra Pradesh,India}
+
+{ID: 582075727735971840, Place: None, User Location: Anantapur,Andhra Pradesh,India}
+
+{ID: 582075733431885825, Place: None, User Location: Anantapur,Andhra Pradesh,India}
+
+{ID: 582079846630584320, Place: None, User Location: Andhra Pradesh, India}
+
+{ID: 582080072519057408, Place: None, User Location: Andhra Pradesh , India}
+
+{ID: 582080505849331712, Place: {u'full_name': u'Medchal, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/23644d3c33b1fe02.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.2478407, 17.150579], [78.2478407, 17.7123495], [78.7200457, 17.7123495], [78.7200457, 17.150579]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'23644d3c33b1fe02', u'name': u'Medchal'}, User Location: Tirupur}
+
+{ID: 582083922810380288, Place: {u'full_name': u'Rajahmundry, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/52527ff8b69c9692.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.6490824, 16.8485251], [81.6490824, 17.3124757], [82.0388084, 17.3124757], [82.0388084, 16.8485251]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'52527ff8b69c9692', u'name': u'Rajahmundry'}, User Location: Rajahmundry}
+
+{ID: 582084879606628352, Place: {u'full_name': u'Karimnagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/475ad86263768eb5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.9523345, 17.9792968], [78.9523345, 18.6884835], [79.3396729, 18.6884835], [79.3396729, 17.9792968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'475ad86263768eb5', u'name': u'Karimnagar'}, User Location: karimnagar-505001,Telangana,In}
+
+{ID: 582087089652531200, Place: None, User Location: Andhra Pradesh, India}
+
+{ID: 582088737988849664, Place: {u'full_name': u'Vishakhapatnam, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/29bb415ee6913e39.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.1174241, 17.5781308], [83.1174241, 17.8722612], [83.4180188, 17.8722612], [83.4180188, 17.5781308]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29bb415ee6913e39', u'name': u'Vishakhapatnam'}, User Location: Visakhapatnam, Andhra Pradesh}
+
+{ID: 582103489674809344, Place: None, User Location: Andhrapradesh, India}
+
+{ID: 582107489354653696, Place: None, User Location: Andhra Pradesh , India}
+
+{ID: 582107955497070592, Place: None, User Location: Andhra pradesh, India.}
+
+{ID: 582108743451602945, Place: {u'full_name': u'Tirupati, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/11b7b6416d80cd0f.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.9530416, 13.3982509], [78.9530416, 13.7949222], [79.5690525, 13.7949222], [79.5690525, 13.3982509]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'11b7b6416d80cd0f', u'name': u'Tirupati'}, User Location: }
+
+{ID: 582108822866567168, Place: {u'full_name': u'Vijayawada, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/25360dd906b4b627.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.3971605, 16.2834561], [80.3971605, 16.9382742], [80.8438161, 16.9382742], [80.8438161, 16.2834561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'25360dd906b4b627', u'name': u'Vijayawada'}, User Location: }
+{ID: 582037750020354048, Place: None, User Location: Rayalaseema ,AP,India }
+
+{ID: 582107352112857088, Place: None, User Location: AP,India}
+
+{ID: 582040431296262144, Place: None, User Location: Visakhapatnam,India.}
+{ID: 582057402196852736, Place: None, User Location: Vijayawada,India}
+
+{ID: 582098632750444544, Place: None, User Location: Vijayawada,India.}
+
+{ID: 582109873216757760, Place: None, User Location: Vijayawada,India.}
+{ID: 582031932940144640, Place: None, User Location: Tadpatri, Rayalaseema, India }
+
+{ID: 582032057548685312, Place: None, User Location: Tadpatri, Rayalaseema, India }
+
+{ID: 582077708399603712, Place: None, User Location: Tadpatri, Rayalaseema, India }
+
+{ID: 582079475963162624, Place: None, User Location: Tadpatri, Rayalaseema, India }
+
+{ID: 582087309245329408, Place: None, User Location: Tadpatri, Rayalaseema, India }
+{ID: 582074578165325824, Place: None, User Location: Vizag, India}
+{ID: 582064308500107266, Place: None, User Location: Kurnool, India}
+
+{ID: 582076515480809472, Place: None, User Location: Kurnool, India}
+
+{ID: 582078638108995584, Place: None, User Location: Kurnool, India}
+
+{ID: 582079743048093696, Place: None, User Location: Kurnool, India}
+
+{ID: 582090600419229696, Place: None, User Location: Kurnool, India}

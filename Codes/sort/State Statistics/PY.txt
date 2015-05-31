@@ -1,0 +1,17 @@
+{ID: 582037665383649282, Place: None, User Location: India, Pondicherry}
+
+{ID: 582048627360555008, Place: {u'full_name': u'Pondicherry, India', u'url': u'https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.5997736, 11.7741968], [79.5997736, 12.0334049], [79.843263, 12.0334049], [79.843263, 11.7741968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44b7fc0bad0eae8d', u'name': u'Pondicherry'}, User Location: Pondicherry-INDIA}
+
+{ID: 582049038695997441, Place: {u'full_name': u'Pondicherry, India', u'url': u'https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.5997736, 11.7741968], [79.5997736, 12.0334049], [79.843263, 12.0334049], [79.843263, 11.7741968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44b7fc0bad0eae8d', u'name': u'Pondicherry'}, User Location: Pondicherry-INDIA}
+
+{ID: 582053084525920256, Place: None, User Location: India, Pondicherry}
+
+{ID: 582067033254150144, Place: {u'full_name': u'Pondicherry, India', u'url': u'https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.5997736, 11.7741968], [79.5997736, 12.0334049], [79.843263, 12.0334049], [79.843263, 11.7741968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44b7fc0bad0eae8d', u'name': u'Pondicherry'}, User Location: Pondicherry-INDIA}
+
+{ID: 582080682370838528, Place: None, User Location: pondicherry,India}
+
+{ID: 582080707796709376, Place: {u'full_name': u'Pondicherry, India', u'url': u'https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.5997736, 11.7741968], [79.5997736, 12.0334049], [79.843263, 12.0334049], [79.843263, 11.7741968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44b7fc0bad0eae8d', u'name': u'Pondicherry'}, User Location: }
+
+{ID: 582080856006639616, Place: None, User Location: pondicherry,India}
+
+{ID: 582096004146544640, Place: {u'full_name': u'Karaikal, Pondicherry', u'url': u'https://api.twitter.com/1.1/geo/id/2aab7d5d56bec623.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.825127, 10.9118286], [79.825127, 10.9492342], [79.8485913, 10.9492342], [79.8485913, 10.9118286]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2aab7d5d56bec623', u'name': u'Karaikal'}, User Location: }

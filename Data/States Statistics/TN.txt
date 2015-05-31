@@ -1,0 +1,751 @@
+{ID: 582028370315243520, Place: None, User Location: Chennai, India}
+{ID: 582028374585012224, Place: None, User Location: Chennai, India}
+{ID: 582028377160323072, Place: None, User Location: Chennai, India}
+{ID: 582028383778938880, Place: None, User Location: Chennai, India}
+{ID: 582028394344386560, Place: None, User Location: Chennai, India}
+{ID: 582028396424728576, Place: None, User Location: Chennai, India}
+{ID: 582028406293856256, Place: None, User Location: Chennai, India}
+{ID: 582028777586176001, Place: None, User Location: Chennai, India}
+{ID: 582029112824365056, Place: None, User Location: Chennai, India}
+{ID: 582030028797423616, Place: None, User Location: Chennai, India}
+{ID: 582030444763308032, Place: None, User Location: chennai, India}
+{ID: 582030611780481024, Place: None, User Location: Chennai, India}
+{ID: 582031249054679040, Place: None, User Location: Chennai, India}
+{ID: 582031529880080384, Place: None, User Location: Chennai, India}
+{ID: 582034898875129857, Place: None, User Location: Chennai, India}
+{ID: 582035070426333184, Place: None, User Location: Chennai, India}
+{ID: 582035431266471937, Place: None, User Location: Chennai, India}
+{ID: 582035598908637185, Place: None, User Location: Chennai, India}
+{ID: 582035642676174848, Place: None, User Location: Chennai, India}
+{ID: 582035852454436864, Place: None, User Location: Chennai, India}
+{ID: 582036061280321536, Place: None, User Location: Chennai, India}
+{ID: 582036287302975488, Place: None, User Location: Chennai, India}
+{ID: 582036395709100032, Place: None, User Location: Chennai, India}
+{ID: 582036396648620032, Place: None, User Location: Chennai, India}
+{ID: 582036400343748608, Place: None, User Location: Chennai, India}
+{ID: 582036401442656256, Place: None, User Location: Chennai, India}
+{ID: 582036402562547712, Place: None, User Location: Chennai, India}
+{ID: 582036418362499072, Place: None, User Location: Chennai, India}
+{ID: 582036456090169344, Place: None, User Location: Chennai, India}
+{ID: 582036976737468416, Place: None, User Location: Chennai, India}
+{ID: 582037213157965824, Place: None, User Location: Chennai, India}
+{ID: 582037291935272961, Place: None, User Location: Chennai, India}
+{ID: 582037291599728640, Place: None, User Location: Chennai, India}
+{ID: 582037414174015488, Place: None, User Location: Chennai, India}
+{ID: 582037816953049089, Place: None, User Location: Chennai, India}
+{ID: 582037920069992449, Place: None, User Location: Chennai, India}
+{ID: 582038388863193088, Place: None, User Location: Chennai, India}
+{ID: 582038407808847872, Place: None, User Location: Chennai, India}
+{ID: 582038955941502976, Place: None, User Location: Chennai, India}
+{ID: 582040295010799616, Place: None, User Location: Chennai, India}
+{ID: 582040475563065345, Place: None, User Location: Chennai, India}
+{ID: 582040478205480960, Place: None, User Location: Chennai, India}
+{ID: 582040479581208576, Place: None, User Location: Chennai, India}
+{ID: 582040480814374912, Place: None, User Location: Chennai, India}
+{ID: 582040484127895552, Place: None, User Location: Chennai, India}
+{ID: 582040578637975552, Place: None, User Location: chennai, India}
+{ID: 582040690986614784, Place: None, User Location: Chennai, India}
+{ID: 582040796544655360, Place: None, User Location: Chennai, India}
+{ID: 582041363652325376, Place: None, User Location: Chennai, India}
+{ID: 582041740485345281, Place: None, User Location: Chennai, India}
+{ID: 582041876586311680, Place: None, User Location: Chennai, India}
+{ID: 582042177225666560, Place: None, User Location: Chennai, India}
+{ID: 582044352555433984, Place: None, User Location: Chennai, India}
+{ID: 582044498626101248, Place: None, User Location: Chennai, India}
+{ID: 582044524937142272, Place: None, User Location: Chennai, India}
+{ID: 582044537088016384, Place: None, User Location: Chennai, India}
+{ID: 582044547401805826, Place: None, User Location: Chennai, India}
+{ID: 582045231563964416, Place: None, User Location: Chennai, India}
+{ID: 582045234588037120, Place: None, User Location: Chennai, India}
+{ID: 582045819890597888, Place: None, User Location: Chennai, India}
+{ID: 582045887851036672, Place: None, User Location: Chennai, India}
+{ID: 582046214713032704, Place: None, User Location: Chennai, India}
+{ID: 582046370996969472, Place: None, User Location: Chennai, India}
+{ID: 582046419592179712, Place: None, User Location: Chennai, India}
+{ID: 582047110339514368, Place: None, User Location: Chennai, India}
+{ID: 582047177775587329, Place: None, User Location: Chennai, India}
+{ID: 582047220888834048, Place: None, User Location: Chennai, India}
+{ID: 582047557343309824, Place: None, User Location: Chennai, India}
+{ID: 582047745709469696, Place: None, User Location: Chennai, India}
+{ID: 582048070025633792, Place: None, User Location: Chennai, India}
+{ID: 582048588655538177, Place: None, User Location: Chennai, India}
+{ID: 582049778315321346, Place: None, User Location: Chennai, India}
+{ID: 582049780068589568, Place: None, User Location: Chennai, India}
+{ID: 582052364619685888, Place: None, User Location: Chennai, India}
+{ID: 582052530076565504, Place: None, User Location: Chennai, India}
+{ID: 582052538670792704, Place: None, User Location: Chennai, India}
+{ID: 582052542881927168, Place: None, User Location: Chennai, India}
+{ID: 582052601547468801, Place: None, User Location: Chennai, India}
+{ID: 582052644924981248, Place: None, User Location: Chennai, India}
+{ID: 582052896407072768, Place: None, User Location: Chennai, India}
+{ID: 582052980146327552, Place: None, User Location: Chennai, India}
+{ID: 582052996978077696, Place: None, User Location: Chennai, India}
+{ID: 582053144999284736, Place: None, User Location: Chennai, India}
+{ID: 582053306668703745, Place: None, User Location: Chennai, India}
+{ID: 582053355679158272, Place: None, User Location: Chennai, India}
+{ID: 582053450294284288, Place: None, User Location: Chennai, India}
+{ID: 582055723875463168, Place: None, User Location: Chennai, India}
+{ID: 582055742829563904, Place: None, User Location: Chennai, India}
+{ID: 582055746663137281, Place: None, User Location: Chennai, India}
+{ID: 582059337616502784, Place: None, User Location: Chennai, India}
+{ID: 582059339877195776, Place: None, User Location: Chennai, India}
+{ID: 582059400308764672, Place: None, User Location: Chennai, India}
+{ID: 582059453966520320, Place: None, User Location: Chennai, India}
+{ID: 582059638134206464, Place: None, User Location: Chennai, India}
+{ID: 582060076116013056, Place: None, User Location: Chennai, India}
+{ID: 582060088023650305, Place: None, User Location: Chennai, India}
+{ID: 582060286355464193, Place: None, User Location: Chennai, India}
+{ID: 582061255235522560, Place: None, User Location: Chennai, India}
+{ID: 582064292339396608, Place: None, User Location: Chennai, India}
+{ID: 582066517438701569, Place: None, User Location: Chennai, India}
+{ID: 582066741456416768, Place: None, User Location: Chennai, India}
+{ID: 582066938332860416, Place: None, User Location: Chennai, India}
+{ID: 582067831254048769, Place: None, User Location: Chennai, India}
+{ID: 582069074047279105, Place: None, User Location: Chennai, India}
+{ID: 582070556327018496, Place: None, User Location: Chennai, India}
+{ID: 582073675043721216, Place: None, User Location: Chennai, India}
+{ID: 582073905378017280, Place: None, User Location: Chennai, India}
+{ID: 582074194642407424, Place: None, User Location: Chennai, India}
+{ID: 582074947377311745, Place: None, User Location: Chennai, India}
+{ID: 582075945646886912, Place: None, User Location: Chennai, India}
+{ID: 582075958624043008, Place: None, User Location: Chennai, India}
+{ID: 582076204095664128, Place: None, User Location: Chennai, India}
+{ID: 582079219829583872, Place: None, User Location: Chennai, India}
+{ID: 582079581537976320, Place: None, User Location: Chennai, India}
+{ID: 582079670683746306, Place: None, User Location: Chennai, India}
+{ID: 582079975500599296, Place: None, User Location: Chennai, India}
+{ID: 582080502364016640, Place: None, User Location: Chennai, India}
+{ID: 582080505639780352, Place: None, User Location: Chennai, India}
+{ID: 582080656554881024, Place: None, User Location: Chennai, India}
+{ID: 582080972314693632, Place: None, User Location: Chennai, India}
+{ID: 582081179869843456, Place: None, User Location: Chennai, India}
+{ID: 582081271884488705, Place: None, User Location: Chennai, India}
+{ID: 582081532883423233, Place: None, User Location: Chennai, India}
+{ID: 582082652347318272, Place: None, User Location: Chennai, India}
+{ID: 582082875459141632, Place: None, User Location: Chennai, India}
+{ID: 582084450294607872, Place: None, User Location: Chennai, India}
+{ID: 582084727558934528, Place: None, User Location: Chennai, India}
+{ID: 582085773123399680, Place: None, User Location: Chennai, India}
+{ID: 582085995119677440, Place: None, User Location: Chennai, India}
+{ID: 582086778657472512, Place: None, User Location: Chennai, India}
+{ID: 582086964876193793, Place: None, User Location: Chennai, India}
+{ID: 582086977169690624, Place: None, User Location: Chennai, India}
+{ID: 582087241033371649, Place: None, User Location: Chennai, India}
+{ID: 582089674983747587, Place: None, User Location: Chennai, India}
+{ID: 582090223963672578, Place: None, User Location: Chennai, India}
+{ID: 582093688488087553, Place: None, User Location: Chennai, India}
+{ID: 582094003044249600, Place: None, User Location: Chennai, India}
+{ID: 582095153592074240, Place: None, User Location: Chennai, India}
+{ID: 582095884290297857, Place: None, User Location: Chennai, India}
+{ID: 582096384049999872, Place: None, User Location: Chennai, India}
+{ID: 582096396871929856, Place: None, User Location: Chennai, India}
+{ID: 582101511838130176, Place: None, User Location: Chennai, India}
+{ID: 582101599973068800, Place: None, User Location: Chennai, India}
+{ID: 582104701346304000, Place: None, User Location: Chennai, India}
+{ID: 582104817406873600, Place: None, User Location: Chennai, India}
+{ID: 582105978058899456, Place: None, User Location: Chennai, India}
+{ID: 582106024250753024, Place: None, User Location: Chennai, India}
+{ID: 582108165380182017, Place: None, User Location: Chennai, India}
+{ID: 582108171331874816, Place: None, User Location: Chennai, India}
+{ID: 582108177807867904, Place: None, User Location: Chennai, India}
+{ID: 582108226113556480, Place: None, User Location: Chennai, India}
+{ID: 582108332015529986, Place: None, User Location: Chennai, India}
+{ID: 582108334188154880, Place: None, User Location: Chennai, India}
+{ID: 582108413120770048, Place: None, User Location: Chennai, India}
+{ID: 582108422612475904, Place: None, User Location: Chennai, India}
+{ID: 582108434104909824, Place: None, User Location: Chennai, India}
+{ID: 582108810875150336, Place: None, User Location: Chennai, India}
+{ID: 582109063745409025, Place: None, User Location: Chennai, India}
+{ID: 582109225003831296, Place: None, User Location: Chennai, India}
+{ID: 582109313100972032, Place: None, User Location: Chennai, India}
+{ID: 582109362094628864, Place: None, User Location: Chennai, India}
+{ID: 582109574921990144, Place: None, User Location: Chennai, India}
+{ID: 582109964786778112, Place: None, User Location: Chennai, India}
+{ID: 582110342752305152, Place: None, User Location: Chennai, India}
+{ID: 582110818273239041, Place: None, User Location: Chennai, India}
+{ID: 582028437436563456, Place: None, User Location: Chennai,India}
+{ID: 582030866030841856, Place: None, User Location: Chennai,India}
+{ID: 582036978042036224, Place: None, User Location: Chennai,India}
+{ID: 582037753325436928, Place: None, User Location: Chennai,India}
+{ID: 582048162015145984, Place: None, User Location: Chennai,India}
+{ID: 582048582477299712, Place: None, User Location: Chennai,India}
+{ID: 582066270540955648, Place: None, User Location: Chennai,India}
+{ID: 582069347016830976, Place: None, User Location: Chennai,India}
+{ID: 582075243038052353, Place: None, User Location: Chennai,India}
+{ID: 582078053439803392, Place: None, User Location: Chennai,India}
+{ID: 582082785554255872, Place: None, User Location: Chennai,India}
+{ID: 582084210833240064, Place: None, User Location: Chennai,India}
+{ID: 582084556339027968, Place: None, User Location: Chennai,India}
+{ID: 582084886439170048, Place: None, User Location: Chennai,India}
+{ID: 582108067887628290, Place: None, User Location: Chennai,India}
+{ID: 582109579019845632, Place: None, User Location: Chennai,India}
+{ID: 582109703829762048, Place: None, User Location: Chennai,India}
+{ID: 582030974654889985, Place: None, User Location: Chennai, TN, India}
+{ID: 582038487307710464, Place: None, User Location: Chennai, TN, India}
+{ID: 582040772821696513, Place: None, User Location: Chennai, TN, India}
+{ID: 582041104503046144, Place: None, User Location: Chennai, TN, India}
+{ID: 582066285938257920, Place: None, User Location: Chennai, TN, India}
+{ID: 582066548241616896, Place: None, User Location: Chennai, TN, India}
+{ID: 582067562512412672, Place: None, User Location: Chennai, TN, India}
+{ID: 582068727652356097, Place: None, User Location: Chennai, TN, India}
+{ID: 582077729958293504, Place: None, User Location: Chennai, TN, India}
+{ID: 582080443312291840, Place: None, User Location: Chennai, TN, India}
+{ID: 582081066782994432, Place: None, User Location: Chennai, TN, India}
+{ID: 582083233380069376, Place: None, User Location: Chennai, TN, India}
+{ID: 582085729649491968, Place: None, User Location: Chennai, TN, India}
+{ID: 582087616041877504, Place: None, User Location: Chennai, TN, India}
+{ID: 582088750823411712, Place: None, User Location: Chennai, TN, India}
+{ID: 582089740079345665, Place: None, User Location: Chennai, TN, India}
+{ID: 582098044675489794, Place: None, User Location: Chennai, TN, India}
+{ID: 582080695901663233, Place: None, User Location: Tamilnadu,India}
+{ID: 582110046244380672, Place: None, User Location: Tamilnadu,India}
+{ID: 582028148671262720, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582028348903137280, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582028793058963456, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582028871081402368, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582047868569014272, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067165919989760, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067244017958915, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067282186100736, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067490060001280, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067490072588288, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067740610928642, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067771493625856, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582067787922677760, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 582038049187459073, Place: None, User Location: India,Tamilnadu}
+{ID: 582038361600229376, Place: None, User Location: India,Tamilnadu}
+{ID: 582038403929096192, Place: None, User Location: India,Tamilnadu}
+{ID: 582038730250149889, Place: None, User Location: India,Tamilnadu}
+{ID: 582038851754926080, Place: None, User Location: India,Tamilnadu}
+{ID: 582043161431662592, Place: None, User Location: India,Tamilnadu}
+{ID: 582043267195273216, Place: None, User Location: India,Tamilnadu}
+{ID: 582082161009778688, Place: None, User Location: India,Tamilnadu}
+{ID: 582082258049241088, Place: None, User Location: India,Tamilnadu}
+{ID: 582082309093875713, Place: None, User Location: India,Tamilnadu}
+{ID: 582083156242640896, Place: None, User Location: India,Tamilnadu}
+{ID: 582084319042113536, Place: None, User Location: India,Tamilnadu}
+{ID: 582028983157428224, Place: None, User Location: Chennai,TN,India}
+{ID: 582076220478660608, Place: None, User Location: Chennai,TN,India}
+{ID: 582091994031214593, Place: None, User Location: Chennai,TN,India}
+{ID: 582029484817137664, Place: None, User Location: Chennai India !❤ }
+{ID: 582039568842506240, Place: None, User Location: Chennai, Tamil Nadu, India}
+{ID: 582057976640315392, Place: None, User Location: Chennai, Tamil Nadu, India}
+{ID: 582083181949538305, Place: None, User Location: Chennai, Tamil Nadu, India}
+{ID: 582108856198643713, Place: None, User Location: Chennai, Tamil Nadu, India}
+{ID: 582031603938902017, Place: None, User Location: India/TamilNadu}
+{ID: 582031708058337280, Place: None, User Location: India/TamilNadu}
+{ID: 582031781869666304, Place: None, User Location: India/TamilNadu}
+{ID: 582042425251618816, Place: None, User Location: India/TamilNadu}
+{ID: 582043530949988352, Place: None, User Location: India/TamilNadu}
+{ID: 582048780893233152, Place: None, User Location: India/TamilNadu}
+{ID: 582048942856228864, Place: None, User Location: India/TamilNadu}
+{ID: 582052708913451008, Place: None, User Location: India/TamilNadu}
+{ID: 582059552608251904, Place: None, User Location: India/TamilNadu}
+{ID: 582067784043114496, Place: None, User Location: India/TamilNadu}
+{ID: 582086948510142464, Place: None, User Location: India/TamilNadu}
+{ID: 582040819386834944, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+{ID: 582028642739363841, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582028932930670592, Place: None, User Location: Belukurichi, Tamil Nadu, India}
+
+{ID: 582029696885362689, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582030754860777472, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Vijay Raja's Apex, Chennai}
+
+{ID: 582031079650906112, Place: {u'full_name': u'Thiruparankundram, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2626ac0b0ebdb640.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.0635121, 9.8702293], [78.0635121, 9.8868224], [78.0882184, 9.8868224], [78.0882184, 9.8702293]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2626ac0b0ebdb640', u'name': u'Thiruparankundram'}, User Location: Perambalur }
+
+{ID: 582031179097899009, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Bangalore, India}
+
+{ID: 582033543372541952, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: Chennai,Tiruvalla(Kerala)India}
+
+{ID: 582034024165609474, Place: {u'full_name': u'Tamil Nadu, India', u'url': u'https://api.twitter.com/1.1/geo/id/4e61e76e6c68fcdf.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2331007, 8.0774475], [76.2331007, 13.5604201], [80.3463054, 13.5604201], [80.3463054, 8.0774475]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4e61e76e6c68fcdf', u'name': u'Tamil Nadu'}, User Location: Chennai/Salem}
+
+{ID: 582034730062778368, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582035328740921344, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582035387838676992, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582035479035396096, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582035637819179008, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582036420870574080, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582036998875037699, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+
+{ID: 582037110535766016, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: chennai , india}
+
+{ID: 582037302534262784, Place: {u'full_name': u'Krishnagiri, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/7178a13f6966cdb1.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.2061208, 12.5046078], [78.2061208, 12.537737], [78.2285032, 12.537737], [78.2285032, 12.5046078]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7178a13f6966cdb1', u'name': u'Krishnagiri'}, User Location: Krishnagiri}
+
+{ID: 582037435082653696, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+
+{ID: 582037820430106625, Place: {u'full_name': u'Coimbatore, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5446838227498f51.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.657719, 10.8079501], [76.657719, 11.2372976], [77.1004649, 11.2372976], [77.1004649, 10.8079501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5446838227498f51', u'name': u'Coimbatore'}, User Location: }
+
+{ID: 582038122050924544, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582038333859082240, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: }
+
+{ID: 582038392159911936, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582038602105819136, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: Chennai, India}
+
+{ID: 582038619365322752, Place: {u'full_name': u'Fort Tondiarpet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/236fe7c43d9dc36d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.242499, 13.0653565], [80.242499, 13.1478063], [80.3058759, 13.1478063], [80.3058759, 13.0653565]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'236fe7c43d9dc36d', u'name': u'Fort Tondiarpet'}, User Location: Puducherry}
+
+{ID: 582038670477123585, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582038698209857536, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: chennai}
+
+{ID: 582038729897828352, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Chennai, India}
+
+{ID: 582039105397137408, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: chennai}
+
+{ID: 582039366589018112, Place: None, User Location: Chennai, Tamil Nadu, India.}
+
+{ID: 582039708839976960, Place: {u'full_name': u'Sriperumbudur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/433606e43d277178.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.742551, 12.7844446], [79.742551, 13.142529], [80.185192, 13.142529], [80.185192, 12.7844446]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'433606e43d277178', u'name': u'Sriperumbudur'}, User Location: Jaipur, India}
+
+{ID: 582040277298200576, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582040662763155456, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582041147993763840, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582041307436077056, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Chennai}
+
+{ID: 582041393205407744, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582041970727473152, Place: {u'full_name': u'Tiruvallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6a236b3432e4837b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7338513, 12.9464399], [79.7338513, 13.3154946], [80.118571, 13.3154946], [80.118571, 12.9464399]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a236b3432e4837b', u'name': u'Tiruvallur'}, User Location: }
+
+{ID: 582042021986086912, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Vijay Raja's Apex, Chennai}
+
+{ID: 582042291348500480, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: Chennai, India}
+
+{ID: 582042395539206144, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Vijay Raja's Apex, Chennai}
+
+{ID: 582042437113159680, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582042586128326656, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582042794367168513, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582043264015990784, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582043569315147777, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582043761699491840, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582044045691658242, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582044499762749440, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582044509241880577, Place: {u'full_name': u'Perambur Purasavakam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5db3a8824a6d3205.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1934237, 13.080055], [80.1934237, 13.1293472], [80.2724855, 13.1293472], [80.2724855, 13.080055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5db3a8824a6d3205', u'name': u'Perambur Purasavakam'}, User Location: Chennai}
+
+{ID: 582045213419421697, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: }
+
+{ID: 582045602508201984, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582045642207309824, Place: None, User Location: Coimbatore,Tamil Nadu,India}
+
+{ID: 582046025772236800, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+
+{ID: 582046355520016384, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582046470859329536, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Chennai}
+
+{ID: 582046917221203968, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location:  Chennai}
+
+{ID: 582047188005429248, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582047592684515328, Place: {u'full_name': u'Tiruvallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6a236b3432e4837b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7338513, 12.9464399], [79.7338513, 13.3154946], [80.118571, 13.3154946], [80.118571, 12.9464399]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a236b3432e4837b', u'name': u'Tiruvallur'}, User Location: Tiruvallur, Tamil Nadu}
+
+{ID: 582047940144852992, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582048531554291712, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582048798043611136, Place: {u'full_name': u'Vaniyambadi, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/3b781dfba653a933.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.4693301, 12.4477326], [78.4693301, 12.9092084], [78.9174862, 12.9092084], [78.9174862, 12.4477326]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3b781dfba653a933', u'name': u'Vaniyambadi'}, User Location: Ambur}
+
+{ID: 582048933280505857, Place: {u'full_name': u'Tiruvallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6a236b3432e4837b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7338513, 12.9464399], [79.7338513, 13.3154946], [80.118571, 13.3154946], [80.118571, 12.9464399]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a236b3432e4837b', u'name': u'Tiruvallur'}, User Location: Tiruvallur, Tamil Nadu}
+
+{ID: 582049401255763968, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: }
+
+{ID: 582051030977761280, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582052300866351104, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: India}
+
+{ID: 582052346420580353, Place: {u'full_name': u'Chidambaram, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6ec788061230d1aa.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.6772895, 11.3755378], [79.6772895, 11.4173977], [79.7211262, 11.4173977], [79.7211262, 11.3755378]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6ec788061230d1aa', u'name': u'Chidambaram'}, User Location: Chidambaram,TN}
+
+{ID: 582052559633805313, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+
+{ID: 582052570635501568, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: }
+
+{ID: 582053285613432832, Place: {u'full_name': u'Mylapore Tiruvallike, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/03b7ea94ef68e9d7.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.2348852, 12.970918], [80.2348852, 13.0778711], [80.288726, 13.0778711], [80.288726, 12.970918]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'03b7ea94ef68e9d7', u'name': u'Mylapore Tiruvallike'}, User Location: Chennai, India}
+
+{ID: 582054949715996672, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582057375919566848, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Chennai}
+
+{ID: 582058181783777280, Place: {u'full_name': u'Perambur Purasavakam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5db3a8824a6d3205.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1934237, 13.080055], [80.1934237, 13.1293472], [80.2724855, 13.1293472], [80.2724855, 13.080055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5db3a8824a6d3205', u'name': u'Perambur Purasavakam'}, User Location: Chennai }
+
+{ID: 582061278530707456, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582062063394013184, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Jaipur, India}
+
+{ID: 582063198100197376, Place: {u'full_name': u'Mylapore Tiruvallike, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/03b7ea94ef68e9d7.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.2348852, 12.970918], [80.2348852, 13.0778711], [80.288726, 13.0778711], [80.288726, 12.970918]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'03b7ea94ef68e9d7', u'name': u'Mylapore Tiruvallike'}, User Location: Chennai, India}
+
+{ID: 582064325021425665, Place: {u'full_name': u'Tamil Nadu, India', u'url': u'https://api.twitter.com/1.1/geo/id/4e61e76e6c68fcdf.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2331007, 8.0774475], [76.2331007, 13.5604201], [80.3463054, 13.5604201], [80.3463054, 8.0774475]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4e61e76e6c68fcdf', u'name': u'Tamil Nadu'}, User Location: Chennai,TN-INDIA}
+
+{ID: 582066052831453184, Place: {u'full_name': u'Ambur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/46f0180cb5d9fd0a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.6867732, 12.7388932], [78.6867732, 12.8238837], [78.746738, 12.8238837], [78.746738, 12.7388932]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'46f0180cb5d9fd0a', u'name': u'Ambur'}, User Location: Chennai}
+
+{ID: 582066072074915843, Place: {u'full_name': u'Jayankondam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/170e2aef563d9965.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.3582396, 11.2035674], [79.3582396, 11.2191874], [79.3723764, 11.2191874], [79.3723764, 11.2035674]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'170e2aef563d9965', u'name': u'Jayankondam'}, User Location: jayankondam}
+
+{ID: 582066898696728576, Place: None, User Location: Chennai, Tamil Nadu, India.}
+
+{ID: 582068714557739008, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: Nuremberg, Germany}
+
+{ID: 582069352322588673, Place: {u'full_name': u'Egmore Nungambakkam, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/4ad0fa6d89777d40.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1851996, 13.0417174], [80.1851996, 13.091511], [80.2712123, 13.091511], [80.2712123, 13.0417174]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad0fa6d89777d40', u'name': u'Egmore Nungambakkam'}, User Location: India}
+
+{ID: 582070853577277440, Place: {u'full_name': u'Sriperumbudur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/433606e43d277178.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.742551, 12.7844446], [79.742551, 13.142529], [80.185192, 13.142529], [80.185192, 12.7844446]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'433606e43d277178', u'name': u'Sriperumbudur'}, User Location: Chennai, Tamil Nadu, India}
+
+{ID: 582070862708273153, Place: {u'full_name': u'Erode, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/0a05d71dc98412d9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.6144577, 11.0214129], [77.6144577, 11.4581607], [77.9322718, 11.4581607], [77.9322718, 11.0214129]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0a05d71dc98412d9', u'name': u'Erode'}, User Location: 18amohanur road,namakkal}
+
+{ID: 582071759353970688, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: Nuremberg, Germany}
+
+{ID: 582071776886202368, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Jaipur, India}
+
+{ID: 582072079354347520, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582072511757561856, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: pondicherry | chennai}
+
+{ID: 582073430423433217, Place: {u'full_name': u'Vaniyambadi, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/3b781dfba653a933.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.4693301, 12.4477326], [78.4693301, 12.9092084], [78.9174862, 12.9092084], [78.9174862, 12.4477326]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3b781dfba653a933', u'name': u'Vaniyambadi'}, User Location: Ambur}
+
+{ID: 582074546896928768, Place: {u'full_name': u'Mylapore Tiruvallike, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/03b7ea94ef68e9d7.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.2348852, 12.970918], [80.2348852, 13.0778711], [80.288726, 13.0778711], [80.288726, 12.970918]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'03b7ea94ef68e9d7', u'name': u'Mylapore Tiruvallike'}, User Location: Chennai, India}
+
+{ID: 582076545826619392, Place: None, User Location: Tamil Nadu, India}
+
+{ID: 582077363476779008, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: }
+
+{ID: 582077708642865152, Place: {u'full_name': u'Mahabalipuram, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2334f30d439ee6bf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1673316, 12.592631], [80.1673316, 12.6561512], [80.2077868, 12.6561512], [80.2077868, 12.592631]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2334f30d439ee6bf', u'name': u'Mahabalipuram'}, User Location: Mahabalipuram, Chennai, TN}
+
+{ID: 582078898688507904, Place: {u'full_name': u'Tamil Nadu, India', u'url': u'https://api.twitter.com/1.1/geo/id/4e61e76e6c68fcdf.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2331007, 8.0774475], [76.2331007, 13.5604201], [80.3463054, 13.5604201], [80.3463054, 8.0774475]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4e61e76e6c68fcdf', u'name': u'Tamil Nadu'}, User Location: Earth}
+
+{ID: 582080339616526336, Place: {u'full_name': u'Ambur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/46f0180cb5d9fd0a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.6867732, 12.7388932], [78.6867732, 12.8238837], [78.746738, 12.8238837], [78.746738, 12.7388932]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'46f0180cb5d9fd0a', u'name': u'Ambur'}, User Location: Chennai}
+
+{ID: 582081072948641792, Place: {u'full_name': u'Kanchipuram, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/607398d3dd9a949e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.559675, 12.6998001], [79.559675, 12.9934401], [79.9116234, 12.9934401], [79.9116234, 12.6998001]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'607398d3dd9a949e', u'name': u'Kanchipuram'}, User Location: Mumbai}
+
+{ID: 582081500927012864, Place: {u'full_name': u'Fort Tondiarpet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/236fe7c43d9dc36d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.242499, 13.0653565], [80.242499, 13.1478063], [80.3058759, 13.1478063], [80.3058759, 13.0653565]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'236fe7c43d9dc36d', u'name': u'Fort Tondiarpet'}, User Location: india}
+
+{ID: 582081763268132864, Place: {u'full_name': u'Coimbatore, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5446838227498f51.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.657719, 10.8079501], [76.657719, 11.2372976], [77.1004649, 11.2372976], [77.1004649, 10.8079501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5446838227498f51', u'name': u'Coimbatore'}, User Location: coimbatore }
+
+{ID: 582082591437656064, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: Chennai}
+
+{ID: 582083617007898625, Place: None, User Location: Chennai,Tamil Nadu,India}
+
+{ID: 582084132034867201, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: India}
+
+{ID: 582084232412950529, Place: {u'full_name': u'Coimbatore, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5446838227498f51.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.657719, 10.8079501], [76.657719, 11.2372976], [77.1004649, 11.2372976], [77.1004649, 10.8079501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5446838227498f51', u'name': u'Coimbatore'}, User Location: kochy , India}
+
+{ID: 582084380903915520, Place: {u'full_name': u'Coimbatore, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5446838227498f51.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.657719, 10.8079501], [76.657719, 11.2372976], [77.1004649, 11.2372976], [77.1004649, 10.8079501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5446838227498f51', u'name': u'Coimbatore'}, User Location: kochy , India}
+
+{ID: 582084774103117824, Place: {u'full_name': u'Kanchipuram, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/607398d3dd9a949e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.559675, 12.6998001], [79.559675, 12.9934401], [79.9116234, 12.9934401], [79.9116234, 12.6998001]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'607398d3dd9a949e', u'name': u'Kanchipuram'}, User Location: Mumbai}
+
+{ID: 582085513768607744, Place: {u'full_name': u'Coimbatore, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5446838227498f51.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.657719, 10.8079501], [76.657719, 11.2372976], [77.1004649, 11.2372976], [77.1004649, 10.8079501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5446838227498f51', u'name': u'Coimbatore'}, User Location: kochy , India}
+
+{ID: 582086973747122176, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: chennai}
+
+{ID: 582089124292620288, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: Virudhunagar, India}
+
+{ID: 582090833697984512, Place: {u'full_name': u'Salem, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/540364a523836e3c.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9973781, 11.5108724], [77.9973781, 11.9354235], [78.4772213, 11.9354235], [78.4772213, 11.5108724]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'540364a523836e3c', u'name': u'Salem'}, User Location: Tamil Nadu, India}
+
+{ID: 582093067420725248, Place: {u'full_name': u'Palayankottai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/5f085f0296fcc930.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.6986478, 8.6610507], [77.6986478, 8.7497038], [77.7812772, 8.7497038], [77.7812772, 8.6610507]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f085f0296fcc930', u'name': u'Palayankottai'}, User Location: Tuticorin / Tirunelveli}
+
+{ID: 582094193876541442, Place: {u'full_name': u'Nandivaram-Guduvancheri, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/7fea55ea69418497.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0511024, 12.8356996], [80.0511024, 12.8542648], [80.0715575, 12.8542648], [80.0715575, 12.8356996]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7fea55ea69418497', u'name': u'Nandivaram-Guduvancheri'}, User Location: chennai,tamilnadu,india}
+
+{ID: 582094449229991936, Place: {u'full_name': u'Chengalpattu, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/50cc45b2c2e65034.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.8761575, 12.4637819], [79.8761575, 12.8791905], [80.2555448, 12.8791905], [80.2555448, 12.4637819]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'50cc45b2c2e65034', u'name': u'Chengalpattu'}, User Location: Chennai, Tamil Nadu}
+
+{ID: 582095235804626944, Place: {u'full_name': u'Chengalpattu, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/50cc45b2c2e65034.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.8761575, 12.4637819], [79.8761575, 12.8791905], [80.2555448, 12.8791905], [80.2555448, 12.4637819]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'50cc45b2c2e65034', u'name': u'Chengalpattu'}, User Location: Chennai, Tamil Nadu}
+
+{ID: 582096057431031808, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+
+{ID: 582096089433575424, Place: {u'full_name': u'Nandivaram-Guduvancheri, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/7fea55ea69418497.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0511024, 12.8356996], [80.0511024, 12.8542648], [80.0715575, 12.8542648], [80.0715575, 12.8356996]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7fea55ea69418497', u'name': u'Nandivaram-Guduvancheri'}, User Location: chennai,tamilnadu,india}
+
+{ID: 582096369655001089, Place: {u'full_name': u'Saidapet, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/6d86f195adaa42fb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0765774, 13.0248559], [80.0765774, 13.2340278], [80.3329248, 13.2340278], [80.3329248, 13.0248559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d86f195adaa42fb', u'name': u'Saidapet'}, User Location: }
+
+{ID: 582096461103431681, Place: {u'full_name': u'Sholinganallur, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.0561611, 12.8503281], [80.0561611, 13.0285928], [80.2681922, 13.0285928], [80.2681922, 12.8503281]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a3a6daaec3b0848', u'name': u'Sholinganallur'}, User Location: }
+
+{ID: 582103416127664128, Place: {u'full_name': u'Tiruchirapalli, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/3cdbb915855650ac.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.4647214, 10.6408681], [78.4647214, 10.9177777], [78.8804711, 10.9177777], [78.8804711, 10.6408681]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3cdbb915855650ac', u'name': u'Tiruchirapalli'}, User Location: TN, INDIA }
+
+{ID: 582107661413416962, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: chennai , India}
+
+{ID: 582110020927553536, Place: {u'full_name': u'Chennai, Tamil Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1830806, 12.965942], [80.1830806, 13.0604949], [80.252142, 13.0604949], [80.252142, 12.965942]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'38ac902a28ee86da', u'name': u'Chennai'}, User Location: }
+{ID: 582030517987512320, Place: None, User Location: Chennai/India}
+
+{ID: 582034778901245953, Place: None, User Location: India,chennai}
+
+{ID: 582035271413153792, Place: {u'full_name': u'Fort Tondiarpet, Tami Nadu', u'url': u'https://api.twitter.com/1.1/geo/id/236fe7c43d9dc36d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.242499, 13.0653565], [80.242499, 13.1478063], [80.3058759, 13.1478063], [80.3058759, 13.0653565]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'236fe7c43d9dc36d', u'name': u'Fort Tondiarpet'}, User Location: Chennai}
+
+{ID: 582035622937804802, Place: None, User Location: Chicago, US & Chennai, India}
+
+{ID: 582036852829487104, Place: None, User Location: Kodambakkam, Chennai,India}
+
+{ID: 582037375552917504, Place: None, User Location: Chennai/India}
+
+{ID: 582037457073377280, Place: None, User Location: Chennai/India}
+
+{ID: 582037881612455936, Place: None, User Location: Chennai/India}
+
+{ID: 582038334727286784, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582038504328196096, Place: None, User Location: Chennai , India }
+
+{ID: 582039198028288001, Place: None, User Location: Chennai , India }
+
+{ID: 582039621091000320, Place: None, User Location: Chennai/India}
+
+{ID: 582040117604274176, Place: None, User Location: India,chennai }
+
+{ID: 582040574682800131, Place: None, User Location: Chennai, India }
+
+{ID: 582040948042964994, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location:   ஆதிசிவன் -Madurai / Chennai }
+
+{ID: 582040986441805824, Place: None, User Location: Chennai/India}
+
+{ID: 582041178247282688, Place: None, User Location: Chennai/India}
+
+{ID: 582044170841292801, Place: None, User Location: Chennai India}
+
+{ID: 582044514677694464, Place: None, User Location: Chennai India}
+
+{ID: 582045767424028676, Place: None, User Location: Nandanam, Chennai, India }
+
+{ID: 582047072846630912, Place: None, User Location: Chennai,Tamilnadu,India}
+
+{ID: 582047868606889985, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582052609889976320, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582053255607250945, Place: None, User Location: Chennai, India.}
+
+{ID: 582053354718658561, Place: None, User Location: Chennai, India.}
+
+{ID: 582053473237086208, Place: None, User Location: Chennai, India.}
+
+{ID: 582054917419859968, Place: None, User Location: Dharmapuri/Chennai, India}
+
+{ID: 582055764090445824, Place: None, User Location: #NammaChennai, India}
+
+{ID: 582057992494837761, Place: None, User Location: chennai,Tamilnadu,India}
+
+{ID: 582062316864172032, Place: None, User Location: Chennai/ India}
+
+{ID: 582064661303955458, Place: {u'full_name': u'Adyar, Mylapore Tiruvallike', u'url': u'https://api.twitter.com/1.1/geo/id/44baaa70c51ede61.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.2348852, 12.9748653], [80.2348852, 13.0190951], [80.2792886, 13.0190951], [80.2792886, 12.9748653]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44baaa70c51ede61', u'name': u'Adyar'}, User Location: Chennai - India}
+
+{ID: 582066151808634880, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582066483905228800, Place: None, User Location: #NammaChennai, India}
+
+{ID: 582067283230511104, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582067762207424512, Place: None, User Location: Chennai/India}
+
+{ID: 582071413034516480, Place: None, User Location: Madras/Chennai, India}
+
+{ID: 582071987154993153, Place: None, User Location: chennai,  India}
+
+{ID: 582072539490320384, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Chennai/Hyderabad}
+
+{ID: 582075224453058561, Place: None, User Location: Chennai/India}
+
+{ID: 582075960066994176, Place: None, User Location: Chennai-Pondy-India}
+
+{ID: 582078083131314176, Place: None, User Location: chennai India}
+
+{ID: 582078890710978560, Place: {u'full_name': u'Kumarappan Nagar, Cuddalore', u'url': u'https://api.twitter.com/1.1/geo/id/7222993465d0e4b1.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7507977, 11.7624979], [79.7507977, 11.7752163], [79.7656464, 11.7752163], [79.7656464, 11.7624979]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7222993465d0e4b1', u'name': u'Kumarappan Nagar'}, User Location: Chennai,TN-INDIA}
+
+{ID: 582079315778523137, Place: {u'full_name': u'Kumarappan Nagar, Cuddalore', u'url': u'https://api.twitter.com/1.1/geo/id/7222993465d0e4b1.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7507977, 11.7624979], [79.7507977, 11.7752163], [79.7656464, 11.7752163], [79.7656464, 11.7624979]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7222993465d0e4b1', u'name': u'Kumarappan Nagar'}, User Location: Chennai,TN-INDIA}
+
+{ID: 582079779941154816, Place: {u'full_name': u'Kumarappan Nagar, Cuddalore', u'url': u'https://api.twitter.com/1.1/geo/id/7222993465d0e4b1.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7507977, 11.7624979], [79.7507977, 11.7752163], [79.7656464, 11.7752163], [79.7656464, 11.7624979]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7222993465d0e4b1', u'name': u'Kumarappan Nagar'}, User Location: Chennai,TN-INDIA}
+
+{ID: 582079916620959744, Place: None, User Location: Chennai,  India }
+
+{ID: 582080060930166784, Place: None, User Location: chennai,  India}
+
+{ID: 582080221345497088, Place: {u'full_name': u'Kumarappan Nagar, Cuddalore', u'url': u'https://api.twitter.com/1.1/geo/id/7222993465d0e4b1.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7507977, 11.7624979], [79.7507977, 11.7752163], [79.7656464, 11.7752163], [79.7656464, 11.7624979]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7222993465d0e4b1', u'name': u'Kumarappan Nagar'}, User Location: Chennai,TN-INDIA}
+
+{ID: 582080237426495488, Place: None, User Location: Chennai, Tamilnadu, India}
+
+{ID: 582081242947960832, Place: None, User Location: Chennai, India }
+
+{ID: 582083636645638144, Place: None, User Location: Ahmedabad/Chennai , India}
+
+{ID: 582084921591619585, Place: None, User Location: chennai,India }
+
+{ID: 582085830467919872, Place: None, User Location: Madras (chennai), India}
+
+{ID: 582087607221297152, Place: None, User Location: Chennai/India}
+
+{ID: 582089671502487552, Place: None, User Location: Chennai/India}
+
+{ID: 582090624687423489, Place: None, User Location: Nandanam, Chennai, India }
+
+{ID: 582090628923686912, Place: None, User Location: Nandanam, Chennai, India }
+
+{ID: 582091978994679809, Place: None, User Location: Chennai.India}
+
+{ID: 582100839457652736, Place: {u'full_name': u'Mandaveli, Mylapore Tiruvallike', u'url': u'https://api.twitter.com/1.1/geo/id/675315caa29a81ec.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.2489368, 13.0108744], [80.2489368, 13.0294053], [80.2811812, 13.0294053], [80.2811812, 13.0108744]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'675315caa29a81ec', u'name': u'Mandaveli'}, User Location: Chennai, India}
+
+{ID: 582105179622764545, Place: None, User Location: Chennai,TamilNadu,India}
+{ID: 582028755620610048, Place: None, User Location: Coimbatore, India}
+
+{ID: 582030696945848320, Place: None, User Location: Coimbatore, India}
+
+{ID: 582037517869801472, Place: None, User Location: Coimbatore,India}
+
+{ID: 582040317072805888, Place: None, User Location: Coimbatore, India}
+
+{ID: 582046476722794497, Place: None, User Location: Coimbatore,India}
+
+{ID: 582059491908255744, Place: None, User Location: Coimbatore, India}
+
+{ID: 582061263510896640, Place: None, User Location: Coimbatore,India}
+
+{ID: 582061445417848832, Place: None, User Location: Coimbatore, Tamilnadu, India}
+
+{ID: 582063637616967681, Place: None, User Location: Coimbatore, India}
+
+{ID: 582066034074488832, Place: None, User Location: Coimbatore,India}
+
+{ID: 582066556726693888, Place: None, User Location: Coimbatore, Tamilnadu, India.}
+
+{ID: 582066813380349952, Place: None, User Location: Coimbatore, Tamilnadu, India.}
+
+{ID: 582067320660480001, Place: None, User Location: Coimbatore,India}
+
+{ID: 582070852746907648, Place: None, User Location: coimbatore,India}
+
+{ID: 582070869830189058, Place: None, User Location: Coimbatore,India}
+
+{ID: 582074202993233920, Place: None, User Location: Coimbatore, India}
+
+{ID: 582075952890388480, Place: None, User Location: Coimbatore, India}
+
+{ID: 582079087050518528, Place: None, User Location: Coimbatore / Banglore , India}
+
+{ID: 582081282907213824, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582081392336629761, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582081566467309568, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582081678862077952, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582081958236274688, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582082275652829185, Place: None, User Location: Pollachi, Coimbatore,India}
+
+{ID: 582082763588657152, Place: None, User Location: Coimbatore, Tamilnadu, India.}
+
+{ID: 582082776163201024, Place: None, User Location: Coimbatore, Tamilnadu, India.}
+
+{ID: 582083274127757312, Place: None, User Location: Coimbatore, Tamilnadu, India.}
+
+{ID: 582107115684114432, Place: None, User Location: Coimbatore, India}
+
+{ID: 582107964376424449, Place: None, User Location: Coimbatore, India}
+{ID: 582032023310618624, Place: None, User Location: Tamilnadu, India}
+
+{ID: 582043125926891520, Place: None, User Location: Tamilnadu, India}
+
+{ID: 582046323626504194, Place: None, User Location: Tamilnadu, India}
+
+{ID: 582052568378916865, Place: None, User Location: KanyaKumari,TamilNadu,India}
+
+{ID: 582064316804780032, Place: None, User Location: Tindivanam Tamilnadu India }
+
+{ID: 582064638046535681, Place: None, User Location: Tamilnadu, India}
+
+{ID: 582075734425911296, Place: None, User Location: Tamilnadu, India}
+
+{ID: 582079273600573440, Place: None, User Location: Erode , Tamilnadu , India.}
+
+{ID: 582079574361530368, Place: None, User Location: Erode , Tamilnadu , India.}
+
+{ID: 582082053719490560, Place: None, User Location: India,Tamilnadu,Salem.}
+
+{ID: 582084467298152448, Place: None, User Location: Thanjavur,Tamilnadu, India }
+
+{ID: 582084855468417024, Place: None, User Location: Thanjavur,Tamilnadu, India }
+
+{ID: 582084944316342272, Place: None, User Location: Thanjavur,Tamilnadu, India }
+
+{ID: 582084997156225024, Place: None, User Location: Thanjavur,Tamilnadu, India }
+
+{ID: 582085019709022210, Place: None, User Location: India,Tamilnadu,Thoothukudi}
+
+{ID: 582085254988632064, Place: None, User Location: Tuticorin , Tamilnadu , India}
+
+{ID: 582087090109706240, Place: None, User Location: Tuticorin , Tamilnadu , India}
+{ID: 582035691904741376, Place: None, User Location: Madras, India}
+
+{ID: 582045249381371905, Place: None, User Location: Madras, India}
+
+{ID: 582045695747579904, Place: None, User Location: MADras,India}
+
+{ID: 582048158240256001, Place: None, User Location: Madras, India}
+
+{ID: 582048244705861632, Place: None, User Location: Madras, India}
+
+{ID: 582053140276461568, Place: None, User Location: Madras, India}
+
+{ID: 582059853947908097, Place: None, User Location: Madras, India}
+
+{ID: 582062336686469120, Place: None, User Location: Madras, India}
+
+{ID: 582077693165899778, Place: None, User Location: Madras / Vellore,India}
+{ID: 582043475971031040, Place: None, User Location: Vellore, India}
+
+{ID: 582052140643790848, Place: None, User Location: vellore, India}
+
+{ID: 582055745417449472, Place: None, User Location: vellore, India}
+
+{ID: 582084990457921537, Place: None, User Location: Vellore, India}
+{ID: 582037718491758592, Place: None, User Location: Trichy, India}
+
+{ID: 582099074691698690, Place: None, User Location: Trichy, India}
+{ID: 582037297794682880, Place: None, User Location: Gobichettipalayam,TN,India }
+
+{ID: 582062620313780224, Place: None, User Location: irumeni,TN ,India}
+{ID: 582066868573237248, Place: None, User Location: Madurai, India}
+
+{ID: 582104886289944576, Place: None, User Location: Madurai,India}
+
+{ID: 582107341606121472, Place: None, User Location: Madurai, India}
+{ID: 582041389174685696, Place: None, User Location: Thanjavur, India}
+
+{ID: 582045297515237376, Place: None, User Location: Thanjavur, India}
+
+{ID: 582049139212427265, Place: None, User Location: Thanjavur, India}
+
+{ID: 582049588267233280, Place: None, User Location: Thanjavur, India}
+
+{ID: 582052786126266368, Place: None, User Location: Thanjavur, India}
+
+{ID: 582052976300138497, Place: None, User Location: Thanjavur, India}
+
+{ID: 582062607323959296, Place: None, User Location: Thanjavur, India}
+
+{ID: 582070265561018368, Place: None, User Location: Thanjavur, India}
+
+{ID: 582072420250464258, Place: None, User Location: Thanjavur, India}
+
+{ID: 582080528737677312, Place: None, User Location: Thanjavur, India}
+
+{ID: 582080575571243008, Place: None, User Location: Thanjavur, India}
+
+{ID: 582080838088536064, Place: None, User Location: Thanjavur, India}
+
+{ID: 582096673469411328, Place: None, User Location: Thanjavur, India}
+
+{ID: 582039286578438144, Place: None, User Location: Karur, India}
+
+{ID: 582054929063280640, Place: None, User Location: Tamil nadu,India.}
+{ID: 582084974293073921, Place: None, User Location: Tiruppur, India}

@@ -1,0 +1,394 @@
+{ID: 582028163607236608, Place: None, User Location: Ahmedabad,India}
+{ID: 582052981945724928, Place: None, User Location: Ahmedabad,India}
+{ID: 582053396259037184, Place: None, User Location: Ahmedabad,India}
+{ID: 582055283989483520, Place: None, User Location: Ahmedabad,India}
+{ID: 582028465815187456, Place: None, User Location: Rajkot,Gujarat,India}
+{ID: 582028663085875201, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad}
+
+{ID: 582029707060879360, Place: None, User Location: Ahmadabad City, Gujarat,India.}
+
+{ID: 582030163807875072, Place: None, User Location: Jamnagar, Gujarat, India}
+
+{ID: 582030198113112064, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582032107171524608, Place: None, User Location: Gujarat, India }
+
+{ID: 582034044583485440, Place: {u'full_name': u'Adalaj, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/13967208465ecd3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5782808, 23.1588075], [72.5782808, 23.1690558], [72.5891861, 23.1690558], [72.5891861, 23.1588075]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13967208465ecd3b', u'name': u'Adalaj'}, User Location: AHMEDABAD,GUJARAT,INDIA}
+
+{ID: 582034057501896704, Place: {u'full_name': u'Sanand, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/49f3898ecb0fb21d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.0893284, 22.7747994], [72.0893284, 23.1217517], [72.4896372, 23.1217517], [72.4896372, 22.7747994]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'49f3898ecb0fb21d', u'name': u'Sanand'}, User Location: Ahmedabad, India}
+
+{ID: 582034847872385025, Place: None, User Location: Ahmedabad , Gujarat, India}
+
+{ID: 582035002679930880, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582035434336735232, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582035707469766657, Place: None, User Location: Gujarat, India }
+
+{ID: 582035811413024768, Place: {u'full_name': u'Atul, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/649af0cdf423be28.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9209424, 20.5313371], [72.9209424, 20.5596251], [72.9645134, 20.5596251], [72.9645134, 20.5313371]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'649af0cdf423be28', u'name': u'Atul'}, User Location: Atul, Valsad, Gujarat}
+
+{ID: 582035830761353216, Place: None, User Location: The India ( The Gujarat )}
+
+{ID: 582035957056032768, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582037147466629120, Place: None, User Location: Ahmedabad, Gujarat, India }
+
+{ID: 582037323056971776, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad}
+
+{ID: 582037410332065793, Place: None, User Location: Gujarat,India}
+
+{ID: 582037518004019200, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582037615349665792, Place: {u'full_name': u'Gandhinagar, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/64a2dbba3da7cc07.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5296164, 23.0886555], [72.5296164, 23.3417984], [72.8149359, 23.3417984], [72.8149359, 23.0886555]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64a2dbba3da7cc07', u'name': u'Gandhinagar'}, User Location: Ahmedabad}
+
+{ID: 582038249691983872, Place: None, User Location: Ahmedabad,Gujarat,India}
+
+{ID: 582038561043574784, Place: None, User Location: Asia,India,Gujarat,Ahmedabad}
+
+{ID: 582040367773544449, Place: None, User Location: Ahmedabad ,Gujarat,India}
+
+{ID: 582040947174703104, Place: None, User Location: Mahuva,Gujarat,India}
+
+{ID: 582041508452257792, Place: None, User Location: Gujarat, India}
+
+{ID: 582042087530496000, Place: None, User Location: Gujarat , India}
+
+{ID: 582042764361138177, Place: None, User Location: Asia,India,Gujarat,Ahmedabad}
+
+{ID: 582043289634889728, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582043301991165953, Place: None, User Location: Baroda, Gujarat,India}
+
+{ID: 582043455263653890, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582044127723790336, Place: None, User Location: Gujarat, India}
+
+{ID: 582044286159482880, Place: None, User Location: Surat , Gujarat , India}
+
+{ID: 582044356133007360, Place: None, User Location: Gujarat, India }
+
+{ID: 582044958665801729, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582045190396903424, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582045319040405504, Place: None, User Location: Ahmedabad , Gujarat, India}
+
+{ID: 582045644551933954, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmadabad City, Gujarat,India}
+
+{ID: 582045731961221120, Place: None, User Location: Gujarat , India}
+
+{ID: 582045817885753344, Place: None, User Location: Gujarat , India}
+
+{ID: 582045870574559232, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582046258828705792, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582047539383246848, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582047731683758081, Place: {u'full_name': u'Gandhinagar, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/64a2dbba3da7cc07.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5296164, 23.0886555], [72.5296164, 23.3417984], [72.8149359, 23.3417984], [72.8149359, 23.0886555]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64a2dbba3da7cc07', u'name': u'Gandhinagar'}, User Location: India}
+
+{ID: 582048144831033344, Place: {u'full_name': u'Vadodra, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/4ce934ba299b9a1a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.048892, 22.0883819], [73.048892, 22.4654456], [73.3121377, 22.4654456], [73.3121377, 22.0883819]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ce934ba299b9a1a', u'name': u'Vadodra'}, User Location: Vadodara, Gujarat, India}
+
+{ID: 582050975558422528, Place: None, User Location: Gujarat, The Great India }
+
+{ID: 582050985381531650, Place: {u'full_name': u'Atul, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/649af0cdf423be28.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9209424, 20.5313371], [72.9209424, 20.5596251], [72.9645134, 20.5596251], [72.9645134, 20.5313371]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'649af0cdf423be28', u'name': u'Atul'}, User Location: Atul, Valsad, Gujarat}
+
+{ID: 582050986241359872, Place: {u'full_name': u'Surat, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7a598db14c6554b8.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6093373, 21.0356189], [72.6093373, 21.3071186], [72.9688716, 21.3071186], [72.9688716, 21.0356189]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a598db14c6554b8', u'name': u'Surat'}, User Location: Somewhere}
+
+{ID: 582052652541874176, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad,Gujarat,India}
+
+{ID: 582052689279762432, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582052790748348416, Place: None, User Location: Kutchchh, Gujarat, India}
+
+{ID: 582053217661415424, Place: {u'full_name': u'Rajkot, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/427c27cd45726e87.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[70.6946405, 22.0469901], [70.6946405, 22.4778647], [71.097384, 22.4778647], [71.097384, 22.0469901]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'427c27cd45726e87', u'name': u'Rajkot'}, User Location: }
+
+{ID: 582053493843701760, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582055240247083009, Place: None, User Location: Asia,India,Gujarat,Ahmedabad}
+
+{ID: 582055280894029824, Place: None, User Location: Asia,India,Gujarat,Ahmedabad}
+
+{ID: 582057308324155392, Place: None, User Location: Surat, Gujarat, India}
+
+{ID: 582059527329034240, Place: {u'full_name': u'Atul, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/649af0cdf423be28.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9209424, 20.5313371], [72.9209424, 20.5596251], [72.9645134, 20.5596251], [72.9645134, 20.5313371]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'649af0cdf423be28', u'name': u'Atul'}, User Location: Atul, Valsad, Gujarat}
+
+{ID: 582059634384474112, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582060504429903872, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582061270746021889, Place: {u'full_name': u'Pardi, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7291fea424d0d97c.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9385006, 20.502115], [72.9385006, 20.5289744], [72.969511, 20.5289744], [72.969511, 20.502115]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7291fea424d0d97c', u'name': u'Pardi'}, User Location: Gujarat, India}
+
+{ID: 582062068318146560, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582063873731100672, Place: {u'full_name': u'Atul, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/649af0cdf423be28.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9209424, 20.5313371], [72.9209424, 20.5596251], [72.9645134, 20.5596251], [72.9645134, 20.5313371]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'649af0cdf423be28', u'name': u'Atul'}, User Location: Atul, Valsad, Gujarat}
+
+{ID: 582066821668335616, Place: None, User Location: Gandhidham(gujarat) -India}
+
+{ID: 582066950295064576, Place: None, User Location: Ahmedabad , Gujarat, India}
+
+{ID: 582067532938407938, Place: None, User Location: Vadodara , Gujarat , India}
+
+{ID: 582067784273694720, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Gandhinagar,gujarat}
+
+{ID: 582069023417872384, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad, India}
+
+{ID: 582070561360113664, Place: {u'full_name': u'Daskroi, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/29df412574636590.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4300806, 22.797559], [72.4300806, 23.1642953], [72.8432746, 23.1642953], [72.8432746, 22.797559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'29df412574636590', u'name': u'Daskroi'}, User Location: Ahmedabad}
+
+{ID: 582070869863723008, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582072041907486720, Place: {u'full_name': u'Atul, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/649af0cdf423be28.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9209424, 20.5313371], [72.9209424, 20.5596251], [72.9645134, 20.5596251], [72.9645134, 20.5313371]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'649af0cdf423be28', u'name': u'Atul'}, User Location: Atul, Valsad, Gujarat}
+
+{ID: 582072469286060032, Place: {u'full_name': u'Surat, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7a598db14c6554b8.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6093373, 21.0356189], [72.6093373, 21.3071186], [72.9688716, 21.3071186], [72.9688716, 21.0356189]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a598db14c6554b8', u'name': u'Surat'}, User Location: Surat - Gujarat- INDIA}
+
+{ID: 582073264115068928, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582073282804908033, Place: None, User Location: Nadiad, Gujarat, India}
+
+{ID: 582073934926872576, Place: {u'full_name': u'Surat, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7a598db14c6554b8.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6093373, 21.0356189], [72.6093373, 21.3071186], [72.9688716, 21.3071186], [72.9688716, 21.0356189]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a598db14c6554b8', u'name': u'Surat'}, User Location: Surat - Gujarat- INDIA}
+
+{ID: 582074562688331776, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Ahmedabad, India}
+
+{ID: 582074935218065408, Place: {u'full_name': u'Surat, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7a598db14c6554b8.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.6093373, 21.0356189], [72.6093373, 21.3071186], [72.9688716, 21.3071186], [72.9688716, 21.0356189]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a598db14c6554b8', u'name': u'Surat'}, User Location: India}
+
+{ID: 582075237040259072, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582075711185268736, Place: None, User Location: Gujarat, India}
+
+{ID: 582076197686792192, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582076522250379264, Place: None, User Location: Gujarat, India}
+
+{ID: 582077367339786241, Place: None, User Location: Gujarat, India }
+
+{ID: 582078638058672128, Place: None, User Location: Gujarat, India}
+
+{ID: 582078671319474176, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582079323911294976, Place: None, User Location: Gujarat, India}
+
+{ID: 582079619106357248, Place: {u'full_name': u'Vadodra, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/4ce934ba299b9a1a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.048892, 22.0883819], [73.048892, 22.4654456], [73.3121377, 22.4654456], [73.3121377, 22.0883819]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ce934ba299b9a1a', u'name': u'Vadodra'}, User Location: United Kingdom/India}
+
+{ID: 582079732843290624, Place: None, User Location: Gujarat, India}
+
+{ID: 582080213120471040, Place: None, User Location: Gujarat, India}
+
+{ID: 582080352505581568, Place: {u'full_name': u'Vadodra, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/4ce934ba299b9a1a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.048892, 22.0883819], [73.048892, 22.4654456], [73.3121377, 22.4654456], [73.3121377, 22.0883819]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ce934ba299b9a1a', u'name': u'Vadodra'}, User Location: United Kingdom/India}
+
+{ID: 582080550703247361, Place: None, User Location: Kathalal,Gujarat,India}
+
+{ID: 582080602892935169, Place: None, User Location: Kathalal,Gujarat,India}
+
+{ID: 582080699659735040, Place: {u'full_name': u'Kadodara, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/0cab030550cca54a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.9382787, 21.1471944], [72.9382787, 21.1822125], [72.9698261, 21.1822125], [72.9698261, 21.1471944]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0cab030550cca54a', u'name': u'Kadodara'}, User Location: }
+
+{ID: 582081087863545857, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582081414855700480, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582081628291231744, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: Surat}
+
+{ID: 582082150746324992, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582082384037822465, Place: None, User Location: Gujarat, India}
+
+{ID: 582083909321502720, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582084570884935680, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582084860103147520, Place: None, User Location: Gujarat,India}
+
+{ID: 582086405087567872, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: India}
+
+{ID: 582087033671184384, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582087089400885248, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582088043328241664, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582088077075750912, Place: None, User Location: Gujarat, India}
+
+{ID: 582090191139004416, Place: None, User Location: Ahmedabad,Gujarat,India}
+
+{ID: 582090216120324097, Place: None, User Location: Vadodara, Gujarat, India}
+
+{ID: 582091556548714496, Place: None, User Location: India-Gujarat-(Kutch)}
+
+{ID: 582092731033346048, Place: None, User Location: Surat, Gujarat, India}
+
+{ID: 582096722219778048, Place: {u'full_name': u'Bodeli, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/7abd263dd7baea2d.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.7090181, 22.2656827], [73.7090181, 22.2829656], [73.7281593, 22.2829656], [73.7281593, 22.2656827]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7abd263dd7baea2d', u'name': u'Bodeli'}, User Location: Baroda, India}
+
+{ID: 582103536156090369, Place: {u'full_name': u'Gujarat, India', u'url': u'https://api.twitter.com/1.1/geo/id/69d8d9f0fd0ddc8e.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 20.1209431], [68.1061138, 24.7084824], [74.4766301, 24.7084824], [74.4766301, 20.1209431]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'69d8d9f0fd0ddc8e', u'name': u'Gujarat'}, User Location: India}
+
+{ID: 582104749199093760, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582105095472476160, Place: None, User Location: Bharuch, Gujarat, India}
+
+{ID: 582105671274909697, Place: None, User Location: Gujarat , India}
+
+{ID: 582106422483136512, Place: {u'full_name': u'Gujarat, India', u'url': u'https://api.twitter.com/1.1/geo/id/69d8d9f0fd0ddc8e.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 20.1209431], [68.1061138, 24.7084824], [74.4766301, 24.7084824], [74.4766301, 20.1209431]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'69d8d9f0fd0ddc8e', u'name': u'Gujarat'}, User Location: Ahmedabad}
+
+{ID: 582106888915042304, Place: None, User Location: Surat, Gujarat, India}
+
+{ID: 582107868779839488, Place: None, User Location: Virpur,Gujarat,India}
+
+{ID: 582108000577548288, Place: None, User Location: Virpur,Gujarat,India}
+
+{ID: 582108473657143296, Place: None, User Location: Ahmedabad, Gujarat, India}
+
+{ID: 582109607037771776, Place: {u'full_name': u'Gujarat, India', u'url': u'https://api.twitter.com/1.1/geo/id/69d8d9f0fd0ddc8e.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 20.1209431], [68.1061138, 24.7084824], [74.4766301, 24.7084824], [74.4766301, 20.1209431]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'69d8d9f0fd0ddc8e', u'name': u'Gujarat'}, User Location: India}
+
+{ID: 582110806168354816, Place: None, User Location: Surat, Gujarat, India}
+{ID: 582028459884449793, Place: None, User Location: Ahmedabad India}
+
+{ID: 582028699148537858, Place: None, User Location: Ahmedabad, India.}
+
+{ID: 582029270106554368, Place: None, User Location: Ahmedabad, India.}
+
+{ID: 582029557357633537, Place: None, User Location: Ahmedabad, India.}
+
+{ID: 582029796437168129, Place: None, User Location: Ahmedabad , India}
+
+{ID: 582030145986244609, Place: None, User Location: Ahmedabad , India}
+
+{ID: 582031164593983488, Place: None, User Location: Ahmedabad , India}
+
+{ID: 582031635517845504, Place: None, User Location: Ahmedabad India }
+
+{ID: 582031884856762368, Place: None, User Location: Ahmedabad India }
+
+{ID: 582033022754508800, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582033527471910914, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582035789288079361, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582036643936276480, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582036860148449280, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582037420310274048, Place: None, User Location: Pune & Ahmedabad, India}
+
+{ID: 582038988862554113, Place: None, User Location: Ahmedabad / Varanasi, India}
+
+{ID: 582039120995745792, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582039514253668352, Place: None, User Location: Ahmedabad,India.}
+
+{ID: 582039514270425088, Place: None, User Location: Ahmedabad,India.}
+
+{ID: 582039624240922624, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582040540159426560, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582041199411777536, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582041303841513472, Place: None, User Location: Ahmedabad , India}
+
+{ID: 582042303516151809, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582043536729636864, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582043662051209217, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582044939267117056, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582045218687430656, Place: None, User Location: Ahmedabad | India}
+
+{ID: 582048985470242816, Place: None, User Location: Ahmedabad India }
+
+{ID: 582049492515487745, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582049764616744961, Place: None, User Location: Ahmedabad India }
+
+{ID: 582052073463672832, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582053010295013376, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582056495044374529, Place: None, User Location: Ahmedabad, India.}
+
+{ID: 582059336504975360, Place: None, User Location: Ahmedabad India }
+
+{ID: 582061468863991809, Place: None, User Location: Ahmedabad India }
+
+{ID: 582066712570400769, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582072513515016192, Place: None, User Location: Ahmedabad India }
+
+{ID: 582072859268272128, Place: None, User Location: Ahmedabad, India }
+
+{ID: 582073697051115520, Place: None, User Location: Ahmedabad, India }
+
+{ID: 582081076429877249, Place: None, User Location: Ahmedabad India }
+
+{ID: 582083761526861824, Place: None, User Location: Ahmedabad , India }
+
+{ID: 582084029060530176, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582089665039056896, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582090575890919425, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582091644041736194, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582091956404146176, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582098057396822016, Place: None, User Location: Ahmedabad, India}
+
+{ID: 582107712365842432, Place: None, User Location: Ahmedabad, India}
+{ID: 582036219292323840, Place: None, User Location: Gandhinagar, India}
+
+{ID: 582054427143503872, Place: None, User Location: Gandhinagar,India}
+
+{ID: 582061736926126081, Place: None, User Location: GandhiNagar India}
+{ID: 582028658925182976, Place: None, User Location: Baroda. India.}
+{ID: 582029090779111424, Place: None, User Location: vadodara India}
+
+{ID: 582030983316135936, Place: None, User Location: Vadodara, India}
+
+{ID: 582042048951246849, Place: None, User Location: Vadodara , India}
+
+{ID: 582042293282078720, Place: None, User Location: Vadodara , India}
+
+{ID: 582042321237086208, Place: None, User Location: Vadodara , India}
+
+{ID: 582053347881975808, Place: None, User Location: Vadodara, India}
+
+{ID: 582063864310734848, Place: None, User Location: Vadodara, India}
+
+{ID: 582079339895783424, Place: None, User Location: Vadodara (India)}
+
+{ID: 582079505721733120, Place: None, User Location: Vadodara (India)}
+
+{ID: 582079652484636673, Place: None, User Location: Vadodara (India)}
+
+{ID: 582081281179029504, Place: None, User Location: Vadodara, India}
+
+{ID: 582082254236561408, Place: None, User Location: Vadodara, India}
+
+{ID: 582108222418333696, Place: None, User Location: Vadodara, India}
+
+{ID: 582109708963610624, Place: None, User Location: Vadodara, India}
+
+{ID: 582053142126182400, Place: None, User Location: અમદાવાદ, गुजरात, India}
+
+{ID: 582067147712528386, Place: None, User Location: અમદાવાદ, गुजरात, India}
+{ID: 582034958010601472, Place: None, User Location: Surat, India}
+
+{ID: 582037284603572224, Place: None, User Location: Surat, India}
+
+{ID: 582037889736839168, Place: None, User Location: Surat, India}
+
+{ID: 582066255923822592, Place: None, User Location: surat, India }
+
+{ID: 582073259891433472, Place: None, User Location: Surat, India}
+
+{ID: 582079209977221120, Place: None, User Location: Surat,India}
+
+{ID: 582055424909692928, Place: None, User Location: Vapi, India}
+
+{ID: 582048096844058624, Place: None, User Location: Amdavad,India}
+
+{ID: 582048153085456384, Place: None, User Location: Amdavad,India}
+{ID: 582078877498941440, Place: None, Usezazr Location: Valsad,India}
+
+{ID: 582083851565993984, Place: None, User Location: Valsad,India}

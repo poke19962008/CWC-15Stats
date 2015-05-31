@@ -1,0 +1,1327 @@
+{ID: 582028441299464192, Place: None, User Location: Delhi, India}
+{ID: 582028819113979904, Place: None, User Location: Delhi, India}
+{ID: 582028821374722048, Place: None, User Location: Delhi, India}
+{ID: 582028937129132033, Place: None, User Location: Delhi, India}
+{ID: 582029234069069824, Place: None, User Location: Delhi, India}
+{ID: 582029274145636352, Place: None, User Location: Delhi, India}
+{ID: 582029277551448065, Place: None, User Location: Delhi, India}
+{ID: 582029393356201984, Place: None, User Location: Delhi, India}
+{ID: 582029767622324224, Place: None, User Location: Delhi, India}
+{ID: 582029951529975808, Place: None, User Location: Delhi, India}
+{ID: 582030256556519424, Place: None, User Location: Delhi, India}
+{ID: 582030399712313344, Place: None, User Location: Delhi, India}
+{ID: 582030894178832384, Place: None, User Location: Delhi, India}
+{ID: 582032523288428544, Place: None, User Location: Delhi, India}
+{ID: 582034740569456640, Place: None, User Location: Delhi, India}
+{ID: 582035062595530752, Place: None, User Location: Delhi, India}
+{ID: 582035102588252160, Place: None, User Location: Delhi, India}
+{ID: 582035212382515200, Place: None, User Location: Delhi, India}
+{ID: 582035396525064193, Place: None, User Location: Delhi, India}
+{ID: 582035469929590784, Place: None, User Location: Delhi, India}
+{ID: 582035590020931584, Place: None, User Location: Delhi, India}
+{ID: 582036170151870464, Place: None, User Location: Delhi, India}
+{ID: 582036219569123328, Place: None, User Location: Delhi, India}
+{ID: 582037106572181504, Place: None, User Location: Delhi, India}
+{ID: 582037229645627392, Place: None, User Location: Delhi, India}
+{ID: 582037330233466880, Place: None, User Location: Delhi, India}
+{ID: 582037536152776706, Place: None, User Location: Delhi, India}
+{ID: 582037571191980033, Place: None, User Location: Delhi, India}
+{ID: 582038354356674560, Place: None, User Location: Delhi, India}
+{ID: 582038534975975424, Place: None, User Location: Delhi, India}
+{ID: 582038655444721666, Place: None, User Location: Delhi, India}
+{ID: 582038897200275456, Place: None, User Location: Delhi, India}
+{ID: 582040165574578176, Place: None, User Location: Delhi, India}
+{ID: 582040219144179712, Place: None, User Location: Delhi, India}
+{ID: 582040278447448065, Place: None, User Location: Delhi, India}
+{ID: 582040988408905729, Place: None, User Location: Delhi, India}
+{ID: 582041065504407552, Place: None, User Location: Delhi, India}
+{ID: 582041230395068416, Place: None, User Location: Delhi, India}
+{ID: 582041298976133120, Place: None, User Location: Delhi, India}
+{ID: 582041606972272640, Place: None, User Location: Delhi, India}
+{ID: 582042125946077184, Place: None, User Location: Delhi, India}
+{ID: 582042353210253312, Place: None, User Location: Delhi, India}
+{ID: 582042752147288065, Place: None, User Location: Delhi, India}
+{ID: 582043715654397952, Place: None, User Location: Delhi, India}
+{ID: 582043848794206209, Place: None, User Location: Delhi, India}
+{ID: 582043877214814208, Place: None, User Location: Delhi, India}
+{ID: 582044016461545472, Place: None, User Location: Delhi, India}
+{ID: 582044557518368768, Place: None, User Location: Delhi, India}
+{ID: 582044901598056448, Place: None, User Location: Delhi, India}
+{ID: 582045154325843968, Place: None, User Location: Delhi, India}
+{ID: 582045231278768128, Place: None, User Location: Delhi, India}
+{ID: 582045820385521664, Place: None, User Location: Delhi, India}
+{ID: 582046881175355393, Place: None, User Location: Delhi, India}
+{ID: 582047185052647424, Place: None, User Location: Delhi, India}
+{ID: 582048517725790208, Place: None, User Location: Delhi, India}
+{ID: 582049756949561344, Place: None, User Location: Delhi, India}
+{ID: 582049819897696257, Place: None, User Location: Delhi, India}
+{ID: 582052689820848128, Place: None, User Location: Delhi, India}
+{ID: 582053090729177088, Place: None, User Location: Delhi, India}
+{ID: 582053436352389121, Place: None, User Location: Delhi, India}
+{ID: 582054387758952448, Place: None, User Location: Delhi, India}
+{ID: 582054830899793920, Place: None, User Location: Delhi, India}
+{ID: 582054853435748352, Place: None, User Location: Delhi, India}
+{ID: 582056474471325696, Place: None, User Location: Delhi, India}
+{ID: 582057428901986304, Place: None, User Location: Delhi, India}
+{ID: 582057480949100545, Place: None, User Location: Delhi, India}
+{ID: 582057908327723008, Place: None, User Location: Delhi, India}
+{ID: 582057933824864256, Place: None, User Location: Delhi, India}
+{ID: 582059643993620480, Place: None, User Location: Delhi, India}
+{ID: 582059815704215552, Place: None, User Location: Delhi, India}
+{ID: 582060306416807936, Place: None, User Location: Delhi, India}
+{ID: 582060485048078337, Place: None, User Location: Delhi, India}
+{ID: 582061467622486016, Place: None, User Location: Delhi, India}
+{ID: 582062329291931649, Place: None, User Location: Delhi, India}
+{ID: 582062593961041920, Place: None, User Location: Delhi, India}
+{ID: 582064638969294848, Place: None, User Location: Delhi, India}
+{ID: 582064677766627328, Place: None, User Location: Delhi, India}
+{ID: 582065138234048512, Place: None, User Location: Delhi, India}
+{ID: 582065441381580800, Place: None, User Location: Delhi, India}
+{ID: 582066299263528960, Place: None, User Location: Delhi, India}
+{ID: 582066542575116288, Place: None, User Location: Delhi, India}
+{ID: 582066617288257536, Place: None, User Location: Delhi, India}
+{ID: 582066684950757377, Place: None, User Location: Delhi, India}
+{ID: 582066722967949312, Place: None, User Location: Delhi, India}
+{ID: 582067151629983746, Place: None, User Location: Delhi, India}
+{ID: 582067494640201728, Place: None, User Location: Delhi, India}
+{ID: 582067880960757760, Place: None, User Location: Delhi, India}
+{ID: 582068632676474881, Place: None, User Location: Delhi, India}
+{ID: 582069346345734144, Place: None, User Location: Delhi, India}
+{ID: 582069760931688448, Place: None, User Location: Delhi, India}
+{ID: 582072886707404800, Place: None, User Location: Delhi, India}
+{ID: 582072972208304128, Place: None, User Location: Delhi, India}
+{ID: 582073441181835265, Place: None, User Location: Delhi, India}
+{ID: 582074137591443456, Place: None, User Location: Delhi, India}
+{ID: 582074562885505025, Place: None, User Location: Delhi, India}
+{ID: 582075728457375745, Place: None, User Location: Delhi, India}
+{ID: 582077050179096576, Place: None, User Location: Delhi, India}
+{ID: 582077082324180992, Place: None, User Location: Delhi, India}
+{ID: 582077357206298624, Place: None, User Location: Delhi, India}
+{ID: 582079128439894016, Place: None, User Location: Delhi, India}
+{ID: 582079427695120384, Place: None, User Location: Delhi, India}
+{ID: 582079583165382656, Place: None, User Location: Delhi, India}
+{ID: 582079817354387456, Place: None, User Location: Delhi, India}
+{ID: 582080977918291969, Place: None, User Location: Delhi, India}
+{ID: 582081016128356352, Place: None, User Location: Delhi, India}
+{ID: 582081163004493824, Place: None, User Location: Delhi, India}
+{ID: 582082480246681600, Place: None, User Location: Delhi, India}
+{ID: 582082871659081728, Place: None, User Location: Delhi, India}
+{ID: 582083148936192000, Place: None, User Location: Delhi, India}
+{ID: 582083476460957696, Place: None, User Location: Delhi, India}
+{ID: 582083573949181952, Place: None, User Location: Delhi, India}
+{ID: 582084154155663360, Place: None, User Location: Delhi, India}
+{ID: 582084409882329088, Place: None, User Location: Delhi, India}
+{ID: 582084915967086592, Place: None, User Location: Delhi, India}
+{ID: 582085275733487616, Place: None, User Location: Delhi, India}
+{ID: 582085687517667329, Place: None, User Location: Delhi, India}
+{ID: 582085693712678913, Place: None, User Location: Delhi, India}
+{ID: 582085980737249281, Place: None, User Location: Delhi, India}
+{ID: 582086253597753344, Place: None, User Location: Delhi, India}
+{ID: 582086266923036672, Place: None, User Location: Delhi, India}
+{ID: 582086765583863809, Place: None, User Location: Delhi, India}
+{ID: 582087027337732096, Place: None, User Location: Delhi, India}
+{ID: 582087313301200897, Place: None, User Location: Delhi, India}
+{ID: 582087318246305792, Place: None, User Location: Delhi, India}
+{ID: 582088365903773696, Place: None, User Location: Delhi, India}
+{ID: 582088732414623745, Place: None, User Location: Delhi, India}
+{ID: 582088735065411584, Place: None, User Location: Delhi, India}
+{ID: 582088758322843648, Place: None, User Location: Delhi, India}
+{ID: 582089117426544641, Place: None, User Location: Delhi, India}
+{ID: 582090579334418433, Place: None, User Location: Delhi, India}
+{ID: 582090632803430401, Place: None, User Location: Delhi, India}
+{ID: 582090918863339520, Place: None, User Location: Delhi, India}
+{ID: 582091221587218432, Place: None, User Location: Delhi, India}
+{ID: 582091558142406656, Place: None, User Location: Delhi, India}
+{ID: 582091977153384448, Place: None, User Location: Delhi, India}
+{ID: 582093359671431168, Place: None, User Location: Delhi, India}
+{ID: 582093370660532224, Place: None, User Location: Delhi, India}
+{ID: 582094807893315584, Place: None, User Location: Delhi, India}
+{ID: 582095135799803905, Place: None, User Location: Delhi, India}
+{ID: 582095584502239232, Place: None, User Location: Delhi, India}
+{ID: 582095897539940353, Place: None, User Location: Delhi, India}
+{ID: 582095932558159873, Place: None, User Location: Delhi, India}
+{ID: 582096365628456961, Place: None, User Location: Delhi, India}
+{ID: 582096399912718336, Place: None, User Location: Delhi, India}
+{ID: 582096421404286976, Place: None, User Location: Delhi, India}
+{ID: 582103415548821504, Place: None, User Location: Delhi, India}
+{ID: 582104796972249089, Place: None, User Location: Delhi, India}
+{ID: 582106350894755840, Place: None, User Location: Delhi, India}
+{ID: 582106868287287297, Place: None, User Location: Delhi, India}
+{ID: 582106909328556032, Place: None, User Location: Delhi, India}
+{ID: 582107417204236289, Place: None, User Location: Delhi, India}
+{ID: 582107427069255681, Place: None, User Location: Delhi, India}
+{ID: 582107638017605632, Place: None, User Location: Delhi, India}
+{ID: 582108053941592064, Place: None, User Location: Delhi, India}
+{ID: 582108295806087168, Place: None, User Location: Delhi, India}
+{ID: 582108338357293057, Place: None, User Location: Delhi, India}
+{ID: 582108557014749184, Place: None, User Location: Delhi, India}
+{ID: 582108820454801408, Place: None, User Location: Delhi, India}
+{ID: 582109043889569792, Place: None, User Location: Delhi, India}
+{ID: 582109325881053185, Place: None, User Location: Delhi, India}
+{ID: 582109344499535873, Place: None, User Location: Delhi, India}
+{ID: 582109752383053824, Place: None, User Location: Delhi, India}
+{ID: 582110192478789633, Place: None, User Location: Delhi, India}
+{ID: 582110418841128960, Place: None, User Location: Delhi, India}
+{ID: 582110508620222464, Place: None, User Location: Delhi, India}
+{ID: 582113279469727744, Place: None, User Location: Delhi, India}
+{ID: 582028166832594947, Place: None, User Location: New Delhi, India}
+{ID: 582028248038526977, Place: None, User Location: New Delhi, India}
+{ID: 582028474795184129, Place: None, User Location: New Delhi, India}
+{ID: 582028637655818240, Place: None, User Location: New Delhi, India}
+{ID: 582028834481967104, Place: None, User Location: New Delhi, India}
+{ID: 582028896956100608, Place: None, User Location: New Delhi, India}
+{ID: 582029954424041472, Place: None, User Location: New Delhi, India}
+{ID: 582030095537164288, Place: None, User Location: New Delhi, India}
+{ID: 582030367789441025, Place: None, User Location: New Delhi, India}
+{ID: 582030411573805056, Place: None, User Location: New Delhi, India}
+{ID: 582030418196598784, Place: None, User Location: New Delhi, India}
+{ID: 582030616410988544, Place: None, User Location: New Delhi, India}
+{ID: 582031378339889152, Place: None, User Location: New Delhi, India}
+{ID: 582031469649920000, Place: None, User Location: New Delhi, India}
+{ID: 582031542563643394, Place: None, User Location: New Delhi, India}
+{ID: 582031971775164416, Place: None, User Location: New Delhi, India}
+{ID: 582032127039934464, Place: None, User Location: New Delhi, India}
+{ID: 582034980563472384, Place: None, User Location: New Delhi, India}
+{ID: 582035158099857408, Place: None, User Location: New Delhi, India}
+{ID: 582035283341766656, Place: None, User Location: New Delhi, India}
+{ID: 582035645234704384, Place: None, User Location: New Delhi, India}
+{ID: 582035710472929280, Place: None, User Location: New Delhi, India}
+{ID: 582035757872783362, Place: None, User Location: New Delhi, India}
+{ID: 582036210131951616, Place: None, User Location: New Delhi, India}
+{ID: 582037260230467584, Place: None, User Location: New Delhi, India}
+{ID: 582037344624062465, Place: None, User Location: New Delhi, India}
+{ID: 582037374491852800, Place: None, User Location: New Delhi, India}
+{ID: 582037409312825344, Place: None, User Location: New Delhi, India}
+{ID: 582037468364562432, Place: None, User Location: New Delhi, India}
+{ID: 582037552565080064, Place: None, User Location: New Delhi, India}
+{ID: 582037584316010496, Place: None, User Location: New Delhi, India}
+{ID: 582037693112025088, Place: None, User Location: New Delhi, India}
+{ID: 582037804164591616, Place: None, User Location: New Delhi, India}
+{ID: 582038251139039232, Place: None, User Location: New Delhi, India}
+{ID: 582038525454999552, Place: None, User Location: New Delhi, India}
+{ID: 582038529930211328, Place: None, User Location: New Delhi, India}
+{ID: 582038648956162048, Place: None, User Location: New Delhi, India}
+{ID: 582038681994702849, Place: None, User Location: New Delhi, India}
+{ID: 582038887570145280, Place: None, User Location: New Delhi, India}
+{ID: 582038903445594113, Place: None, User Location: New Delhi, India}
+{ID: 582038918851207168, Place: None, User Location: New Delhi, India}
+{ID: 582039143611387904, Place: None, User Location: New Delhi, India}
+{ID: 582039143573786624, Place: None, User Location: New Delhi, India}
+{ID: 582039266877796352, Place: None, User Location: New Delhi, India}
+{ID: 582039607828582400, Place: None, User Location: New Delhi, India}
+{ID: 582040328972070912, Place: None, User Location: New Delhi, India}
+{ID: 582041115567599617, Place: None, User Location: New Delhi, India}
+{ID: 582041573791166464, Place: None, User Location: New Delhi, India}
+{ID: 582041576580464640, Place: None, User Location: New Delhi, India}
+{ID: 582041916671291392, Place: None, User Location: New Delhi, India}
+{ID: 582042175824900096, Place: None, User Location: New Delhi, India}
+{ID: 582042177116577792, Place: None, User Location: New Delhi, India}
+{ID: 582042602020556800, Place: None, User Location: New Delhi, India}
+{ID: 582042693167005697, Place: None, User Location: New Delhi, India}
+{ID: 582042742282330112, Place: None, User Location: New Delhi, India}
+{ID: 582043046449037312, Place: None, User Location: New Delhi, India}
+{ID: 582043080808792064, Place: None, User Location: New Delhi, India}
+{ID: 582043306453909505, Place: None, User Location: New Delhi, India}
+{ID: 582043329862352898, Place: None, User Location: New Delhi, India}
+{ID: 582043555545239552, Place: None, User Location: New Delhi, India}
+{ID: 582044051668537344, Place: None, User Location: New Delhi, India}
+{ID: 582044185282228224, Place: None, User Location: New Delhi, India}
+{ID: 582044201539354624, Place: None, User Location: New Delhi, India}
+{ID: 582044906773856256, Place: None, User Location: New Delhi, India}
+{ID: 582045255416975360, Place: None, User Location: New Delhi, India}
+{ID: 582045713812475904, Place: None, User Location: New Delhi, India}
+{ID: 582045802048057345, Place: None, User Location: New Delhi, India}
+{ID: 582045862060109824, Place: None, User Location: New Delhi, India}
+{ID: 582045955635036160, Place: None, User Location: New Delhi, India}
+{ID: 582046415800508416, Place: None, User Location: New Delhi, India}
+{ID: 582046713352863744, Place: None, User Location: New Delhi, India}
+{ID: 582046736564109313, Place: None, User Location: New Delhi, India}
+{ID: 582046820576047105, Place: None, User Location: New Delhi, India}
+{ID: 582046911378558976, Place: None, User Location: New Delhi, India}
+{ID: 582046923672068096, Place: None, User Location: New Delhi, India}
+{ID: 582046936229785600, Place: None, User Location: New Delhi, India}
+{ID: 582046949701857280, Place: None, User Location: New Delhi, India}
+{ID: 582046981893197824, Place: None, User Location: New Delhi, India}
+{ID: 582047525156196353, Place: None, User Location: New Delhi, India}
+{ID: 582047528096432128, Place: None, User Location: New Delhi, India}
+{ID: 582048784479203329, Place: None, User Location: New Delhi, India}
+{ID: 582049827560681472, Place: None, User Location: New Delhi, India}
+{ID: 582049843754881024, Place: None, User Location: New Delhi, India}
+{ID: 582050971460636673, Place: None, User Location: New Delhi, India}
+{ID: 582051060799270912, Place: None, User Location: New Delhi, India}
+{ID: 582051957113634816, Place: None, User Location: New Delhi, India}
+{ID: 582051965971996672, Place: None, User Location: New Delhi, India}
+{ID: 582051976638173184, Place: None, User Location: New Delhi, India}
+{ID: 582052011853549569, Place: None, User Location: New Delhi, India}
+{ID: 582052027833827328, Place: None, User Location: New Delhi, India}
+{ID: 582052066287218691, Place: None, User Location: New Delhi, India}
+{ID: 582052075946672128, Place: None, User Location: New Delhi, India}
+{ID: 582052104409223168, Place: None, User Location: New Delhi, India}
+{ID: 582052111153643520, Place: None, User Location: New Delhi, India}
+{ID: 582052163636998145, Place: None, User Location: New Delhi, India}
+{ID: 582052163641155584, Place: None, User Location: New Delhi, India}
+{ID: 582052177142624257, Place: None, User Location: New Delhi, India}
+{ID: 582052221988159489, Place: None, User Location: New Delhi, India}
+{ID: 582052248148000768, Place: None, User Location: New Delhi, India}
+{ID: 582052261821485056, Place: None, User Location: New Delhi, India}
+{ID: 582052279928246273, Place: None, User Location: New Delhi, India}
+{ID: 582052363210362880, Place: None, User Location: New Delhi, India}
+{ID: 582052382051151872, Place: None, User Location: New Delhi, India}
+{ID: 582052383640834048, Place: None, User Location: New Delhi, India}
+{ID: 582052395728818177, Place: None, User Location: New Delhi, India}
+{ID: 582052414032769024, Place: None, User Location: New Delhi, India}
+{ID: 582052741247160320, Place: None, User Location: New Delhi, India}
+{ID: 582052888773439488, Place: None, User Location: New Delhi, India}
+{ID: 582053180848021506, Place: None, User Location: New Delhi, India}
+{ID: 582053223021727744, Place: None, User Location: New Delhi, India}
+{ID: 582053282987708417, Place: None, User Location: New Delhi, India}
+{ID: 582053298124947457, Place: None, User Location: New Delhi, India}
+{ID: 582053320438603776, Place: None, User Location: New Delhi, India}
+{ID: 582053375694393344, Place: None, User Location: New Delhi, India}
+{ID: 582053391754395648, Place: None, User Location: New Delhi, India}
+{ID: 582053407889883136, Place: None, User Location: New Delhi, India}
+{ID: 582053493759856640, Place: None, User Location: New Delhi, India}
+{ID: 582054913934397440, Place: None, User Location: New Delhi, India}
+{ID: 582059130870870016, Place: None, User Location: New Delhi, India}
+{ID: 582059143223083008, Place: None, User Location: New Delhi, India}
+{ID: 582059337360637952, Place: None, User Location: New Delhi, India}
+{ID: 582059387914579969, Place: None, User Location: New Delhi, India}
+{ID: 582059411692072960, Place: None, User Location: New Delhi, India}
+{ID: 582059485419552769, Place: None, User Location: New Delhi, India}
+{ID: 582059665338429440, Place: None, User Location: New Delhi, India}
+{ID: 582059815997870080, Place: None, User Location: New Delhi, India}
+{ID: 582059868393078784, Place: None, User Location: New Delhi, India}
+{ID: 582060259579019264, Place: None, User Location: New Delhi, India}
+{ID: 582060919582162944, Place: None, User Location: New Delhi, India}
+{ID: 582061250504318977, Place: None, User Location: New Delhi, India}
+{ID: 582061486001913856, Place: None, User Location: New Delhi, India}
+{ID: 582062111875960832, Place: None, User Location: New Delhi, India}
+{ID: 582063215003115520, Place: None, User Location: New Delhi, India}
+{ID: 582063619434659840, Place: None, User Location: New Delhi, India}
+{ID: 582063902550196225, Place: None, User Location: New Delhi, India}
+{ID: 582064626688352257, Place: None, User Location: New Delhi, India}
+{ID: 582064628902969344, Place: None, User Location: New Delhi, India}
+{ID: 582064660507017216, Place: None, User Location: New Delhi, India}
+{ID: 582064823271329792, Place: None, User Location: New Delhi, India}
+{ID: 582064844637114368, Place: None, User Location: New Delhi, India}
+{ID: 582065473912594433, Place: None, User Location: New Delhi, India}
+{ID: 582066050457464832, Place: None, User Location: New Delhi, India}
+{ID: 582066160687972352, Place: None, User Location: New Delhi, India}
+{ID: 582066516155359232, Place: None, User Location: New Delhi, India}
+{ID: 582066556655390722, Place: None, User Location: New Delhi, India}
+{ID: 582066618307514369, Place: None, User Location: New Delhi, India}
+{ID: 582066634556186624, Place: None, User Location: New Delhi, India}
+{ID: 582066682232860672, Place: None, User Location: New Delhi, India}
+{ID: 582066701824450560, Place: None, User Location: New Delhi, India}
+{ID: 582066749031378946, Place: None, User Location: New Delhi, India}
+{ID: 582066890547200000, Place: None, User Location: New Delhi, India}
+{ID: 582066897002196992, Place: None, User Location: New Delhi, India}
+{ID: 582067119929491456, Place: None, User Location: New Delhi, India}
+{ID: 582067149641949184, Place: None, User Location: New Delhi, India}
+{ID: 582067238498258944, Place: None, User Location: New Delhi, India}
+{ID: 582067264188379139, Place: None, User Location: New Delhi, India}
+{ID: 582067286535577600, Place: None, User Location: New Delhi, India}
+{ID: 582067289572311041, Place: None, User Location: New Delhi, India}
+{ID: 582067471844147200, Place: None, User Location: New Delhi, India}
+{ID: 582067495504248832, Place: None, User Location: New Delhi, India}
+{ID: 582067609920655360, Place: None, User Location: New Delhi, India}
+{ID: 582067625506701312, Place: None, User Location: New Delhi, India}
+{ID: 582067740418048001, Place: None, User Location: New Delhi, India}
+{ID: 582067773607522304, Place: None, User Location: New Delhi, India}
+{ID: 582067797330509824, Place: None, User Location: New Delhi, India}
+{ID: 582067818553700353, Place: None, User Location: New Delhi, India}
+{ID: 582068662426697729, Place: None, User Location: New Delhi, India}
+{ID: 582068872238358529, Place: None, User Location: New Delhi, India}
+{ID: 582068873626849280, Place: None, User Location: New Delhi, India}
+{ID: 582068893356724224, Place: None, User Location: New Delhi, India}
+{ID: 582069343439216640, Place: None, User Location: New Delhi, India}
+{ID: 582070578355396608, Place: None, User Location: New Delhi, India}
+{ID: 582071732304920576, Place: None, User Location: New Delhi, India}
+{ID: 582072529897930752, Place: None, User Location: New Delhi, India}
+{ID: 582073033310879744, Place: None, User Location: New Delhi, India}
+{ID: 582073104345628672, Place: None, User Location: New Delhi, India}
+{ID: 582073696069795840, Place: None, User Location: New Delhi, India}
+{ID: 582073722040791040, Place: None, User Location: New Delhi, India}
+{ID: 582074569764175872, Place: None, User Location: New Delhi, India}
+{ID: 582074763532640256, Place: None, User Location: New Delhi, India}
+{ID: 582074767294906369, Place: None, User Location: New Delhi, India}
+{ID: 582075220602712064, Place: None, User Location: New Delhi, India}
+{ID: 582075710631628800, Place: None, User Location: New Delhi, India}
+{ID: 582075711206248448, Place: None, User Location: New Delhi, India}
+{ID: 582075975430594560, Place: None, User Location: New Delhi, India}
+{ID: 582076508040232960, Place: None, User Location: New Delhi, India}
+{ID: 582076767751380992, Place: None, User Location: New Delhi, India}
+{ID: 582077050351067136, Place: None, User Location: New Delhi, India}
+{ID: 582078041704124416, Place: None, User Location: New delhi, India}
+{ID: 582078878040100864, Place: None, User Location: New Delhi, India}
+{ID: 582079026950377472, Place: None, User Location: New Delhi, India}
+{ID: 582079045174607872, Place: None, User Location: New Delhi, India}
+{ID: 582079065156268032, Place: None, User Location: New Delhi, India}
+{ID: 582079142583099392, Place: None, User Location: New Delhi, India}
+{ID: 582079395998744576, Place: None, User Location: New Delhi, India}
+{ID: 582079821418749952, Place: None, User Location: New Delhi, India}
+{ID: 582079825650675712, Place: None, User Location: New Delhi, India}
+{ID: 582079850992676864, Place: None, User Location: New Delhi, India}
+{ID: 582080142123515904, Place: None, User Location: New Delhi, India}
+{ID: 582080233014079488, Place: None, User Location: New Delhi, India}
+{ID: 582080235820044289, Place: None, User Location: New Delhi, India}
+{ID: 582080402212278272, Place: None, User Location: New Delhi, India}
+{ID: 582080773089447937, Place: None, User Location: New Delhi, India}
+{ID: 582081853814747136, Place: None, User Location: New Delhi, India}
+{ID: 582081981422256128, Place: None, User Location: New Delhi, India}
+{ID: 582082308326309888, Place: None, User Location: New Delhi, India}
+{ID: 582082446381838337, Place: None, User Location: New Delhi, India}
+{ID: 582082715001839616, Place: None, User Location: New Delhi, India}
+{ID: 582082779107606528, Place: None, User Location: New Delhi, India}
+{ID: 582082828327776257, Place: None, User Location: New Delhi, India}
+{ID: 582083306931367936, Place: None, User Location: New Delhi, India}
+{ID: 582083344978018304, Place: None, User Location: New Delhi, India}
+{ID: 582083921967390721, Place: None, User Location: New Delhi, India}
+{ID: 582083944142610432, Place: None, User Location: New Delhi, India}
+{ID: 582084207410728961, Place: None, User Location: New Delhi, India}
+{ID: 582084252616953856, Place: None, User Location: New Delhi, India}
+{ID: 582084436319080448, Place: None, User Location: New Delhi, India}
+{ID: 582084448121806848, Place: None, User Location: New Delhi, India}
+{ID: 582084652959141888, Place: None, User Location: New Delhi, India}
+{ID: 582084666892517377, Place: None, User Location: New Delhi, India}
+{ID: 582084739944710144, Place: None, User Location: New Delhi, India}
+{ID: 582084773390094336, Place: None, User Location: New Delhi, India}
+{ID: 582084932601810944, Place: None, User Location: New Delhi, India}
+{ID: 582085525651083264, Place: None, User Location: New Delhi, India}
+{ID: 582085604881526785, Place: None, User Location: New Delhi, India}
+{ID: 582085913938829312, Place: None, User Location: New Delhi, India}
+{ID: 582086518484779008, Place: None, User Location: New Delhi, India}
+{ID: 582086700198797312, Place: None, User Location: New Delhi, India}
+{ID: 582086921439989760, Place: None, User Location: New Delhi, India}
+{ID: 582086955409641472, Place: None, User Location: New Delhi, India}
+{ID: 582086992873172992, Place: None, User Location: New Delhi, India}
+{ID: 582087092055883776, Place: None, User Location: New Delhi, India}
+{ID: 582087231189311488, Place: None, User Location: New Delhi, India}
+{ID: 582088042309140480, Place: None, User Location: New Delhi, India}
+{ID: 582088413827891200, Place: None, User Location: New Delhi, India}
+{ID: 582089081447849984, Place: None, User Location: New Delhi, India}
+{ID: 582089110757621761, Place: None, User Location: New Delhi, India}
+{ID: 582089131859271680, Place: None, User Location: New Delhi, India}
+{ID: 582089676690837504, Place: None, User Location: New Delhi, India}
+{ID: 582089699994386432, Place: None, User Location: New Delhi, India}
+{ID: 582091241917038593, Place: None, User Location: New Delhi, India}
+{ID: 582091525519212544, Place: None, User Location: New Delhi, India}
+{ID: 582091648626073600, Place: None, User Location: New Delhi, India}
+{ID: 582091971918872576, Place: None, User Location: New Delhi, India}
+{ID: 582093494677684224, Place: None, User Location: New Delhi, India}
+{ID: 582093784017584128, Place: None, User Location: New Delhi, India}
+{ID: 582094171399270400, Place: None, User Location: New Delhi, India}
+{ID: 582094856882765824, Place: None, User Location: new delhi, India}
+{ID: 582095215541952512, Place: None, User Location: New Delhi, India}
+{ID: 582095876660727808, Place: None, User Location: New Delhi, India}
+{ID: 582096025352994816, Place: None, User Location: New Delhi, India}
+{ID: 582096196153397248, Place: None, User Location: New Delhi, India}
+{ID: 582096674924806144, Place: None, User Location: new delhi, India}
+{ID: 582098624647020545, Place: None, User Location: New Delhi, India}
+{ID: 582099081935204354, Place: None, User Location: New Delhi, India}
+{ID: 582103959998873600, Place: None, User Location: New Delhi, India}
+{ID: 582107280784535552, Place: None, User Location: New Delhi, India}
+{ID: 582107588898107392, Place: None, User Location: New Delhi, India}
+{ID: 582108292412932096, Place: None, User Location: New Delhi, India}
+{ID: 582108582356787200, Place: None, User Location: New Delhi, India}
+{ID: 582108593018707968, Place: None, User Location: New Delhi, India}
+{ID: 582108662597988352, Place: None, User Location: New Delhi, India}
+{ID: 582108673251508224, Place: None, User Location: New Delhi, India}
+{ID: 582108697117114369, Place: None, User Location: New Delhi, India}
+{ID: 582108722798833664, Place: None, User Location: New Delhi, India}
+{ID: 582108743099396096, Place: None, User Location: New Delhi, India}
+{ID: 582108854705655808, Place: None, User Location: New Delhi, India}
+{ID: 582108963933720576, Place: None, User Location: New Delhi, India}
+{ID: 582109119080845312, Place: None, User Location: New Delhi, India}
+{ID: 582109822834778113, Place: None, User Location: New Delhi, India}
+{ID: 582110518317428736, Place: None, User Location: New Delhi, India}
+{ID: 582110555139227648, Place: None, User Location: New Delhi, India}
+{ID: 582110747813007360, Place: None, User Location: New Delhi, India}
+{ID: 582030779082940418, Place: None, User Location: New Delhi,India}
+{ID: 582037852071944192, Place: None, User Location: New Delhi,India}
+{ID: 582038661639725058, Place: None, User Location: New Delhi,India}
+{ID: 582038934131097601, Place: None, User Location: New Delhi,India}
+{ID: 582041028443541504, Place: None, User Location: New Delhi,India}
+{ID: 582049052029648896, Place: None, User Location: New Delhi,India}
+{ID: 582052834515886080, Place: None, User Location: New Delhi,India}
+{ID: 582053102229966848, Place: None, User Location: New Delhi,India}
+{ID: 582053383923613696, Place: None, User Location: New Delhi,India}
+{ID: 582055240247042048, Place: None, User Location: New Delhi,India}
+{ID: 582055385525141504, Place: None, User Location: New Delhi,India}
+{ID: 582059340065980416, Place: None, User Location: New Delhi,India}
+{ID: 582061275959570432, Place: None, User Location: New Delhi,India}
+{ID: 582067780658188289, Place: None, User Location: New Delhi,India}
+{ID: 582072878213914624, Place: None, User Location: New Delhi,India}
+{ID: 582072895997788160, Place: None, User Location: New Delhi,India}
+{ID: 582073109198422016, Place: None, User Location: New Delhi,India}
+{ID: 582074922681307136, Place: None, User Location: New Delhi,India}
+{ID: 582080325439885312, Place: None, User Location: New Delhi,India}
+{ID: 582082766176546816, Place: None, User Location: New Delhi,India}
+{ID: 582084518946836481, Place: None, User Location: New Delhi,India}
+{ID: 582084745745428481, Place: None, User Location: New Delhi,India}
+{ID: 582086336179376128, Place: None, User Location: New Delhi,India}
+{ID: 582086911239577600, Place: None, User Location: New Delhi,India}
+{ID: 582089730235355136, Place: None, User Location: New Delhi,India}
+{ID: 582090861921509377, Place: None, User Location: New Delhi,India}
+{ID: 582091243368243200, Place: None, User Location: New Delhi,India}
+{ID: 582091973638508544, Place: None, User Location: New Delhi,India}
+{ID: 582095496061149184, Place: None, User Location: New Delhi,India}
+{ID: 582108133360713728, Place: None, User Location: New Delhi,India}
+{ID: 582108837974437889, Place: None, User Location: New Delhi,India}
+{ID: 582110179199565825, Place: None, User Location: New Delhi,India}
+{ID: 582112729709703169, Place: None, User Location: New Delhi,India}
+{ID: 582041468862251008, Place: None, User Location: Delhi India}
+{ID: 582061447343054848, Place: None, User Location: Delhi India}
+{ID: 582081453342633984, Place: None, User Location: Delhi India}
+{ID: 582089094483705858, Place: None, User Location: Delhi India}
+{ID: 582108963728011264, Place: None, User Location: Delhi India}
+{ID: 582109554785132544, Place: None, User Location: Delhi India}
+{ID: 582062116670046208, Place: None, User Location: India,Delhi}
+{ID: 582084817317023744, Place: None, User Location: India,Delhi}
+{ID: 582087234775429120, Place: None, User Location: India,Delhi}
+{ID: 582091969175797760, Place: None, User Location: India,Delhi}
+{ID: 582109138731167744, Place: None, User Location: India,Delhi}
+{ID: 582029224279560192, Place: None, User Location: Delhi,India}
+{ID: 582035380733542400, Place: None, User Location: Delhi,India}
+{ID: 582040266292359169, Place: None, User Location: Delhi,India}
+{ID: 582055760462360577, Place: None, User Location: Delhi,India}
+{ID: 582073113816399872, Place: None, User Location: Delhi,India}
+{ID: 582082254639218688, Place: None, User Location: Delhi,India}
+{ID: 582083432315908097, Place: None, User Location: Delhi,India}
+{ID: 582108655987773440, Place: None, User Location: Delhi,India}
+{ID: 582109250970779649, Place: None, User Location: Delhi,India}
+{ID: 582029293787615232, Place: None, User Location: New Delhi , India}
+{ID: 582035628277137410, Place: None, User Location: New Delhi , India}
+{ID: 582039262364712961, Place: None, User Location: New Delhi , India}
+{ID: 582041688786403328, Place: None, User Location: New Delhi , India}
+{ID: 582046525892640768, Place: None, User Location: New Delhi , India}
+{ID: 582067607810916353, Place: None, User Location: New Delhi , India}
+{ID: 582079285084602368, Place: None, User Location: New Delhi , India}
+{ID: 582080261321445376, Place: None, User Location: New Delhi , India}
+{ID: 582081246970281984, Place: None, User Location: New Delhi , India}
+{ID: 582028669930991618, Place: None, User Location: New Delhi, India }
+{ID: 582029639415025665, Place: None, User Location: New Delhi, India }
+{ID: 582032981776273409, Place: None, User Location: New delhi, India }
+{ID: 582047215096483840, Place: None, User Location: New Delhi, India }
+{ID: 582053081564602368, Place: None, User Location: New Delhi, India }
+{ID: 582061247224381441, Place: None, User Location: New Delhi, India }
+{ID: 582067167106985986, Place: None, User Location: New Delhi, India }
+{ID: 582068647142633472, Place: None, User Location: New Delhi, India }
+{ID: 582069784704983040, Place: None, User Location: New Delhi, India }
+{ID: 582070255981228032, Place: None, User Location: New Delhi, India }
+{ID: 582029552655839232, Place: None, User Location: New Delhi (India)}
+{ID: 582028240669184000, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India }
+{ID: 582030067968036864, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: delhi}
+
+{ID: 582037133449256960, Place: {u'full_name': u'Pune, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/5c0761bdffa0cb64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8031065, 18.4571648], [73.8031065, 18.5843633], [73.9656571, 18.5843633], [73.9656571, 18.4571648]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5c0761bdffa0cb64', u'name': u'Pune'}, User Location: #newdelhi #pune #india}
+
+{ID: 582048847469232129, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: new delhi}
+
+{ID: 582050948081532928, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New delhi }
+
+{ID: 582052888513372160, Place: None, User Location: New delhil, India}
+
+{ID: 582053083112456192, Place: None, User Location: India ,New delhi}
+
+{ID: 582059658254295042, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: delhi}
+
+{ID: 582071987205341184, Place: None, User Location: India-Noida-delhi region}
+
+{ID: 582085032061210624, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: new delhi, india}
+
+{ID: 582087602607521792, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: delhi}
+
+{ID: 582106930937622529, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: new delhi}
+{ID: 582028646359023616, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India }
+
+{ID: 582028693712732160, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi : India}
+
+{ID: 582028781206036481, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582028884905844736, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Noida}
+
+{ID: 582029015583629312, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582029120852258816, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582029369385754624, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582029748315951104, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582029780243087360, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582029929425936384, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi : India}
+
+{ID: 582029966612656128, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Pune/Delhi, Iη∂ıa}
+
+{ID: 582029975106146304, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: +1-513-800-1007}
+
+{ID: 582030134963732480, Place: None, User Location: New Delhi/Bhubaneswar,India}
+
+{ID: 582030689542930432, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi : India}
+
+{ID: 582030739065085952, Place: None, User Location: New Delhi/Bhubaneswar,India}
+
+{ID: 582030763857559553, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: INDIA}
+
+{ID: 582030938445459457, Place: {u'full_name': u'Agartala, Tripura', u'url': u'https://api.twitter.com/1.1/geo/id/0f4b5c09e18deeea.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[91.1525087, 23.5632733], [91.1525087, 24.1089715], [91.5747271, 24.1089715], [91.5747271, 23.5632733]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0f4b5c09e18deeea', u'name': u'Agartala'}, User Location: New Delhi, India}
+
+{ID: 582031517976641536, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582031673576980480, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582032163878490112, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582032614585802753, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582032977745424384, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582034068931375104, Place: None, User Location: New Delhi↔Mumbai, India}
+
+{ID: 582034717769338880, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582034805329543168, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, Delhi}
+
+{ID: 582034893372157952, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582034907444027392, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582034941229338624, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582034946115510273, Place: {u'full_name': u'Sri Lanka', u'url': u'https://api.twitter.com/1.1/geo/id/173c2bb9d42baaa5.json', u'country': u'Sri Lanka', u'place_type': u'country', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.6505263, 5.9213829], [79.6505263, 9.8359375], [81.8787816, 9.8359375], [81.8787816, 5.9213829]]]}, u'country_code': u'LK', u'attributes': {}, u'id': u'173c2bb9d42baaa5', u'name': u'Sri Lanka'}, User Location: New Delhi, India}
+
+{ID: 582035061240791040, Place: None, User Location: India, New Delhi}
+
+{ID: 582035085710340096, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582035128282542080, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582035219982655488, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi (NCR)}
+
+{ID: 582035241495216128, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582035325880500224, Place: None, User Location: New Delhi India}
+
+{ID: 582035454024908801, Place: None, User Location: New Delhi India}
+
+{ID: 582035541249540096, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582035793260105728, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: New Delhi}
+
+{ID: 582035996637704192, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582036239882178560, Place: None, User Location: New Delhi↔Mumbai, India}
+
+{ID: 582036240574201856, Place: None, User Location: India, New Delhi}
+
+{ID: 582036312548507649, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Noida}
+
+{ID: 582036732742270976, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582036832780570624, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: New Delhi}
+
+{ID: 582036860005806080, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582037094027030530, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582037132643975168, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi,India}
+
+{ID: 582037166932406272, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582037806580523008, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi}
+
+{ID: 582037934724890624, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582037982078599168, Place: None, User Location: India, New Delhi}
+
+{ID: 582038049669820417, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038185980473344, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582038217681063938, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038246202302464, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038297528049664, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038304419287040, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582038311532777473, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038325084721152, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038346865586176, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038378561945600, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038401798447104, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038428243529728, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038457939206144, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038471113453570, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038492160491520, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038516407762944, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038577103564800, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038724319444992, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582038741423804416, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038906264117248, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi, India}
+
+{ID: 582038910517182464, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582038983078629376, Place: None, User Location: New Delhi↔Mumbai, India}
+
+{ID: 582038993774112768, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582039013017587712, Place: None, User Location: New Delhi ( India ).}
+
+{ID: 582039167623790594, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582039270870773760, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582039308816658432, Place: None, User Location: New Delhi↔Mumbai, India}
+
+{ID: 582039400097304576, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582039418170576897, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi-NCR}
+
+{ID: 582039545547505664, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582040225142022144, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582040289340059648, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582040295748935681, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi-NCR}
+
+{ID: 582040663736242177, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582041191861989376, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi-NCR}
+
+{ID: 582041555583668224, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582041797351739393, Place: None, User Location: New Delhi India}
+
+{ID: 582042173232660480, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi/Mumbai}
+
+{ID: 582042633393958912, Place: None, User Location: New Delhi , India }
+
+{ID: 582042925946671104, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582043007005806595, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582043469306142720, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582043840485326848, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582044545954631680, Place: {u'full_name': u'Muzaffarnagar, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/035a22467471bab9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4381983, 29.3634358], [77.4381983, 29.7092407], [77.9891523, 29.7092407], [77.9891523, 29.3634358]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'035a22467471bab9', u'name': u'Muzaffarnagar'}, User Location: New Delhi, India}
+
+{ID: 582044995135254528, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582045179869200384, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582045538947874816, Place: None, User Location: New Delhi City, India}
+
+{ID: 582045567666139136, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582045576604209153, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582045816312848384, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582045862844444672, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582045913893359617, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lat13°05′16 N Lon80°16′42″ E }
+
+{ID: 582045933682057216, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582046009141776386, Place: None, User Location: India, New Delhi}
+
+{ID: 582046325044215808, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi (NCR)}
+
+{ID: 582046327535616000, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: INDIA}
+
+{ID: 582046737650462720, Place: {u'full_name': u'Muzaffarnagar, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/035a22467471bab9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4381983, 29.3634358], [77.4381983, 29.7092407], [77.9891523, 29.7092407], [77.9891523, 29.3634358]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'035a22467471bab9', u'name': u'Muzaffarnagar'}, User Location: New Delhi, India}
+
+{ID: 582047061446545408, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: INDIA}
+
+{ID: 582047278073921537, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582047499906465792, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: INDIA}
+
+{ID: 582047673512898560, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582048156273127424, Place: {u'full_name': u'Muzaffarnagar, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/035a22467471bab9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4381983, 29.3634358], [77.4381983, 29.7092407], [77.9891523, 29.7092407], [77.9891523, 29.3634358]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'035a22467471bab9', u'name': u'Muzaffarnagar'}, User Location: New Delhi, India}
+
+{ID: 582048481998606336, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582048582133403648, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582049055297028096, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582049799878246400, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582052217760313344, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582052504831021056, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: noida}
+
+{ID: 582052591284039682, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582052673278599168, Place: None, User Location: New Delhi City, India}
+
+{ID: 582052700851806208, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lucknow,Uttar Pradesh,India}
+
+{ID: 582053017265917952, Place: None, User Location:  New Delhi (India)}
+
+{ID: 582053070332256256, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: noida}
+
+{ID: 582053106009018368, Place: None, User Location: New Delhi - NCR, India}
+
+{ID: 582053228906332160, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582053230982516737, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582053301216104448, Place: None, User Location: New Delhi / Mumbai, India}
+
+{ID: 582053345919029248, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582055385206394881, Place: None, User Location: New Delhi, India.}
+
+{ID: 582055743492218880, Place: None, User Location: New Delhi, India.}
+
+{ID: 582055844583317505, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582057285611995137, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Hɪɴᴅᴜ Rᴀsʜᴛʀᴀ Bʜᴀʀᴀᴛ  }
+
+{ID: 582057377576267776, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582057995808325632, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582058055187066880, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: india}
+
+{ID: 582058112846209024, Place: {u'full_name': u'Faridabad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1497858, 28.1568415], [77.1497858, 28.5055846], [77.5519766, 28.5055846], [77.5519766, 28.1568415]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2281169281a9d3a2', u'name': u'Faridabad'}, User Location: New Delhi / Jaipur / India}
+
+{ID: 582059634933919744, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Hɪɴᴅᴜ Rᴀsʜᴛʀᴀ Bʜᴀʀᴀᴛ  }
+
+{ID: 582059806556454912, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582059825250500608, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi City, India}
+
+{ID: 582060278054965248, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582060291082489856, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi}
+
+{ID: 582060906214924288, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582060938737532928, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582061250902761474, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi City, India}
+
+{ID: 582062068154564608, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: New Delhi-NCR}
+
+{ID: 582062080095694848, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582062317833064448, Place: None, User Location: New Delhi City, India}
+
+{ID: 582062589313560576, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi}
+
+{ID: 582062595860865026, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Chennai home|Delhi now}
+
+{ID: 582062639989141504, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: N 28°38' 0'' / E 77°12' 0''}
+
+{ID: 582063204768989184, Place: None, User Location: New Delhi / Mumbai, India}
+
+{ID: 582063208921333762, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582063209336586240, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582063614913212416, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi}
+
+{ID: 582063879254974464, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582064339915403264, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi}
+
+{ID: 582064635303501824, Place: None, User Location: New Delhi - NCR, India}
+
+{ID: 582066010246631424, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582066107307036672, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582066258746589184, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Bhatinda | New Delhi}
+
+{ID: 582066601572196352, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582067026581069824, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582067486427725825, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582067569776926720, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582067636529303552, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582067767974572032, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582070267133849600, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582070291628564480, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582070870111174656, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582071415341367296, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582071468915179521, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582072026862489601, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582072093925224449, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi : India}
+
+{ID: 582072536235520000, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi , India}
+
+{ID: 582073057767870464, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582073060171198464, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582073258268188672, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582073423402287104, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582073722145624064, Place: None, User Location: New Delhi / Mumbai, India}
+
+{ID: 582074198773751808, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582074919359410177, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi (NCR)}
+
+{ID: 582074920928079872, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: On Planet Earth}
+
+{ID: 582075224729899008, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582075976244293634, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582075980774150144, Place: {u'full_name': u'Agartala, Tripura', u'url': u'https://api.twitter.com/1.1/geo/id/0f4b5c09e18deeea.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[91.1525087, 23.5632733], [91.1525087, 24.1089715], [91.5747271, 24.1089715], [91.5747271, 23.5632733]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0f4b5c09e18deeea', u'name': u'Agartala'}, User Location: New Delhi, India}
+
+{ID: 582076185531658240, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582076203894333440, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: New Delhi}
+
+{ID: 582076756846358528, Place: None, User Location: New Delhi, India.}
+
+{ID: 582077362071695360, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi City, India}
+
+{ID: 582078257542995969, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582078949410258947, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582079507705831425, Place: None, User Location: New Delhi, India.}
+
+{ID: 582079518086660096, Place: None, User Location: New Delhi | India    }
+
+{ID: 582079545332740098, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582079938917842944, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582080006597189633, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: New Delhi}
+
+{ID: 582080091124944896, Place: {u'full_name': u'Muzaffarnagar, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/035a22467471bab9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4381983, 29.3634358], [77.4381983, 29.7092407], [77.9891523, 29.7092407], [77.9891523, 29.3634358]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'035a22467471bab9', u'name': u'Muzaffarnagar'}, User Location: New Delhi, India}
+
+{ID: 582080159882199040, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582080296092225536, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582080312110288896, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi , India}
+
+{ID: 582080383673503744, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: New Delhi}
+
+{ID: 582080539680579584, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582080719301677056, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582080920103981056, Place: {u'full_name': u'Bhopal, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/009fc4b373339a27.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1792065, 23.0893939], [77.1792065, 23.455596], [77.6297444, 23.455596], [77.6297444, 23.0893939]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'009fc4b373339a27', u'name': u'Bhopal'}, User Location: New Delhi}
+
+{ID: 582080945928298496, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582081271427436544, Place: None, User Location: currently New Delhi, India}
+
+{ID: 582081303786323968, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582081356202532864, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582081599950352385, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: New Delhi}
+
+{ID: 582081846432788480, Place: None, User Location: New Delhi, India.}
+
+{ID: 582081855970676736, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582081878766702592, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582081991698333696, Place: {u'full_name': u'Lajpat Nagar, New Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/55c82accd2b68cdd.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2311107, 28.5582243], [77.2311107, 28.5809258], [77.2551292, 28.5809258], [77.2551292, 28.5582243]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'55c82accd2b68cdd', u'name': u'Lajpat Nagar'}, User Location: New Delhi,India}
+
+{ID: 582082017245814784, Place: None, User Location: India , New Delhi}
+
+{ID: 582082054952628224, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: New Delhi}
+
+{ID: 582082068688965632, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India}
+
+{ID: 582082146468126720, Place: None, User Location: New Delhi, India.}
+
+{ID: 582082382905266177, Place: None, User Location: India , New Delhi}
+
+{ID: 582082655375642624, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582082759893463040, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: New Delhi}
+
+{ID: 582083312081985536, Place: None, User Location: New Delhi, India.}
+
+{ID: 582083645722116096, Place: None, User Location: New Delhi-India}
+
+{ID: 582083672007786496, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582083760977416192, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi : India}
+
+{ID: 582083876186513409, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location:  दिल्ली}
+
+{ID: 582084012488859648, Place: None, User Location: New Delhi / Mumbai, India}
+
+{ID: 582084138087231488, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582084419864932352, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582084516027719680, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582085209069240321, Place: None, User Location: New Delhi,India }
+
+{ID: 582085431304413185, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582085663954173952, Place: None, User Location: New Delhi, India.}
+
+{ID: 582085888231931904, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582086008683925504, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582086237940420608, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582086428340805632, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Gurgaon}
+
+{ID: 582086619739602944, Place: None, User Location: New Delhi, India.}
+
+{ID: 582086781484453888, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582086835171524608, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582086919997169665, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582086926536081409, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: India}
+
+{ID: 582086980801937408, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Lat13°05′16 N Lon80°16′42″ E }
+
+{ID: 582088059375742977, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: kolkata}
+
+{ID: 582090178321207296, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582090184050614274, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi}
+
+{ID: 582090189775884288, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: New Delhi}
+
+{ID: 582090220675416064, Place: None, User Location: New Delhi India}
+
+{ID: 582090878900178944, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Malviya Nagar,New Delhi, INDIA}
+
+{ID: 582091247243907072, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Malviya Nagar,New Delhi, INDIA}
+
+{ID: 582091248581812225, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Need info? Call 18001023811}
+
+{ID: 582091257415008258, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582091630448025601, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582091651209768961, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582091915933384705, Place: None, User Location: New Delhi India}
+
+{ID: 582092703418097664, Place: {u'full_name': u'Hauz Khas, New Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/1803a3c4b7bde7b0.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1838779, 28.543558], [77.1838779, 28.5607868], [77.2128597, 28.5607868], [77.2128597, 28.543558]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1803a3c4b7bde7b0', u'name': u'Hauz Khas'}, User Location: }
+
+{ID: 582093743731265537, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582094185144045568, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582094777950195712, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582095171392696320, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582095230159065088, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582095541099585536, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582095984630484992, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582095997532176384, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582096011713085440, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India }
+
+{ID: 582096058332770304, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: NoWhere}
+
+{ID: 582096136183398400, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Malviya Nagar,New Delhi, INDIA}
+
+{ID: 582099084070240256, Place: None, User Location: New Delhi India}
+
+{ID: 582105635942060032, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582105637762404352, Place: None, User Location: New Delhi, India.}
+
+{ID: 582106376341577728, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582106939166863360, Place: None, User Location: Manchester of India,New Delhi}
+
+{ID: 582107326712135680, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Mumbai, India}
+
+{ID: 582107481494695936, Place: None, User Location: India At New Delhi}
+
+{ID: 582107750081019905, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582107814891364353, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi}
+
+{ID: 582107856289185792, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi #Punjab}
+
+{ID: 582108013567201280, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582108205754380289, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi, India}
+
+{ID: 582108242299367424, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Mumbai, India}
+
+{ID: 582108402912006144, Place: None, User Location: New Delhi India}
+
+{ID: 582108506985136129, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582108939031986177, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+
+{ID: 582108985974747136, Place: None, User Location: New Delhi India}
+
+{ID: 582109039900827648, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+
+{ID: 582109101636907009, Place: None, User Location: New Delhi India}
+
+{ID: 582110460465434624, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: Delhi | Europe}
+
+{ID: 582113090243670017, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi, India.}
+{ID: 582028933824049152, Place: None, User Location:  Delhi / India }
+
+{ID: 582030140755972096, Place: {u'full_name': u'Greater Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/472313ed153fe2bf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.413645, 28.3610523], [77.413645, 28.6384655], [77.6875526, 28.6384655], [77.6875526, 28.3610523]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'472313ed153fe2bf', u'name': u'Greater Noida'}, User Location: DELHI}
+
+{ID: 582030554226245632, Place: None, User Location: Gurgaon, Delhi NCR, India}
+
+{ID: 582031167777415168, Place: None, User Location: Delhi, India| BB PIN- 2BAE52C0}
+
+{ID: 582031604387745792, Place: None, User Location: Delhi ,India }
+
+{ID: 582033062260686848, Place: None, User Location: Delhi & Dehradun,India}
+
+{ID: 582034948091047936, Place: None, User Location: Delhi ,India }
+
+{ID: 582035550292484096, Place: {u'full_name': u'Faridabad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1497858, 28.1568415], [77.1497858, 28.5055846], [77.5519766, 28.5055846], [77.5519766, 28.1568415]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2281169281a9d3a2', u'name': u'Faridabad'}, User Location: Bangalore, Delhi, Mumbai}
+
+{ID: 582035780022845440, Place: None, User Location: Delhi , India}
+
+{ID: 582035923191255041, Place: None, User Location: Gurgaon, Delhi NCR, India}
+
+{ID: 582037117682880513, Place: None, User Location: Gurgaon, Delhi NCR, India}
+
+{ID: 582037125945790464, Place: None, User Location: India/Delhi}
+
+{ID: 582037519019048960, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582037826125979649, Place: None, User Location: India - Mumbai - Delhi - Pune}
+
+{ID: 582038005545725952, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582038256314773505, Place: None, User Location: (Delhi, Ranchi, Kolkata) India}
+
+{ID: 582038271024201729, Place: None, User Location: Delhi | India}
+
+{ID: 582038284253032448, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582039116876910592, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582039240910905344, Place: None, User Location: India - Mumbai - Delhi - Pune}
+
+{ID: 582039480455933952, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582042000569950208, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582042720379789312, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582042810590752769, Place: None, User Location: (Delhi, Ranchi, Kolkata) India}
+
+{ID: 582043141257084928, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582043796705185793, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582044500110897152, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582044580129824768, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582045516030054400, Place: {u'full_name': u'Greater Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/472313ed153fe2bf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.413645, 28.3610523], [77.413645, 28.6384655], [77.6875526, 28.6384655], [77.6875526, 28.3610523]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'472313ed153fe2bf', u'name': u'Greater Noida'}, User Location: Delhi, India}
+
+{ID: 582045828488962049, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582045869169496066, Place: None, User Location: Delhi, India.}
+
+{ID: 582046086434455554, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582046162967924736, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582046332094844928, Place: None, User Location: Delhi ,India }
+
+{ID: 582046502643609600, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582047204195463168, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582047460224172032, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582048430266040320, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582048613003452416, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582049111668453376, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582052280960077824, Place: None, User Location: Delhi & Dehradun,India}
+
+{ID: 582052408173314048, Place: None, User Location: Bihar, Delhi, India}
+
+{ID: 582052560644624384, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582052664562724864, Place: None, User Location: Delhi | India }
+
+{ID: 582052876186308608, Place: None, User Location: Delhi & Dehradun,India}
+
+{ID: 582053239970918400, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582053399232811008, Place: None, User Location: Gurgaon, Delhi NR, India}
+
+{ID: 582054903796781056, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582054924059598848, Place: None, User Location: India/Delhi}
+
+{ID: 582054969475346432, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582059079536758784, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582061448748118016, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582061710967603200, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582063877984112640, Place: None, User Location: Delhi ,India }
+
+{ID: 582063884166545408, Place: None, User Location: Delhi  India}
+
+{ID: 582064652005179392, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582064861175099392, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582067207435218944, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582068523872092161, Place: None, User Location: Delhi ,India }
+
+{ID: 582070541999218689, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582072545068912640, Place: None, User Location: India/Delhi}
+
+{ID: 582073273942315008, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582073448416972800, Place: None, User Location: Gurgaon / Delhi NCR, India}
+
+{ID: 582074942851710976, Place: None, User Location: Delhi...Indiaaaaah :)}
+
+{ID: 582076194985680896, Place: None, User Location: Delhi India }
+
+{ID: 582076779243802626, Place: None, User Location: Delhi  India}
+
+{ID: 582078053863407616, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Delhi}
+
+{ID: 582079744541216768, Place: {u'full_name': u'Bidhan Nagar, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6a432d7e9a987731.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.3906811, 22.4925843], [88.3906811, 22.6341518], [88.614477, 22.6341518], [88.614477, 22.4925843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a432d7e9a987731', u'name': u'Bidhan Nagar'}, User Location: Delhi/Chattisgarh/Kolkata}
+
+{ID: 582082476031496193, Place: None, User Location: Jaipur / Delhi (India)}
+
+{ID: 582082568012443648, Place: None, User Location: India - Mumbai - Delhi - Pune}
+
+{ID: 582083626352779264, Place: None, User Location: (Delhi, Ranchi, Kolkata) India}
+
+{ID: 582084195297554432, Place: None, User Location: Bihar, Delhi, India}
+
+{ID: 582084261307535360, Place: None, User Location: Delhi , India}
+
+{ID: 582084473929408512, Place: None, User Location: Bihar, Delhi, India}
+
+{ID: 582084540476190721, Place: None, User Location: Gurgaon, Delhi NCR, India}
+
+{ID: 582084856848343041, Place: None, User Location: Delhi , India}
+
+{ID: 582085065879920640, Place: None, User Location: Delhi, India }
+
+{ID: 582085835706617856, Place: None, User Location: Delhi NCR, India}
+
+{ID: 582085999913652224, Place: None, User Location: North Delhi, India}
+
+{ID: 582086548243365888, Place: None, User Location: Delhi / India}
+
+{ID: 582086747095322625, Place: None, User Location: Gurgaon, Delhi NCR, India}
+
+{ID: 582086769035726848, Place: None, User Location: Delhi / India}
+
+{ID: 582086857388785664, Place: None, User Location: Delhi / India}
+
+{ID: 582087091590340608, Place: None, User Location: Delhi, India.}
+
+{ID: 582087323036200960, Place: None, User Location: Delhi  India}
+
+{ID: 582088760847773696, Place: None, User Location: Delhi India }
+
+{ID: 582090176773513216, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Delhi, India}
+
+{ID: 582091995490885632, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Delhi, Noida, lucknow}
+
+{ID: 582095247120809984, Place: None, User Location: Delhi / India}
+
+{ID: 582107171598430208, Place: None, User Location: Delhi  India}
+
+{ID: 582107592991739904, Place: None, User Location: Pune||Delhi||India}
+
+{ID: 582109310823501824, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Delhi}
+{ID: 582032145327128576, Place: None, User Location: Incredible India}
+
+{ID: 582041429569982464, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Incredible India — Bhubaneswar}
+
+{ID: 582041977744576512, Place: None, User Location: Incredible India}
+
+{ID: 582053308925239297, Place: None, User Location: Incredible India}
+
+{ID: 582057983154196480, Place: None, User Location: Incredible India }
+
+{ID: 582064853264809985, Place: None, User Location: Incredible India}
+
+{ID: 582066205801910273, Place: None, User Location: NCR India}
+
+{ID: 582067075985756161, Place: None, User Location: NCR India}
+
+{ID: 582078917248299008, Place: None, User Location: !ncredible India}
+
+{ID: 582079672730587138, Place: None, User Location: !ncredible India}
+
+{ID: 582080907290365953, Place: None, User Location: Incredible India}
+
+{ID: 582082087223627776, Place: None, User Location: Incredible India}
+
+{ID: 582096524382842880, Place: None, User Location: Incredible India!}
+
+{ID: 582108409782206464, Place: None, User Location: Incredible India}
+
+{ID: 582110006469894145, Place: None, User Location: Incredible India}
+{ID: 582055894843723777, Place: None, User Location: दिल्ली, India}
+
+{ID: 582057392130514945, Place: None, User Location: दिल्ली, India}
+{ID: 582029647472259073, Place: None, User Location: National Capital Region, India}
+
+{ID: 582056453785026560, Place: None, User Location: National Capital Region, India}

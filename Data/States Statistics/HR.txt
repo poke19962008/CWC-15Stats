@@ -1,0 +1,223 @@
+{ID: 582028163447803904, Place: None, User Location: Hisar (Haryanna) India}
+{ID: 582029248510062592, Place: None, User Location: Hisar (Haryanna) India}
+{ID: 582029714606276608, Place: None, User Location: Gurgaon, India}
+
+{ID: 582030249552011264, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582032008450195456, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582032991750266880, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Gurgaon }
+
+{ID: 582034740670128129, Place: None, User Location: gurgaon,India}
+
+{ID: 582035435943112704, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582035552318271489, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582035561864531968, Place: None, User Location: Gurgaon, India}
+
+{ID: 582035635160023040, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon, India}
+
+{ID: 582036191974850560, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582037366895837184, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582038566869446656, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582039265191677953, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582040646631890944, Place: None, User Location: Gurgaon, India}
+
+{ID: 582041786920501250, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582041986997223424, Place: None, User Location: Gurgaon, India}
+
+{ID: 582042158854582273, Place: None, User Location: Gurgaon, India}
+
+{ID: 582042470818549761, Place: None, User Location: Gurgaon, India}
+
+{ID: 582045233384312832, Place: None, User Location: Gurgaon, Haryana, India }
+
+{ID: 582045258130726914, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Gurgaon }
+
+{ID: 582046166356901888, Place: None, User Location: Gurgaon, India }
+
+{ID: 582047666047033344, Place: None, User Location: Gurgaon, India}
+
+{ID: 582048469629554690, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582048552165097472, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Gurgaon/NCR}
+
+{ID: 582048928389943296, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582049455278436352, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582051032085102592, Place: None, User Location: Gurgaon, India}
+
+{ID: 582052659609272320, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Gurgaon/NCR}
+
+{ID: 582052666160762880, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582053026183049216, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582053419445145600, Place: {u'full_name': u'India', u'url': u'https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json', u'country': u'India', u'place_type': u'country', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 6.7604429], [68.1061138, 37.07827], [97.4152924, 37.07827], [97.4152924, 6.7604429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'b850c1bfd38f30e0', u'name': u'India'}, User Location: gurgaon}
+
+{ID: 582053448855601152, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582053523975606272, Place: None, User Location: Gurgaon,India}
+
+{ID: 582059334932135936, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582059404226244608, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Living in Gurgaon, from Yzaggg}
+
+{ID: 582059892246097920, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582063608915365888, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: India}
+
+{ID: 582064296223375361, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582064655603867651, Place: None, User Location: Gurgaon, Haryana, India }
+
+{ID: 582069043965751296, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582069389098287104, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582071158046003200, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582072530980089856, Place: None, User Location: Gurgaon, NCR India}
+
+{ID: 582073297233379328, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582073463193530368, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582074195565121536, Place: {u'full_name': u'Indra Nagar, Meerut', u'url': u'https://api.twitter.com/1.1/geo/id/7a68cfde39cc8158.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.6850254, 28.9553383], [77.6850254, 28.9740961], [77.702782, 28.9740961], [77.702782, 28.9553383]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a68cfde39cc8158', u'name': u'Indra Nagar'}, User Location: Gurgaon }
+
+{ID: 582074557973942272, Place: None, User Location: Gurgaon, India}
+
+{ID: 582074948186853376, Place: None, User Location: Gurgaon, Republic of India}
+
+{ID: 582077348163403777, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582078906036944896, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: India}
+
+{ID: 582079918458023936, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582080075543130112, Place: None, User Location: Gurgaon  (India)}
+
+{ID: 582080279214325760, Place: None, User Location: Gurgaon  (India)}
+
+{ID: 582080479190343680, Place: None, User Location: Gurgaon,India}
+
+{ID: 582080894812311552, Place: None, User Location: Gurgaon  (India)}
+
+{ID: 582081878531784704, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582082775995400192, Place: None, User Location: Gurgaon, India}
+
+{ID: 582083614617120768, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: bhubaneswar}
+
+{ID: 582084290793467904, Place: None, User Location: Gurgaon,India}
+
+{ID: 582084437619261440, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582084912687153152, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582085735836073984, Place: None, User Location: Gurgaon,India}
+
+{ID: 582086001234837504, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582086770344394752, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582086853345456130, Place: None, User Location: Gurgaon, India}
+
+{ID: 582086944424747008, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582087003765747713, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: }
+
+{ID: 582088726081220608, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+
+{ID: 582095455552569344, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582095572661723136, Place: None, User Location: Gurgaon India}
+
+{ID: 582095976669655041, Place: None, User Location: Gurgaon,India}
+
+{ID: 582096656516042752, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+
+{ID: 582096743698817024, Place: None, User Location: Gurgaon, India}
+
+{ID: 582107022922891264, Place: None, User Location: Gurgaon, India}
+
+{ID: 582108229615779840, Place: None, User Location: Gurgaon India}
+
+{ID: 582110300477902848, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon}
+{ID: 582029467725344769, Place: {u'full_name': u'Faridabad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1497858, 28.1568415], [77.1497858, 28.5055846], [77.5519766, 28.5055846], [77.5519766, 28.1568415]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2281169281a9d3a2', u'name': u'Faridabad'}, User Location: }
+
+{ID: 582031266926567426, Place: {u'full_name': u'Shahbad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/62745e316f7e2983.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8607961, 30.1490759], [76.8607961, 30.1734485], [76.8795619, 30.1734485], [76.8795619, 30.1490759]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'62745e316f7e2983', u'name': u'Shahbad'}, User Location: SHAHABAD MARKANDA , INDIA}
+
+{ID: 582032556645711872, Place: None, User Location: Haryana, India}
+
+{ID: 582035246431891456, Place: {u'full_name': u'Haryana, India', u'url': u'https://api.twitter.com/1.1/geo/id/44332d1f271dee38.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.4745843, 27.650638], [74.4745843, 30.9267057], [77.6051055, 30.9267057], [77.6051055, 27.650638]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44332d1f271dee38', u'name': u'Haryana'}, User Location: }
+
+{ID: 582035634878976000, Place: None, User Location: Haryana, India}
+
+{ID: 582036594871275520, Place: None, User Location: Haryana, India}
+
+{ID: 582037485263306753, Place: None, User Location: Haryana, India}
+
+{ID: 582040118120341505, Place: None, User Location: Kaithal, Haryana, India}
+
+{ID: 582040869571694592, Place: None, User Location: Haryana, India}
+
+{ID: 582048097401847808, Place: None, User Location: Haryana India}
+
+{ID: 582052363810144258, Place: {u'full_name': u'Haryana, India', u'url': u'https://api.twitter.com/1.1/geo/id/44332d1f271dee38.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.4745843, 27.650638], [74.4745843, 30.9267057], [77.6051055, 30.9267057], [77.6051055, 27.650638]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44332d1f271dee38', u'name': u'Haryana'}, User Location: Raj./Haryana}
+
+{ID: 582052692232536065, Place: {u'full_name': u'Haryana, India', u'url': u'https://api.twitter.com/1.1/geo/id/44332d1f271dee38.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.4745843, 27.650638], [74.4745843, 30.9267057], [77.6051055, 30.9267057], [77.6051055, 27.650638]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44332d1f271dee38', u'name': u'Haryana'}, User Location: Raj./Haryana}
+
+{ID: 582054928585089026, Place: None, User Location: Hisar,Haryana,India}
+
+{ID: 582062113335607296, Place: None, User Location: Haryana, India}
+
+{ID: 582066419912744960, Place: {u'full_name': u'Bahadurgarh, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/57e1c5cf551777ad.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.684058, 28.4990622], [76.684058, 28.8620734], [76.9645044, 28.8620734], [76.9645044, 28.4990622]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'57e1c5cf551777ad', u'name': u'Bahadurgarh'}, User Location: }
+
+{ID: 582067325798596608, Place: None, User Location: Kaithal, Haryana, India}
+
+{ID: 582067787868307456, Place: None, User Location: Kaithal, Haryana, India}
+
+{ID: 582068544487084032, Place: {u'full_name': u'Rohtak, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/691692135d267911.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.2906071, 28.6812476], [76.2906071, 29.104296], [76.9028756, 29.104296], [76.9028756, 28.6812476]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'691692135d267911', u'name': u'Rohtak'}, User Location: ÜT: 29.125360, 75.795279}
+
+{ID: 582078620589391872, Place: {u'full_name': u'Narnaul, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/0506b1196fd0ef1b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.0882007, 28.0180519], [76.0882007, 28.0862145], [76.1358416, 28.0862145], [76.1358416, 28.0180519]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0506b1196fd0ef1b', u'name': u'Narnaul'}, User Location: Raj./Haryana}
+
+{ID: 582081741478711296, Place: {u'full_name': u'Faridabad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1497858, 28.1568415], [77.1497858, 28.5055846], [77.5519766, 28.5055846], [77.5519766, 28.1568415]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2281169281a9d3a2', u'name': u'Faridabad'}, User Location: }
+
+{ID: 582084474562727936, Place: {u'full_name': u'Haryana, India', u'url': u'https://api.twitter.com/1.1/geo/id/44332d1f271dee38.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.4745843, 27.650638], [74.4745843, 30.9267057], [77.6051055, 30.9267057], [77.6051055, 27.650638]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44332d1f271dee38', u'name': u'Haryana'}, User Location: }
+
+{ID: 582084899017879552, Place: {u'full_name': u'Haryana, India', u'url': u'https://api.twitter.com/1.1/geo/id/44332d1f271dee38.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.4745843, 27.650638], [74.4745843, 30.9267057], [77.6051055, 30.9267057], [77.6051055, 27.650638]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'44332d1f271dee38', u'name': u'Haryana'}, User Location: }
+
+{ID: 582087617132564480, Place: None, User Location: yamuna nagar Haryana India}
+
+{ID: 582089650661003264, Place: None, User Location: Haryana, India}
+
+{ID: 582091626744455168, Place: None, User Location: Hisar,Haryana,India}
+
+{ID: 582095494345859072, Place: None, User Location: Rohtak  Haryana  India}
+
+{ID: 582095568161390592, Place: None, User Location: Rohtak  Haryana  India}
+
+{ID: 582100789390286849, Place: {u'full_name': u'Panchkula, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/166f960e289d031f.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7760244, 30.5205565], [76.7760244, 30.9267057], [77.1756699, 30.9267057], [77.1756699, 30.5205565]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'166f960e289d031f', u'name': u'Panchkula'}, User Location: Chandigarh}
+
+{ID: 582101624325193728, Place: None, User Location: Rohtak  Haryana  India}
+
+{ID: 582104361997713408, Place: {u'full_name': u'Panchkula, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/166f960e289d031f.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7760244, 30.5205565], [76.7760244, 30.9267057], [77.1756699, 30.9267057], [77.1756699, 30.5205565]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'166f960e289d031f', u'name': u'Panchkula'}, User Location: Chandigarh}
+
+{ID: 582108280815661056, Place: None, User Location: Bhiwani ( Haryana ) , India}
+{ID: 582029729768693760, Place: None, User Location: Harayana, India}
+
+{ID: 582030720626872320, Place: None, User Location: Harayana, India}
+
+{ID: 582037065220513792, Place: None, User Location: Harayana, India}
+
+{ID: 582062965970444289, Place: None, User Location: Harayana, India}
+{ID: 582079527716683776, Place: None, User Location: Faridabad, India}
+{ID: 582039385199136768, Place: None, User Location: kaithal  ,  India}

@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["geochart"]});
+      google.setOnLoadCallback(drawRegionsMap);
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+            ['State', 'Percent'],
+            ['IN-AP', 0.93821925],
+            ['IN-AS', 1.0267305],
+            ['IN-BR', 0.97362375], 
+            ['IN-CH', 0.70809], 
+            ['IN-DL', 16.33917675], 
+            ['IN-GA', 1.29226425], 
+            ['IN-GJ', 3.59355675], 
+            ['IN-HP', 0.44255625], 
+            ['IN-HR', 2.03575875], 
+            ['IN-JH', 0.01770225], 
+            ['IN-JK', 2.4429105], 
+            ['IN-KA', 11.20552425], 
+            ['IN-KL', 2.12427],
+            ['IN-LD', 0.01770225], 
+            ['IN-MH', 26.14622325], 
+            ['IN-ML', 0.01770225], 
+            ['IN-MP', 0.79660125], 
+            ['IN-NL', 0.08851125], 
+            ['IN-OR', 1.062135], 
+            ['IN-PB', 2.49601725], 
+            ['IN-PY', 0.15932025], 
+            ['IN-RJ', 2.83236], 
+            ['IN-SK', 0.01770225], 
+            ['IN-TG', 3.752877], 
+            ['IN-TN', 8.921934], 
+            ['IN-TR', 0.283236], 
+            ['IN-UK', 1.132944], 
+            ['IN-UP', 4.44326475], 
+            ['IN-WB', 4.69109625],
+            ['IN-CT', 0], ['IN-AR', 0],   
+            ['IN-MN', 0], ['IN-MZ', 0]
+            
+          ]);
+  
+        var options = {
+          region: 'IN',
+          resolution: 'provinces',
+          colorAxis: {minValue: 0,  colors: ['orange', '#FF0000']},
+          backgroundColor: '#81d4fa',
+          datalessRegionColor: '#f8bbd0'
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('geochart-colors'));
+        chart.draw(data, options);
+      };
+    </script>
+  </head>
+  <body>
+    <div id="geochart-colors" style="width: 700px; height: 433px;"></div>
+  </body>
+</html>

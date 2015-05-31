@@ -1,0 +1,262 @@
+{ID: 582028187376316416, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582035154790580227, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582046362184732672, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582059668891021313, Place: None, User Location: Jammu and Kashmir, India}
+{ID: 582059848226906112, Place: None, User Location: Jammu and Kashmir, India}
+{ID: 582060044004392960, Place: None, User Location: Jammu and Kashmir, India}
+{ID: 582076819509153792, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582085521897185280, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582085534366855168, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582108878118109184, Place: None, User Location: Jammu And Kashmir, India}
+{ID: 582028762004393985, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: N 12°56' 0'' / E 80°12' 0''}
+
+{ID: 582030396893728768, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: #BanGaLore, Srinagar ,KasHmir}
+
+{ID: 582031657756200960, Place: None, User Location: ANANTNAG Jammu & kashmir India}
+
+{ID: 582035997052903424, Place: None, User Location: Jammu City, India }
+
+{ID: 582036640614363137, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: #BanGaLore, Srinagar ,KasHmir}
+
+{ID: 582037621079166976, Place: None, User Location: ANANTNAG Jammu & kashmir India}
+
+{ID: 582038320588267520, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: indian occupied kashmir}
+
+{ID: 582039676426407936, Place: None, User Location: Jammu City, J&K, India. }
+
+{ID: 582042820753539073, Place: None, User Location: Jammu City, India }
+
+{ID: 582043583823282176, Place: None, User Location: Jammu And Kashmir, India.}
+
+{ID: 582048821133193216, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: Srinagar, Jammu and Kashmir}
+
+{ID: 582058072815759360, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: lahore}
+
+{ID: 582060960115896320, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: Srinagar,Jammu and Kashmir}
+
+{ID: 582061440082665472, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: lahore}
+
+{ID: 582066419182870529, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: indian occupied kashmir}
+
+{ID: 582066673588420608, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: Global citizen}
+
+{ID: 582067154813513728, Place: {u'full_name': u'Baramula, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/67e03c802d5b6921.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.1197462, 33.5245947], [74.1197462, 34.8296726], [75.3528621, 34.8296726], [75.3528621, 33.5245947]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'67e03c802d5b6921', u'name': u'Baramula'}, User Location: baramulla}
+
+{ID: 582074551229501440, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: Kashmir}
+
+{ID: 582079495034695681, Place: None, User Location: Jammu&Kashmir,India}
+
+{ID: 582079662425124864, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: #BanGaLore, Srinagar ,KasHmir}
+
+{ID: 582079792360525825, Place: None, User Location: Jammu,J&K (India)}
+
+{ID: 582085550389133312, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: Jammu & Kashmir INDIA}
+
+{ID: 582087309572452353, Place: {u'full_name': u'Jammu, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/63d86c7f890fd0a9.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.6347853, 32.359211], [74.6347853, 32.9564853], [75.5020279, 32.9564853], [75.5020279, 32.359211]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'63d86c7f890fd0a9', u'name': u'Jammu'}, User Location: Kashmir: the lost Heritage}
+
+{ID: 582088056448004097, Place: None, User Location: Jammu,India}
+
+{ID: 582090228115972096, Place: {u'full_name': u'Jammu And Kashmir, India', u'url': u'https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.5294654, 32.2755403], [72.5294654, 37.07827], [80.3286439, 37.07827], [80.3286439, 32.2755403]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7589e3f2b73287da', u'name': u'Jammu And Kashmir'}, User Location: Bagh Azad Kashmir }
+
+{ID: 582091250662129664, Place: None, User Location: Jammu,India}
+
+{ID: 582098307838713856, Place: {u'full_name': u'Anantnag, Jammu And Kashmir', u'url': u'https://api.twitter.com/1.1/geo/id/2a04d50d4dfcd226.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.7044366, 33.321178], [74.7044366, 34.4090707], [75.5997464, 34.4090707], [75.5997464, 33.321178]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2a04d50d4dfcd226', u'name': u'Anantnag'}, User Location: indian occupied kashmir}
+
+{ID: 582107090828689408, Place: None, User Location: Jammu City, J&K, India. }
+
+{ID: 582107685253840896, Place: None, User Location: Jammu City, J&K, India. }
+{ID: 582030634031284224, Place: None, User Location: J&K, India}
+
+{ID: 582034828821925888, Place: None, User Location: J&K, India}
+
+{ID: 582036453284319232, Place: None, User Location: J&K, India}
+
+{ID: 582037064314585088, Place: None, User Location: J&K, India}
+
+{ID: 582046949378957312, Place: None, User Location: J&K, India}
+
+{ID: 582052770233991168, Place: None, User Location: J&K, India}
+
+{ID: 582067840062107648, Place: None, User Location: Lakhanpur (J&K), India}
+
+{ID: 582076522162319360, Place: None, User Location: Lakhanpur (J&K), India}
+
+{ID: 582083356038316033, Place: None, User Location: Lakhanpur (J&K), India}
+
+{ID: 582092993798144000, Place: None, User Location: Lakhanpur (J&K), India}
+
+{ID: 582098049037561857, Place: None, User Location: J&K, India}
+{ID: 582031209330442240, Place: {u'full_name': u'Srinagar, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/3584cdd9f7e95a4e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.7510507, 30.2108035], [78.7510507, 30.2278873], [78.8087232, 30.2278873], [78.8087232, 30.2108035]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3584cdd9f7e95a4e', u'name': u'Srinagar'}, User Location: srinagar garhwal uttarakhand}
+
+{ID: 582064284064157697, Place: None, User Location: Srinagar, India}
+
+{ID: 582073263938916352, Place: None, User Location: Srinagar Kashmir, India}
+
+{ID: 582087610614591488, Place: None, User Location: Srinagar, India}
+
+{ID: 582113072300584960, Place: None, User Location: Srinagar Kashmir, India}
+{ID: 582035167063072768, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582039320904802304, Place: None, User Location: Indian occupied kashmir}
+
+{ID: 582040483578265600, Place: None, User Location: place: Kashmir,India {kupwara}}
+
+{ID: 582040801946910721, Place: None, User Location: place: Kashmir,India {kupwara}}
+
+{ID: 582042031687520256, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582042612254691328, Place: None, User Location: Kashmir , India}
+
+{ID: 582042629463900161, Place: None, User Location: Kashmir , India}
+
+{ID: 582042692621762560, Place: None, User Location: Kashmir , India}
+
+{ID: 582042702633537536, Place: None, User Location: Kashmir , India}
+
+{ID: 582042741787361280, Place: None, User Location: Kashmir , India}
+
+{ID: 582042804966174720, Place: None, User Location: Kashmir , India}
+
+{ID: 582042871877910529, Place: None, User Location: Kashmir , India}
+
+{ID: 582042884972511232, Place: None, User Location: Kashmir , India}
+
+{ID: 582042943290142721, Place: None, User Location: Kashmir , India}
+
+{ID: 582043031181742080, Place: None, User Location: Kashmir , India}
+
+{ID: 582043098923991040, Place: None, User Location: Kashmir , India}
+
+{ID: 582043115109806080, Place: None, User Location: Kashmir , India}
+
+{ID: 582043168331296769, Place: None, User Location: Kashmir , India}
+
+{ID: 582043200887492609, Place: None, User Location: Kashmir , India}
+
+{ID: 582043207359299584, Place: None, User Location: Kashmir , India}
+
+{ID: 582043234685194240, Place: None, User Location: Kashmir , India}
+
+{ID: 582043254150991872, Place: None, User Location: Kashmir , India}
+
+{ID: 582043476864323584, Place: None, User Location: Kashmir , India}
+
+{ID: 582043521743360000, Place: None, User Location: Kashmir , India}
+
+{ID: 582043826363105281, Place: None, User Location: Kashmir , India}
+
+{ID: 582043991367114752, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582044100003700736, Place: None, User Location: Kashmir , India}
+
+{ID: 582044308762554368, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582045231584956416, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582045921224994816, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582053223848026112, Place: None, User Location: Indian Oppressed Kashmir. }
+
+{ID: 582053311693627392, Place: None, User Location: Indian occupied kashmir}
+
+{ID: 582054455928999936, Place: None, User Location: Indian occupied kashmir}
+
+{ID: 582055251953332224, Place: None, User Location: Kashmir , India}
+
+{ID: 582055272933261312, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582055320920297472, Place: None, User Location: Kashmir , India}
+
+{ID: 582055360371957761, Place: None, User Location: Kashmir , India}
+
+{ID: 582055366638247937, Place: None, User Location: Kashmir , India}
+
+{ID: 582056501360992257, Place: None, User Location: Kashmir , India}
+
+{ID: 582057223272071168, Place: None, User Location: Kashmir , India}
+
+{ID: 582057260991389696, Place: None, User Location: Indian Oppressed Kashmir. }
+
+{ID: 582057350292332544, Place: None, User Location: Kashmir , India}
+
+{ID: 582057355090755584, Place: None, User Location: place: Kashmir,India {kupwara}}
+
+{ID: 582057477795008512, Place: None, User Location: Kashmir , India}
+
+{ID: 582058061155557376, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582059119017795585, Place: None, User Location: Kashmir , India}
+
+{ID: 582059138525499393, Place: None, User Location: Indian-occupied Kashmir. }
+
+{ID: 582059153968885760, Place: None, User Location: Indian-occupied Kashmir. }
+
+{ID: 582059609734529024, Place: None, User Location: Indian-occupied Kashmir. }
+
+{ID: 582059949917745152, Place: None, User Location: Kashmir , India}
+
+{ID: 582060490475454464, Place: None, User Location: Kashmir , India}
+
+{ID: 582060916457385985, Place: None, User Location: Kashmir , India}
+
+{ID: 582060964599615489, Place: None, User Location: Kashmir , India}
+
+{ID: 582060974619820034, Place: None, User Location: Kashmir , India}
+
+{ID: 582063613646643200, Place: None, User Location: place: Kashmir,India {kupwara}}
+
+{ID: 582064294122000385, Place: None, User Location: Indian occupied kashmir}
+
+{ID: 582078296638164994, Place: None, User Location: Indian occupied Kashmir}
+
+{ID: 582078875485671424, Place: None, User Location: Indian occupied Kashmir}
+
+{ID: 582079168596164608, Place: None, User Location: Indian occupied Kashmir}
+
+{ID: 582080623075991552, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582082978274103297, Place: None, User Location: Indian Oppressed Kashmir. }
+
+{ID: 582086473035448320, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582086800027574272, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582086836299935744, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582092990916636673, Place: None, User Location: Indian Occupied Kashmir}
+
+{ID: 582095168171483136, Place: None, User Location: [Indian Occupaid Kashmir]}
+
+{ID: 582110744084283392, Place: None, User Location: [Indian Occupaid Kashmir]}
+{ID: 582030779535925250, Place: None, User Location: Ranchi, India}
+
+{ID: 582032059624894464, Place: None, User Location: Ranchi,India }
+
+{ID: 582034052913307648, Place: None, User Location: Ranchi,India }
+
+{ID: 582042683440410624, Place: None, User Location: Ranchi, India}
+
+{ID: 582047896884813824, Place: None, User Location: Ranchi,India }
+
+{ID: 582049111446138880, Place: None, User Location: Ranchi, India}
+
+{ID: 582049391751475201, Place: None, User Location: Ranchi, India}
+
+{ID: 582049614955581441, Place: None, User Location: Ranchi, India}
+
+{ID: 582073248440954880, Place: None, User Location: Ranchi, India}
+
+{ID: 582073664696295424, Place: None, User Location: Ranchi, India}
+
+{ID: 582075733712850945, Place: None, User Location: Ranchi,India }
+{ID: 582070261450563584, Place: {u'full_name': u'Raipur, Chhattisgarh', u'url': u'https://api.twitter.com/1.1/geo/id/4da2e4230e6b3de5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.5347754, 20.9392386], [81.5347754, 21.623568], [82.1941542, 21.623568], [82.1941542, 20.9392386]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4da2e4230e6b3de5', u'name': u'Raipur'}, User Location: Raipur Chhattisgarh, India}
+
+{ID: 582072500667875328, Place: {u'full_name': u'Raipur, Chhattisgarh', u'url': u'https://api.twitter.com/1.1/geo/id/4da2e4230e6b3de5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.5347754, 20.9392386], [81.5347754, 21.623568], [82.1941542, 21.623568], [82.1941542, 20.9392386]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4da2e4230e6b3de5', u'name': u'Raipur'}, User Location: Raipur Chhattisgarh, India}
+
+{ID: 582073424433979392, Place: {u'full_name': u'Raipur, Chhattisgarh', u'url': u'https://api.twitter.com/1.1/geo/id/4da2e4230e6b3de5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.5347754, 20.9392386], [81.5347754, 21.623568], [82.1941542, 21.623568], [82.1941542, 20.9392386]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4da2e4230e6b3de5', u'name': u'Raipur'}, User Location: Raipur Chhattisgarh, India}
+
+{ID: 582081896034619392, Place: None, User Location: Bemetara,Chhattisgarh,India.}
+
+{ID: 582082031409983488, Place: None, User Location: Bemetara,Chhattisgarh,India.}
+
+

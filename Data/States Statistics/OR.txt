@@ -1,0 +1,117 @@
+{ID: 582032574773637120, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582035182561038337, Place: None, User Location:  * • ♡ Odisha , India ♡ • *}
+
+{ID: 582037267230953474, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582038705843499008, Place: None, User Location: Odisha, India}
+
+{ID: 582041318655938560, Place: None, User Location: Odisha/India}
+
+{ID: 582041790649249792, Place: None, User Location: Bhubaneswar, Odisha, India}
+
+{ID: 582044041438597121, Place: None, User Location: Rourkela, Odisha, India}
+
+{ID: 582045698310307840, Place: None, User Location: Bhubaneswar,Odisha ,India }
+
+{ID: 582053129673310208, Place: None, User Location: Odisha, India}
+
+{ID: 582066673693265920, Place: {u'full_name': u'Orissa, India', u'url': u'https://api.twitter.com/1.1/geo/id/2369b36d6676c667.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.3915022, 17.8104522], [81.3915022, 22.5668538], [87.490202, 22.5668538], [87.490202, 17.8104522]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2369b36d6676c667', u'name': u'Orissa'}, User Location: ODISHA  India}
+
+{ID: 582067327425884160, Place: None, User Location: Cuttack Odisha India}
+{ID: 582029983863873536, Place: None, User Location: Bhubaneswar,India}
+
+{ID: 582047224890261504, Place: None, User Location: Bhubaneswar, India }
+
+{ID: 582057341639622656, Place: None, User Location: Bhubaneswar,India}
+
+
+{ID: 582072067899596800, Place: None, User Location: Bhubaneswar, Odisha, India}
+
+{ID: 582072544905146368, Place: {u'full_name': u'Orissa, India', u'url': u'https://api.twitter.com/1.1/geo/id/2369b36d6676c667.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.3915022, 17.8104522], [81.3915022, 22.5668538], [87.490202, 22.5668538], [87.490202, 17.8104522]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2369b36d6676c667', u'name': u'Orissa'}, User Location: ODISHA  India}
+
+{ID: 582079415456120832, Place: None, User Location: Puri, Odisha, India}
+
+{ID: 582079856248164352, Place: None, User Location: Puri, Odisha, India}
+
+{ID: 582083491954700288, Place: None, User Location: Cuttack Odisha India}
+
+{ID: 582083774696923137, Place: None, User Location: Odisha, India}
+
+{ID: 582085678491533312, Place: None, User Location: Odisha, India}
+
+{ID: 582106356854833152, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582107011250171904, Place: None, User Location: Puri, Odisha, India}
+{ID: 582032574773637120, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582035182561038337, Place: None, User Location:  * • ♡ Odisha , India ♡ • *}
+
+{ID: 582037267230953474, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582038705843499008, Place: None, User Location: Odisha, India}
+
+{ID: 582041318655938560, Place: None, User Location: Odisha/India}
+
+{ID: 582041790649249792, Place: None, User Location: Bhubaneswar, Odisha, India}
+
+{ID: 582044041438597121, Place: None, User Location: Rourkela, Odisha, India}
+
+{ID: 582045698310307840, Place: None, User Location: Bhubaneswar,Odisha ,India }
+
+{ID: 582053129673310208, Place: None, User Location: Odisha, India}
+
+{ID: 582066673693265920, Place: {u'full_name': u'Orissa, India', u'url': u'https://api.twitter.com/1.1/geo/id/2369b36d6676c667.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.3915022, 17.8104522], [81.3915022, 22.5668538], [87.490202, 22.5668538], [87.490202, 17.8104522]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2369b36d6676c667', u'name': u'Orissa'}, User Location: ODISHA  India}
+
+{ID: 582067327425884160, Place: None, User Location: Cuttack Odisha India}
+
+{ID: 582072067899596800, Place: None, User Location: Bhubaneswar, Odisha, India}
+
+{ID: 582072544905146368, Place: {u'full_name': u'Orissa, India', u'url': u'https://api.twitter.com/1.1/geo/id/2369b36d6676c667.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[81.3915022, 17.8104522], [81.3915022, 22.5668538], [87.490202, 22.5668538], [87.490202, 17.8104522]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2369b36d6676c667', u'name': u'Orissa'}, User Location: ODISHA  India}
+
+{ID: 582079415456120832, Place: None, User Location: Puri, Odisha, India}
+
+{ID: 582079856248164352, Place: None, User Location: Puri, Odisha, India}
+
+{ID: 582083491954700288, Place: None, User Location: Cuttack Odisha India}
+
+{ID: 582083774696923137, Place: None, User Location: Odisha, India}
+
+{ID: 582085678491533312, Place: None, User Location: Odisha, India}
+
+{ID: 582106356854833152, Place: None, User Location: Cuttack, Odisha, India}
+
+{ID: 582107011250171904, Place: None, User Location: Puri, Odisha, India}
+{ID: 582033530814799872, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: Bhubaneswar}
+
+{ID: 582036872576135168, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: Bhubaneswar}
+
+{ID: 582037378497294337, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: Bhubaneswar}
+
+{ID: 582038064484069376, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: Bhubaneswar}
+
+{ID: 582038609575870465, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: Bhubaneswar}
+
+{ID: 582077318484590592, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: BHUBANESWAR,INDIA}
+
+{ID: 582077363128680448, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar, Orissa, India}
+
+{ID: 582077746861465600, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: BHUBANESWAR,INDIA}
+
+{ID: 582084144005394432, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar, India}
+
+{ID: 582084943548837888, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar}
+
+{ID: 582085506449555457, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar}
+
+{ID: 582085927637360641, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar}
+
+{ID: 582086551229702144, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar}
+
+{ID: 582087095780392960, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar, India}
+
+{ID: 582090575861583873, Place: {u'full_name': u'Bhubaneshwar, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.6241184, 20.0643069], [85.6241184, 20.4339104], [86.082706, 20.4339104], [86.082706, 20.0643069]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'404494447ad0eb09', u'name': u'Bhubaneshwar'}, User Location: Bhubaneswar}
+
+{ID: 582108823910920192, Place: None, User Location: Orissa,India}
+{ID: 582072522922819585, Place: {u'full_name': u'Baramunda, Bhubaneshwar', u'url': u'https://api.twitter.com/1.1/geo/id/02c82b7bf8498b1b.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[85.781235, 20.2661247], [85.781235, 20.2881855], [85.7992473, 20.2881855], [85.7992473, 20.2661247]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'02c82b7bf8498b1b', u'name': u'Baramunda'}, User Location: }
+

@@ -1,0 +1,386 @@
+{ID: 581686448610357248, Place: None, User Location: India}
+{ID: 581686453714886656, Place: None, User Location: India}
+{ID: 581686459008077824, Place: None, User Location: India}
+{ID: 581686480684236800, Place: None, User Location: Mumbai. India}
+{ID: 581687123557797888, Place: None, User Location: Guntur,AP,India}{ID: 581687613318254592, Place: None, User Location: India}
+{ID: 581687624974254080, Place: None, User Location: Mumbai, India}
+{ID: 581687648277794816, Place: None, User Location: Mumbai, India}
+{ID: 581687669798748160, Place: None, User Location: India - भारत }
+{ID: 581687816758763521, Place: None, User Location: Bangalore, India}
+{ID: 581687955049177088, Place: None, User Location: India}
+{ID: 581688041162481665, Place: None, User Location: Chennai, India}
+{ID: 581688102231482368, Place: None, User Location: India}
+{ID: 581688173283020800, Place: None, User Location: India - भारत }
+{ID: 581688208657817600, Place: None, User Location: Bhilwara, Rajasthan, India}
+{ID: 581688462140579840, Place: None, User Location: India}
+{ID: 581688655074369536, Place: None, User Location: India}
+{ID: 581688676276518912, Place: None, User Location: India - भारत }
+{ID: 581689082641666048, Place: None, User Location: Gurgaon India}
+{ID: 581689126556037121, Place: None, User Location: India }
+{ID: 581689220806230017, Place: None, User Location: India - भारत }
+{ID: 581689249709232129, Place: None, User Location: India }
+{ID: 581689519683977216, Place: None, User Location: India}
+{ID: 581689524419346433, Place: None, User Location: India}
+{ID: 581689529356058624, Place: None, User Location: India}
+{ID: 581689683488309248, Place: None, User Location: India - भारत }
+{ID: 581689686621446145, Place: None, User Location: India}
+{ID: 581689731366305792, Place: None, User Location: India,Tamilnadu}
+{ID: 581689821934010368, Place: None, User Location: India}
+{ID: 581689890204602368, Place: None, User Location: Hyderabad, India}
+{ID: 581690186393731072, Place: None, User Location: India - भारत }
+{ID: 581690206195048449, Place: None, User Location: Mumbai, India}
+{ID: 581690423439024128, Place: None, User Location: Haridwar, Uttarakhand, India}
+{ID: 581690447300415488, Place: None, User Location: India}
+{ID: 581690477574946816, Place: {u'full_name': u'Andhra Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/4171b3606efc06af.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7608096, 12.6223436], [76.7608096, 19.9164621], [84.7687824, 19.9164621], [84.7687824, 12.6223436]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4171b3606efc06af', u'name': u'Andhra Pradesh'}, User Location: }
+{ID: 581690522168795136, Place: None, User Location: India}
+{ID: 581690527503912960, Place: None, User Location: India}
+{ID: 581690534814560256, Place: None, User Location: India}
+{ID: 581690639139627008, Place: None, User Location: Pune, India}
+{ID: 581690640246812672, Place: None, User Location: Thanjavur, India}
+{ID: 581690651294633984, Place: None, User Location: India - Mumbai }
+{ID: 581690689798291456, Place: None, User Location: India - भारत }
+{ID: 581690809528946689, Place: None, User Location: India}
+{ID: 581691005067399170, Place: None, User Location: India}
+{ID: 581691095970545664, Place: None, User Location: India }
+{ID: 581691166665523200, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: Gurgaon,India}
+{ID: 581691193093820416, Place: None, User Location: India - भारत }
+{ID: 581691212618342400, Place: None, User Location: India}
+{ID: 581691285108486145, Place: None, User Location: New Delhi, India}
+{ID: 581691288942067714, Place: None, User Location: India}
+{ID: 581691460556169216, Place: None, User Location: India}
+{ID: 581691534665330689, Place: None, User Location: Bangalore, India.}
+{ID: 581691696078934016, Place: None, User Location: India - भारत }
+{ID: 581691796029198336, Place: None, User Location: Saligao Goa &(Cochin)India}
+{ID: 581691803520258048, Place: None, User Location: Hyderabad, India}
+{ID: 581691938836877312, Place: None, User Location: Hyderabad, India}
+{ID: 581691975314767872, Place: None, User Location: Chennai, India}
+{ID: 581692018692354048, Place: None, User Location: India/TamilNadu}
+{ID: 581692034739634176, Place: None, User Location: Bangalore, India.}
+{ID: 581692035440115712, Place: None, User Location: Mumbai - India}
+{ID: 581692063407714304, Place: None, User Location: India }
+{ID: 581692167464316928, Place: None, User Location: New Delhi India}
+{ID: 581692178440716288, Place: None, User Location: Mumbai - India}
+{ID: 581692189782085632, Place: None, User Location: Bangalore, India}
+{ID: 581692199227682817, Place: None, User Location: India - भारत }
+{ID: 581692208098623488, Place: None, User Location: Chennai, India}
+{ID: 581692259906777088, Place: None, User Location: Silchar, Assam, India}
+{ID: 581692544393748480, Place: None, User Location: Bangalore, India.}
+{ID: 581692572034207744, Place: None, User Location: Tamil Nadu, India}
+{ID: 581692592259137536, Place: None, User Location: India}
+{ID: 581692609904529408, Place: None, User Location: India}
+{ID: 581692613176086531, Place: None, User Location: Pune, India}
+{ID: 581692702825132032, Place: None, User Location: India - भारत }
+{ID: 581692732210479104, Place: None, User Location: India}
+{ID: 581692755048468480, Place: None, User Location: Bangalore, India.}
+{ID: 581692755216199681, Place: None, User Location: Bangalore, India.}
+{ID: 581692807343001600, Place: None, User Location: India}
+{ID: 581692820819288064, Place: None, User Location: Meerut, India}
+{ID: 581693110217912322, Place: None, User Location: Chennai, India}
+{ID: 581693129369088000, Place: None, User Location: Kashmir , India}
+{ID: 581693198029877248, Place: None, User Location: India}
+{ID: 581693205604802560, Place: None, User Location: India}
+{ID: 581693205856432129, Place: None, User Location: India - भारत }
+{ID: 581693257882562560, Place: None, User Location: India }
+{ID: 581693272814329856, Place: None, User Location: Luck-Now India}
+{ID: 581693454490550272, Place: None, User Location: Chennai, India}
+{ID: 581693468465963008, Place: None, User Location: Chennai, India}
+{ID: 581693577182359553, Place: None, User Location: India}
+{ID: 581693684757856257, Place: None, User Location: India}
+{ID: 581693689614901249, Place: None, User Location: odisha,India}
+{ID: 581693709948887040, Place: None, User Location: India - भारत }
+{ID: 581693763682111488, Place: None, User Location: India}
+{ID: 581693795403714560, Place: None, User Location: Lonavla , India}
+{ID: 581693800159936513, Place: None, User Location: Bangalore, India}
+{ID: 581693849048743936, Place: None, User Location: Bhandup | Mumbai | India}
+{ID: 581693854413238272, Place: None, User Location: India}
+{ID: 581693958054506496, Place: None, User Location: West Bengal, India}
+{ID: 581694147695898625, Place: None, User Location: Tamizh Nadu, India}
+{ID: 581694169363533825, Place: None, User Location: India}
+{ID: 581694213630214144, Place: None, User Location: India - भारत }
+{ID: 581694381607944192, Place: None, User Location: Ahmedabad, India.}
+{ID: 581694668385034240, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location:  India}
+{ID: 581694708126126080, Place: None, User Location: Delhi & NCR, India}
+{ID: 581694716388859905, Place: None, User Location: India - भारत }
+{ID: 581694780146499584, Place: None, User Location: Delhi & NCR, India}
+{ID: 581694808290246656, Place: None, User Location: Bangalore, India}
+{ID: 581694809603108864, Place: None, User Location: India, New Delhi}
+{ID: 581694869766176769, Place: None, User Location: Pune, Maharashtra, India}
+{ID: 581694889756266496, Place: None, User Location: Mah rashtra, India}
+{ID: 581694927953756160, Place: None, User Location: India}
+{ID: 581694932198395904, Place: None, User Location: India}
+{ID: 581694937625825280, Place: None, User Location: India}
+{ID: 581694947205615616, Place: None, User Location: Bangalore, India}
+{ID: 581695070090317824, Place: None, User Location: Bangalore, India}
+{ID: 581695115959234561, Place: None, User Location: India}
+{ID: 581695126432444416, Place: None, User Location: Jabalpur, MP, India.}
+{ID: 581695144186937344, Place: None, User Location: Jabalpur, MP, India.}
+{ID: 581695220523249664, Place: None, User Location: India - भारत }
+{ID: 581695384226897921, Place: None, User Location: India}
+{ID: 581695400219971586, Place: None, User Location: New Delhi, India}
+{ID: 581695418158960640, Place: None, User Location: India/TamilNadu}
+{ID: 581695460362063872, Place: None, User Location: Indian Occupied Kashmir/Alleys Of Street}
+{ID: 581695564426788866, Place: None, User Location: India}
+{ID: 581695564842078210, Place: {u'full_name': u'Bengaluru South, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3305776, 12.731936], [77.3305776, 13.1142933], [77.7863188, 13.1142933], [77.7863188, 12.731936]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5f55bb82cf16ac81', u'name': u'Bengaluru South'}, User Location: Bangalore/Trivandrum }
+{ID: 581695723437064193, Place: None, User Location: India - भारत }
+{ID: 581695743188017152, Place: None, User Location: Mumbai,India}
+{ID: 581695761877958656, Place: None, User Location: India }
+{ID: 581695776536965121, Place: None, User Location: India}
+{ID: 581695962256515073, Place: None, User Location: Mumbai, India}
+{ID: 581695969173069824, Place: None, User Location: Chandigarh, India}
+{ID: 581695981747499008, Place: None, User Location: Indore,India}
+{ID: 581696078371766272, Place: None, User Location: Kolkata, India.}
+{ID: 581696210412523521, Place: None, User Location: Mumbai, India}
+{ID: 581696225881157632, Place: None, User Location: India - भारत }
+{ID: 581696236345921536, Place: None, User Location: Nagercoil, South India.}
+{ID: 581696258236022784, Place: None, User Location: Mumbai, India ❤}
+{ID: 581696388896944128, Place: None, User Location: Musafir hun mein yaaron, India}
+{ID: 581696438255538176, Place: None, User Location: India}
+{ID: 581696536465186816, Place: None, User Location: Mumbai,India }
+{ID: 581696592882761728, Place: None, User Location: Mumbai. India}
+{ID: 581696672918609920, Place: None, User Location: Bhatrojkhan,Uttrakhand,India}
+{ID: 581696729071812608, Place: None, User Location: India - भारत }
+{ID: 581696732246880258, Place: {u'full_name': u'Mysore, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/71faf476216399e5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.4551434, 12.1175892], [76.4551434, 12.4512955], [76.8361765, 12.4512955], [76.8361765, 12.1175892]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'71faf476216399e5', u'name': u'Mysore'}, User Location: }
+{ID: 581696739121332224, Place: None, User Location: Bangalore, India}
+{ID: 581696817286373376, Place: None, User Location: India}
+{ID: 581696836320108544, Place: None, User Location: Hyderabad, India}
+{ID: 581696914158043136, Place: None, User Location: Alappuzha, Kerala, India}
+{ID: 581699537762316288, Place: None, User Location: Tripura, Agartala, India}
+{ID: 581699621103091712, Place: {u'full_name': u'Pune, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/5c0761bdffa0cb64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8031065, 18.4571648], [73.8031065, 18.5843633], [73.9656571, 18.5843633], [73.9656571, 18.4571648]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5c0761bdffa0cb64', u'name': u'Pune'}, User Location: India}
+{ID: 581699634722009088, Place: None, User Location: Tripura, Agartala, India}
+{ID: 581699747133698048, Place: None, User Location: New Delhi : India}
+{ID: 581699748924551168, Place: None, User Location: India - भारत }
+{ID: 581699868021784576, Place: None, User Location: Pune India}
+{ID: 581699898367602688, Place: None, User Location: Patna India}
+{ID: 581699974624227328, Place: None, User Location: Patna India}
+{ID: 581700000553394176, Place: None, User Location: India}
+{ID: 581700039661223936, Place: None, User Location: Vasco Da Gama,Goa,India}
+{ID: 581700103406129154, Place: None, User Location: Calcutta, India}
+{ID: 581700132477018112, Place: None, User Location: Kozhikode, Kerala, India}
+{ID: 581700162831056896, Place: None, User Location: Delhi. India}
+{ID: 581700191612313600, Place: None, User Location: India}
+{ID: 581700252299751424, Place: None, User Location: India - भारत }
+{ID: 581700756513800192, Place: None, User Location: India - भारत }
+{ID: 581700854371123200, Place: None, User Location: COEP, Pune, India. }
+{ID: 581700891574550529, Place: {u'full_name': u'Sasashti, Goa', u'url': u'https://api.twitter.com/1.1/geo/id/452bb3164d792897.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.8969734, 15.1382501], [73.8969734, 15.3750042], [74.0760843, 15.3750042], [74.0760843, 15.1382501]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'452bb3164d792897', u'name': u'Sasashti'}, User Location: GOA}
+{ID: 581701006817300481, Place: None, User Location: Andhra Pradesh, India}
+{ID: 581701013628825602, Place: None, User Location: India }
+{ID: 581701130532433920, Place: None, User Location: Mumbai, India}
+{ID: 581701185041633280, Place: None, User Location: Mumbai,India}
+{ID: 581701259612143616, Place: None, User Location: India - भारत }
+{ID: 581701367472914432, Place: None, User Location: Pune, India}
+{ID: 581701447986757633, Place: None, User Location: Indore,India}
+{ID: 581701589158604800, Place: None, User Location: India }
+{ID: 581701640832483330, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+{ID: 581701726178320384, Place: None, User Location: India}
+{ID: 581701762945454080, Place: None, User Location: India - भारत }
+{ID: 581701876506210304, Place: None, User Location: India}
+{ID: 581701880943755264, Place: None, User Location: India}
+{ID: 581701885477851136, Place: None, User Location: India}
+{ID: 581702143335264256, Place: None, User Location: India}
+{ID: 581702217993977856, Place: None, User Location: [Jaipur,  #India]}
+{ID: 581702265464967170, Place: None, User Location: India}
+{ID: 581702265766961153, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 581702265955713024, Place: None, User Location: India - भारत }
+{ID: 581702451750825984, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 581702458570768384, Place: None, User Location: Hyderabad,Telangana,India}
+{ID: 581702459862593536, Place: None, User Location: India}
+{ID: 581702549067042816, Place: None, User Location: India}
+{ID: 581702555798888448, Place: None, User Location: India}
+{ID: 581702560345526272, Place: None, User Location: India}
+{ID: 581702577693319169, Place: None, User Location: India}
+{ID: 581702675940544512, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 581702769402195968, Place: None, User Location: India - भारत }
+{ID: 581702779065909249, Place: None, User Location: Bangalore , India}
+{ID: 581702853804236801, Place: None, User Location: Chennai, India}
+{ID: 581702894866411520, Place: None, User Location: Guntur,AP,India}
+{ID: 581702938415886336, Place: None, User Location: India}
+{ID: 581703147497725952, Place: None, User Location: India}
+{ID: 581703196483031040, Place: None, User Location: India !!}
+{ID: 581703234173042688, Place: None, User Location: India}
+{ID: 581703238086303744, Place: None, User Location: India}
+{ID: 581703272282472450, Place: None, User Location: India - भारत }
+{ID: 581703361725997056, Place: None, User Location: Chennai, India}
+{ID: 581703389467152384, Place: None, User Location: India}
+{ID: 581703402985369600, Place: None, User Location: India}
+{ID: 581703407909539840, Place: None, User Location: India}
+{ID: 581703413026574336, Place: None, User Location: India}
+{ID: 581703416767889408, Place: None, User Location: Navi Mumbai, India}
+{ID: 581703575430021120, Place: None, User Location: Bangalore, India}
+{ID: 581703740622671873, Place: None, User Location: India}
+{ID: 581703776311984128, Place: None, User Location: India - भारत }
+{ID: 581703858855886849, Place: {u'full_name': u'Mumbai, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.7458022, 18.8453429], [72.7458022, 19.5029372], [73.0036476, 19.5029372], [73.0036476, 18.8453429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7929cea6bd5b32bd', u'name': u'Mumbai'}, User Location: Mumbai}
+{ID: 581704183436296192, Place: None, User Location: Pune, India}
+{ID: 581704229183561729, Place: None, User Location: India}
+{ID: 581704279968206848, Place: None, User Location: India - भारत }
+{ID: 581704356979851264, Place: None, User Location: Bengaluru,India}
+{ID: 581704357256650752, Place: None, User Location: Mumbai , India }
+{ID: 581704421781807104, Place: None, User Location: Kolkata,India}
+{ID: 581704518292750337, Place: None, User Location: New Delhi, India}
+{ID: 581704557891190784, Place: None, User Location: Mumbai,India}
+{ID: 581704636182048768, Place: {u'full_name': u'Mumbai, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.7458022, 18.8453429], [72.7458022, 19.5029372], [73.0036476, 19.5029372], [73.0036476, 18.8453429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7929cea6bd5b32bd', u'name': u'Mumbai'}, User Location: Bombay}
+{ID: 581704782408065024, Place: None, User Location: India - भारत }
+{ID: 581704830265081856, Place: None, User Location: India}
+{ID: 581704832882384896, Place: None, User Location: India}
+{ID: 581704881792102400, Place: None, User Location: Mumbai,India}
+{ID: 581704924787920896, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: New Delhi}
+{ID: 581704955397959680, Place: None, User Location: Bengaluru,Mumbai,Global Indian}
+{ID: 581705033059672065, Place: None, User Location: Nadiad, Gujarat, India}
+{ID: 581705102911803392, Place: None, User Location: India}
+{ID: 581705106321723392, Place: None, User Location: India}
+{ID: 581705151636881408, Place: None, User Location: Nadiad, Gujarat, India}
+{ID: 581705185459724289, Place: None, User Location: Kolkata, India}
+{ID: 581705256578347008, Place: None, User Location: Ludhiana,Punjab,India.}
+{ID: 581705285967826944, Place: None, User Location: India - भारत }
+{ID: 581705428540600320, Place: {u'full_name': u'Raurkela-Panposh, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/537694d835939986.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.4326427, 22.0096272], [84.4326427, 22.4822654], [85.1212397, 22.4822654], [85.1212397, 22.0096272]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'537694d835939986', u'name': u'Raurkela-Panposh'}, User Location: ROURKELA }
+{ID: 581705444315377664, Place: None, User Location: Lakhanpur (J&K), India}
+{ID: 581705637307887616, Place: None, User Location: New Delhi, India}
+{ID: 581705789418528768, Place: None, User Location: India - भारत }
+{ID: 581705880455901184, Place: None, User Location: Mumbai, India}
+{ID: 581706045413789696, Place: None, User Location: India}
+{ID: 581706061100388352, Place: None, User Location: India}
+{ID: 581706095657267200, Place: None, User Location: Guntur,AP,India}
+{ID: 581706124518252544, Place: None, User Location: Gurgaon, India}
+{ID: 581706244802531328, Place: None, User Location: Delhi,India}
+{ID: 581706292311404544, Place: None, User Location: India - भारत }
+{ID: 581706311383052288, Place: None, User Location: Mumbai, India}
+{ID: 581706483781402624, Place: None, User Location: Damoh (MP) India}
+{ID: 581706556049260545, Place: None, User Location: New Delhi, India}
+{ID: 581706656993574912, Place: None, User Location: uttarakhand,India}
+{ID: 581706669241065472, Place: None, User Location: Chennai India}
+{ID: 581706679298867200, Place: {u'full_name': u'Gurgaon, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/64231a922dea526e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.7076711, 28.1995294], [76.7076711, 28.5375209], [77.2417111, 28.5375209], [77.2417111, 28.1995294]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'64231a922dea526e', u'name': u'Gurgaon'}, User Location: GURGAON}
+{ID: 581706706536681472, Place: None, User Location: Pune, India}
+{ID: 581706716644970496, Place: {u'full_name': u'Mumbai, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.7458022, 18.8453429], [72.7458022, 19.5029372], [73.0036476, 19.5029372], [73.0036476, 18.8453429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7929cea6bd5b32bd', u'name': u'Mumbai'}, User Location: Troll naka, Dombivli}
+{ID: 581706795590098944, Place: None, User Location: India - भारत }
+{ID: 581706858559242240, Place: None, User Location: Orange City , India}
+{ID: 581706922333593600, Place: None, User Location: Chennai India}
+{ID: 581706940591394818, Place: None, User Location: India}
+{ID: 581706997155811328, Place: None, User Location: Damoh (MP) India}
+{ID: 581707053665685505, Place: None, User Location: India}
+{ID: 581707088390303744, Place: None, User Location: Bombay, India.}
+{ID: 581707152655429632, Place: None, User Location: India}
+{ID: 581707209492414464, Place: None, User Location: Chennai, India}
+{ID: 581707230581374977, Place: None, User Location: Mumbai, India.}
+{ID: 581707231583928320, Place: None, User Location: India}
+{ID: 581707299330244608, Place: None, User Location: India - भारत }
+{ID: 581707515756294145, Place: None, User Location: India}
+{ID: 581707555858075649, Place: None, User Location: India}
+{ID: 581707559188353025, Place: None, User Location: Mumbai, Maharashtra, India}
+{ID: 581707574870827008, Place: None, User Location: Mumbai (Bombay), India}
+{ID: 581707606365855746, Place: None, User Location: India}
+{ID: 581707634689974272, Place: {u'full_name': u'Dehra Dun Rural, Uttaranchal', u'url': u'https://api.twitter.com/1.1/geo/id/52c3be90f64094b1.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5754024, 29.9430506], [77.5754024, 30.5424039], [78.2992783, 30.5424039], [78.2992783, 29.9430506]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'52c3be90f64094b1', u'name': u'Dehra Dun Rural'}, User Location: Dehradun}
+{ID: 581707667170680832, Place: None, User Location: tirupur, tn, India. }
+{ID: 581707802357317632, Place: None, User Location: India - भारत }
+{ID: 581707878324547584, Place: None, User Location: Mumbai, India}
+{ID: 581707939079028737, Place: None, User Location: New Delhi, India}
+{ID: 581708006989037569, Place: None, User Location: Guntur,AP,India}
+{ID: 581708033677340672, Place: None, User Location: India}
+{ID: 581708097980211200, Place: None, User Location: Kolkata , India}
+{ID: 581708211905941504, Place: None, User Location: Bangalore, India.}
+{ID: 581708234165129216, Place: {u'full_name': u'Nashik, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/4eb61967687b4ffb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[73.413494, 19.8023079], [73.413494, 20.1402875], [73.9467891, 20.1402875], [73.9467891, 19.8023079]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4eb61967687b4ffb', u'name': u'Nashik'}, User Location: Nashik}
+{ID: 581708273092423680, Place: None, User Location: Trichy,India.}
+{ID: 581708303924793344, Place: None, User Location: India}
+{ID: 581708306118393856, Place: None, User Location: India - भारत }
+{ID: 581708321922535424, Place: None, User Location: New delhi,India}
+{ID: 581708343057629184, Place: None, User Location: Bhopal India }
+{ID: 581708344173293568, Place: None, User Location: Bangalore, India.}
+{ID: 581708399898800128, Place: None, User Location: Erode/Coimbatore,TN/India}
+{ID: 581708475153059840, Place: None, User Location:  Ranchi  - Jharkhand - India }
+{ID: 581708486590922752, Place: None, User Location: Bangalore(India)}
+{ID: 581708570774806528, Place: None, User Location: Damnagar,Gujarat,India}
+{ID: 581708586998345728, Place: None, User Location: Bangalore(India)}
+{ID: 581708599140872192, Place: None, User Location: India}
+{ID: 581708656107864065, Place: None, User Location: India}
+{ID: 581708699749642241, Place: None, User Location: Jaipur, India}
+{ID: 581708784122249216, Place: None, User Location: Ranchi,Jharkhand, India}
+{ID: 581708809086767104, Place: None, User Location: India - भारत }
+{ID: 581708947398115328, Place: None, User Location: Guntur,AP,India}
+{ID: 581708949621067777, Place: {u'full_name': u'Hayathnagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4f2838c764ad417c.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.4261756, 17.2345684], [78.4261756, 17.4956383], [78.7703431, 17.4956383], [78.7703431, 17.2345684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4f2838c764ad417c', u'name': u'Hayathnagar'}, User Location: }
+{ID: 581708968206016512, Place: {u'full_name': u'Mumbai, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.7458022, 18.8453429], [72.7458022, 19.5029372], [73.0036476, 19.5029372], [73.0036476, 18.8453429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7929cea6bd5b32bd', u'name': u'Mumbai'}, User Location: Mumbai}
+{ID: 581708986539331584, Place: None, User Location: Damnagar,Gujarat,India}
+{ID: 581708995892621312, Place: None, User Location: India}
+{ID: 581709147198087168, Place: None, User Location: India}
+{ID: 581709312348712960, Place: None, User Location: India - भारत }
+{ID: 581709361384267776, Place: {u'full_name': u'Faridabad, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.1497858, 28.1568415], [77.1497858, 28.5055846], [77.5519766, 28.5055846], [77.5519766, 28.1568415]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2281169281a9d3a2', u'name': u'Faridabad'}, User Location: }
+{ID: 581709367679963137, Place: None, User Location: India}
+{ID: 581709469991579648, Place: None, User Location: India}
+{ID: 581709522709782528, Place: None, User Location: India}
+{ID: 581709593799049216, Place: None, User Location: Chennai, India}
+{ID: 581709605287239680, Place: None, User Location: Bangalore, India}
+{ID: 581709675256643584, Place: None, User Location: Hyderabad, India}
+{ID: 581709733712687104, Place: None, User Location: India}
+{ID: 581709815405133824, Place: None, User Location: India - भारत }
+{ID: 581709959827759105, Place: None, User Location: Ranchi, India}
+{ID: 581709982426501120, Place: None, User Location: Jaipur, India}
+{ID: 581710304230395904, Place: None, User Location: Ranchi, India}
+{ID: 581710318860038144, Place: None, User Location: India - भारत }
+{ID: 581710407150149632, Place: None, User Location: India}
+{ID: 581710615573602304, Place: None, User Location: place: Kashmir,India {kupwara}}
+{ID: 581710808448573440, Place: {u'full_name': u'Gandhi Nagar, Brahmapur', u'url': u'https://api.twitter.com/1.1/geo/id/7f4b7b8149b173ff.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.7797718, 19.3081713], [84.7797718, 19.3195028], [84.7944129, 19.3195028], [84.7944129, 19.3081713]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7f4b7b8149b173ff', u'name': u'Gandhi Nagar'}, User Location: }
+{ID: 581710824282050561, Place: None, User Location: India - भारत }
+{ID: 581710863872069632, Place: {u'full_name': u'Brahmapur, Orissa', u'url': u'https://api.twitter.com/1.1/geo/id/022589ff1f8fd173.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[84.3509298, 18.9838817], [84.3509298, 19.4298493], [84.9164065, 19.4298493], [84.9164065, 18.9838817]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'022589ff1f8fd173', u'name': u'Brahmapur'}, User Location: }
+{ID: 581710980528263168, Place: None, User Location: India}
+{ID: 581710985758523392, Place: None, User Location: India}
+{ID: 581710986832257025, Place: {u'full_name': u'New Delhi, Delhi', u'url': u'https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.8425202, 28.3976574], [76.8425202, 28.8793215], [77.3476518, 28.8793215], [77.3476518, 28.3976574]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'317fcc4b21a604d5', u'name': u'New Delhi'}, User Location: }
+{ID: 581710990598803456, Place: None, User Location: India}
+{ID: 581711017077383168, Place: None, User Location: India}
+{ID: 581711022379003904, Place: None, User Location: India}
+{ID: 581711026892083200, Place: None, User Location: India}
+{ID: 581711067039977472, Place: None, User Location: Mumbai, India}
+{ID: 581711082340810753, Place: {u'full_name': u'Mumbai, Maharashtra', u'url': u'https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.7458022, 18.8453429], [72.7458022, 19.5029372], [73.0036476, 19.5029372], [73.0036476, 18.8453429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7929cea6bd5b32bd', u'name': u'Mumbai'}, User Location: Mumbai, India}
+{ID: 581711198527168512, Place: None, User Location: Indian }
+{ID: 581711239346200577, Place: None, User Location: India/TamilNadu}
+{ID: 581711243683082241, Place: None, User Location: Indian }
+{ID: 581711326126428160, Place: None, User Location: Mumbai, India}
+{ID: 581711326302486528, Place: None, User Location: India - भारत }
+{ID: 581711365963792384, Place: None, User Location: India}
+{ID: 581711373916184576, Place: None, User Location: Ahmedabad,Gujarat,India}
+{ID: 581711452228038656, Place: None, User Location: India}
+{ID: 581711504891756544, Place: None, User Location: Mumbai, India}
+{ID: 581711673897148416, Place: None, User Location: India}
+{ID: 581711694700785664, Place: None, User Location: Bangalore, India}
+{ID: 581711745544167424, Place: None, User Location: Indian}
+{ID: 581711828809453568, Place: None, User Location: India - भारत }
+{ID: 581712015997038592, Place: None, User Location: India}
+{ID: 581712041506816000, Place: None, User Location: Mumbai, India}
+{ID: 581712057508196352, Place: None, User Location: India/chennai}
+{ID: 581712231273910273, Place: None, User Location: Mumbai, India}
+{ID: 581829457318559745, Place: None, User Location: Karnataka, India }
+{ID: 581829472053170178, Place: None, User Location: Madras, India}
+{ID: 581829535756263424, Place: None, User Location: India}
+{ID: 581832672210599936, Place: None, User Location: India}
+{ID: 581832674102267904, Place: None, User Location: India}
+{ID: 581832715504263168, Place: None, User Location: Mumbai, India}
+{ID: 581832736207425536, Place: None, User Location: India}
+{ID: 581832737235013632, Place: None, User Location: India}
+{ID: 581832742700224512, Place: None, User Location: India}
+{ID: 581832744390520832, Place: None, User Location: India}
+{ID: 581832747272052736, Place: None, User Location: India}
+{ID: 581832772391542784, Place: None, User Location: Andhra Pradesh, India}
+{ID: 581832776246272000, Place: None, User Location: Chennai, India}
+{ID: 581832786421497857, Place: None, User Location: India }
+{ID: 581832875714088961, Place: {u'full_name': u'Bengaluru, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.3734736, 12.9190365], [77.3734736, 13.2313813], [77.7393706, 13.2313813], [77.7393706, 12.9190365]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1b8680cd52a711cb', u'name': u'Bengaluru'}, User Location: }
+{ID: 581832942407692289, Place: None, User Location: Manchester of India }
+{ID: 581833005028675584, Place: None, User Location: Chennai, India}
+{ID: 581833007054467072, Place: None, User Location: Chennai, India}
+{ID: 581833046870990848, Place: None, User Location: Chennai, India}
+{ID: 581833102047080448, Place: {u'full_name': u'Ahmadabad City, Gujarat', u'url': u'https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[72.4367386, 22.9232559], [72.4367386, 23.1046616], [72.7037246, 23.1046616], [72.7037246, 22.9232559]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'272983f6b52c196e', u'name': u'Ahmadabad City'}, User Location: ahmedabad, gujarat}
+{ID: 581833129180049408, Place: None, User Location: India - भारत }
+{ID: 581833151623753729, Place: None, User Location: Bollywood, India}
+{ID: 581833225376501762, Place: None, User Location: Mumbai, India}
+{ID: 581833235765727235, Place: None, User Location: Pune, India}
+{ID: 581833259257982977, Place: None, User Location: Hyderabad, India}
+{ID: 581833276806930432, Place: None, User Location: India}
+{ID: 581833286789435393, Place: None, User Location: India}
+{ID: 581833342007386113, Place: None, User Location: Unfortunately India }
+{ID: 581833484420931584, Place: None, User Location: India}
+{ID: 581833502171144192, Place: None, User Location: India}
+{ID: 581833507267186690, Place: None, User Location: Pune, Maharashtra, India}
+{ID: 581833538422493185, Place: None, User Location: India}
+{ID: 581833577177833472, Place: None, User Location: India}
+{ID: 581833632752373760, Place: None, User Location: India - भारत }
+{ID: 581833637059911680, Place: None, User Location: India}
+{ID: 581833693901144065, Place: None, User Location: Mumbai, Maharashtra, India}
+{ID: 581833800352542720, Place: None, User Location: Chennai,India}
+{ID: 581833812549636096, Place: None, User Location: India,Mumbai}
+{ID: 581833845424545793, Place: {u'full_name': u'Gundlupet, Karnataka', u'url': u'https://api.twitter.com/1.1/geo/id/7fecb1c8c4528568.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.6807636, 11.801696], [76.6807636, 11.8196061], [76.6964096, 11.8196061], [76.6964096, 11.801696]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7fecb1c8c4528568', u'name': u'Gundlupet'}, User Location: india}
+{ID: 581833915859480576, Place: None, User Location: India }

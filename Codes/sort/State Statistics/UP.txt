@@ -1,0 +1,411 @@
+{ID: 582037168429764609, Place: None, User Location: Lucknow India}
+{ID: 582037377801048064, Place: None, User Location: Lucknow India}
+{ID: 582040829352488960, Place: None, User Location: Lucknow India}
+{ID: 582043328654393344, Place: None, User Location: Lucknow India}
+{ID: 582046823499456512, Place: None, User Location: Lucknow India}
+{ID: 582046911001014273, Place: None, User Location: Lucknow India}
+{ID: 582073907768770560, Place: None, User Location: Lucknow India}
+{ID: 582082734249496576, Place: None, User Location: Lucknow India}
+{ID: 582107748696924160, Place: None, User Location: Kanpur, UP (India)}
+{ID: 582108895327313920, Place: None, User Location: Allahabad UP India}
+{ID: 582066462669467649, Place: None, User Location: Lucknow, India}
+{ID: 582073087790690304, Place: None, User Location: Lucknow, India}
+{ID: 582077324687847426, Place: None, User Location: Lucknow, India}
+{ID: 582077351342686208, Place: None, User Location: Lucknow, India}
+{ID: 582079951345618945, Place: None, User Location: Lucknow, India}
+{ID: 582084620008759296, Place: None, User Location: Lucknow, India}
+{ID: 582096144936890368, Place: None, User Location: Lucknow, India}
+{ID: 582105619886317568, Place: None, User Location: Lucknow, India}
+{ID: 582107981547892736, Place: None, User Location: Lucknow, India}
+{ID: 582108967599366144, Place: None, User Location: Lucknow, India}
+{ID: 582036718901018624, Place: None, User Location: Guwahati, India}
+{ID: 582039692821954561, Place: None, User Location: Guwahati, India}
+{ID: 582062279325171713, Place: None, User Location: Guwahati, India}
+{ID: 582068551038599168, Place: None, User Location: Guwahati, India}
+{ID: 582079416315949056, Place: None, User Location: Guwahati, India}
+{ID: 582081854573957120, Place: None, User Location: Guwahati, India}
+{ID: 582081914216968193, Place: None, User Location: Guwahati, India}
+{ID: 582107481763028993, Place: None, User Location: Guwahati, India}
+{ID: 582108239094935552, Place: None, User Location: Guwahati, India}
+{ID: 582108737315323905, Place: None, User Location: Guwahati, India}
+{ID: 582028972210331649, Place: None, User Location: Luck now,India }
+{ID: 582029074064764928, Place: None, User Location: Luck now,India }
+{ID: 582029440852492288, Place: None, User Location: Luck now,India }
+{ID: 582029693844500481, Place: None, User Location: Luck now,India }
+{ID: 582047701610598400, Place: None, User Location: Luck now,India }
+{ID: 582059808209043456, Place: None, User Location: Luck now,India }
+{ID: 582056460470894592, Place: None, User Location: UP, India}
+{ID: 582066062214049792, Place: None, User Location: UP, India}
+{ID: 582035799715139584, Place: None, User Location: Noida, India}
+{ID: 582057459776274432, Place: None, User Location: Noida, India}
+{ID: 582066036301664256, Place: None, User Location: Noida, India}
+{ID: 582082496084340736, Place: None, User Location: Noida, India}
+{ID: 582088030762102784, Place: None, User Location: Noida, India}
+{ID: 582104372248621056, Place: None, User Location: Noida, India}
+{ID: 582029024551006208, Place: None, User Location: U.P., India}
+{ID: 582029502198349826, Place: None, User Location: U.P., India}
+{ID: 582085775614869504, Place: None, User Location: U.P., India}
+{ID: 582086151525179392, Place: None, User Location: U.P., India}
+{ID: 582095256197275648, Place: None, User Location: U.P., India}
+{ID: 582029533198446592, Place: None, User Location: Greater Noida,India}
+{ID: 582029547157094400, Place: None, User Location: Greater Noida,India}
+{ID: 582029554828472320, Place: None, User Location: Greater Noida,India}
+{ID: 582029602383527938, Place: None, User Location: Greater Noida,India}
+{ID: 582029609987780609, Place: None, User Location: Greater Noida,India}
+{ID: 582029728900493312, Place: None, User Location: Greater Noida,India}
+{ID: 582029783493562368, Place: None, User Location: Greater Noida,India}
+{ID: 582029795623460864, Place: None, User Location: Greater Noida,India}
+{ID: 582030027912433665, Place: None, User Location: Greater Noida,India}
+{ID: 582030171164688384, Place: None, User Location: Greater Noida,India}
+{ID: 582030245433217026, Place: None, User Location: Greater Noida,India}
+{ID: 582088049296699392, Place: None, User Location: Greater Noida,India}
+{ID: 582088069798481920, Place: None, User Location: Greater Noida,India}
+{ID: 582088721668812800, Place: None, User Location: Greater Noida,India}
+{ID: 582088732368461824, Place: None, User Location: Greater Noida,India}
+{ID: 582088757282635776, Place: None, User Location: Greater Noida,India}
+{ID: 582090883199152128, Place: None, User Location: Greater Noida,India}
+{ID: 582090883601821696, Place: None, User Location: Greater Noida,India}
+{ID: 582091146177855488, Place: None, User Location: Greater Noida,India}
+{ID: 582091234434404352, Place: None, User Location: Greater Noida,India}
+{ID: 582091533081444353, Place: None, User Location: Greater Noida,India}
+{ID: 582093686508388352, Place: None, User Location: Greater Noida,India}
+{ID: 582093730745700352, Place: None, User Location: Greater Noida,India}
+{ID: 582093763805192192, Place: None, User Location: Greater Noida,India}
+{ID: 582094199488585728, Place: None, User Location: Greater Noida,India}
+{ID: 582103451879899136, Place: None, User Location: Greater Noida,India}
+{ID: 582028315394850816, Place: None, User Location: Indirapuram, Ghaziabad, India }
+{ID: 582028581787717632, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: india}
+
+{ID: 582028595603714048, Place: None, User Location: Ghaziabad, Uttar Pradesh,India}
+
+{ID: 582029709212413952, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: }
+
+{ID: 582030209953722368, Place: None, User Location: Ghaziabad, Uttar Pradesh,India}
+
+{ID: 582031185359962112, Place: None, User Location: Ghaziabad, Uttar Pradesh,India}
+
+{ID: 582031939114176512, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582035321220513792, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582038417254428672, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582041626077323265, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582042150134681602, Place: None, User Location: Ghaziabad,India}
+
+{ID: 582043490210570242, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582043635874598912, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582043820314927104, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582045195245461504, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: }
+
+{ID: 582047073551278080, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582054269647376384, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582057365245075456, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: }
+
+{ID: 582060483940749312, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582061270385303552, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: india}
+
+{ID: 582064843563266048, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582068548740120576, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582068923442458624, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582073288626544641, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582079552454844417, Place: None, User Location: Ghaziabad,India}
+
+{ID: 582080710569144321, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582080935870365696, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582081269489623040, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582083618899517440, Place: None, User Location: Ghaziabad(u.p.)India}
+
+{ID: 582086757258121216, Place: {u'full_name': u'Ghaziabad, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.2046898, 28.6208766], [77.2046898, 28.9262588], [77.641989, 28.9262588], [77.641989, 28.6208766]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4d51b7ea67b6f64b', u'name': u'Ghaziabad'}, User Location: india}
+{ID: 582035127858921473, Place: {u'full_name': u'Greater Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/472313ed153fe2bf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.413645, 28.3610523], [77.413645, 28.6384655], [77.6875526, 28.6384655], [77.6875526, 28.3610523]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'472313ed153fe2bf', u'name': u'Greater Noida'}, User Location: KATHMANDU,NEPAL  }
+
+{ID: 582036836886790145, Place: None, User Location: Noida, Allahabad, India}
+
+{ID: 582037791887912960, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Noida}
+
+{ID: 582042801363259392, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: India}
+
+{ID: 582045201964777473, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Noida}
+
+{ID: 582045773958766592, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: India}
+
+{ID: 582048161339830272, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: India}
+
+{ID: 582067761628606465, Place: None, User Location: Noida U.P. India }
+
+{ID: 582079406107021312, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Greater Noida.}
+
+{ID: 582080282347499521, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Punjab}
+
+{ID: 582086388390100993, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Ramnagar Near ^Corbett Park^ }
+
+{ID: 582086484922007552, Place: None, User Location: Greater Noida, India}
+
+{ID: 582086525447331840, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: India}
+
+{ID: 582108886175326209, Place: {u'full_name': u'Greater Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/472313ed153fe2bf.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.413645, 28.3610523], [77.413645, 28.6384655], [77.6875526, 28.6384655], [77.6875526, 28.3610523]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'472313ed153fe2bf', u'name': u'Greater Noida'}, User Location: Haryana,india}
+
+{ID: 582113123571642368, Place: {u'full_name': u'Noida, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.302126, 28.4439811], [77.302126, 28.6471308], [77.6953257, 28.6471308], [77.6953257, 28.4439811]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2e6064382c71b343', u'name': u'Noida'}, User Location: Punjab}
+{ID: 582031010470064128, Place: None, User Location: Jaunpur, Uttar Pradesh, India}
+
+{ID: 582031856079503361, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Meerut}
+
+{ID: 582033501911810048, Place: None, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582034805866409984, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582034812531163136, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur}
+
+{ID: 582035145793757185, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur}
+
+{ID: 582035426929553408, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582036374154391553, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur}
+
+{ID: 582036461563719680, Place: None, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582036839164301312, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: Luck now,India }
+
+{ID: 582037317126266880, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582037826885160960, Place: {u'full_name': u'Unnao, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/6d5ab7441784f9a6.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.4513385, 26.5059088], [80.4513385, 26.5806132], [80.5518255, 26.5806132], [80.5518255, 26.5059088]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d5ab7441784f9a6', u'name': u'Unnao'}, User Location: }
+
+{ID: 582038063448199168, Place: None, User Location: Moradabad-Uttar Pradesh, India}
+
+{ID: 582038199666499584, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Meerut}
+
+{ID: 582038345296941058, Place: None, User Location: jaunpur Uttar Pradesh, India}
+
+{ID: 582039053241069568, Place: None, User Location: Gorakhapur.Uttar Pradesh.India}
+
+{ID: 582039095569969152, Place: None, User Location: Gorakhapur.Uttar Pradesh.India}
+
+{ID: 582039334678724608, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Meerut}
+
+{ID: 582039336507424768, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur}
+
+{ID: 582039346691215360, Place: None, User Location: Lucknow, Uttar Pradesh, India}
+
+{ID: 582040222268932096, Place: None, User Location: Moradabad-Uttar Pradesh, India}
+
+{ID: 582040571427966976, Place: {u'full_name': u'Unnao, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/6d5ab7441784f9a6.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.4513385, 26.5059088], [80.4513385, 26.5806132], [80.5518255, 26.5806132], [80.5518255, 26.5059088]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d5ab7441784f9a6', u'name': u'Unnao'}, User Location: }
+
+{ID: 582040874382540800, Place: {u'full_name': u'Uttar Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0962362, 23.8719407], [77.0962362, 30.4075762], [84.6388734, 30.4075762], [84.6388734, 23.8719407]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'133eafffa4b1ca86', u'name': u'Uttar Pradesh'}, User Location: }
+
+{ID: 582041086140399616, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: }
+
+{ID: 582041511300190208, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582042265910059009, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582042393920188417, Place: {u'full_name': u'Sultanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/52ed2afa3c11e9af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[82.0152296, 26.2291113], [82.0152296, 26.295492], [82.0941722, 26.295492], [82.0941722, 26.2291113]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'52ed2afa3c11e9af', u'name': u'Sultanpur'}, User Location: Bharat}
+
+{ID: 582052559747047426, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur}
+
+{ID: 582052620132454401, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: Luck now,India }
+
+{ID: 582057917974609920, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Pilani}
+
+{ID: 582059396592578560, Place: {u'full_name': u'Meerut, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.4542196, 28.7362684], [77.4542196, 29.089102], [77.87152, 29.089102], [77.87152, 28.7362684]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'2f9b283cf25f6322', u'name': u'Meerut'}, User Location: Meerut}
+
+{ID: 582059655658000385, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: Luck now,India }
+
+{ID: 582060242025861120, Place: {u'full_name': u'Sultanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/52ed2afa3c11e9af.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[82.0152296, 26.2291113], [82.0152296, 26.295492], [82.0941722, 26.295492], [82.0941722, 26.2291113]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'52ed2afa3c11e9af', u'name': u'Sultanpur'}, User Location: Bharat}
+
+{ID: 582067005596925952, Place: None, User Location: Uttar Pradesh, India}
+
+{ID: 582067568430592000, Place: None, User Location: Gorakhapur.Uttar Pradesh.India}
+
+{ID: 582074280256520192, Place: {u'full_name': u'Hapur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4ad681a98e365601.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.5494784, 28.5460551], [77.5494784, 28.8788242], [77.9693054, 28.8788242], [77.9693054, 28.5460551]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4ad681a98e365601', u'name': u'Hapur'}, User Location: India}
+
+{ID: 582078271086411776, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: }
+
+{ID: 582079059108106240, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582079128465080320, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582079272082284544, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582079437597872128, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582080203553259520, Place: {u'full_name': u'Aligarh, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/13e2481c0f45289b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9181919, 27.7598411], [77.9181919, 28.1295233], [78.2834674, 28.1295233], [78.2834674, 27.7598411]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'13e2481c0f45289b', u'name': u'Aligarh'}, User Location: Golden Bird Country.}
+
+{ID: 582080473012162560, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: }
+
+{ID: 582081348078215171, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: }
+
+{ID: 582083993253728256, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur Nagar}
+
+{ID: 582084683069931520, Place: {u'full_name': u'Uttar Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0962362, 23.8719407], [77.0962362, 30.4075762], [84.6388734, 30.4075762], [84.6388734, 23.8719407]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'133eafffa4b1ca86', u'name': u'Uttar Pradesh'}, User Location: }
+
+{ID: 582084851752267777, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: Kanpur Nagar}
+
+{ID: 582085782858420225, Place: {u'full_name': u'Kanpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/504e739994acf111.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.1250673, 26.1771778], [80.1250673, 26.6345699], [80.5670577, 26.6345699], [80.5670577, 26.1771778]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'504e739994acf111', u'name': u'Kanpur'}, User Location: }
+
+{ID: 582086678371794944, Place: None, User Location: Agra, Uttar Pradesh, India}
+
+{ID: 582087037768994817, Place: {u'full_name': u'Uttar Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0962362, 23.8719407], [77.0962362, 30.4075762], [84.6388734, 30.4075762], [84.6388734, 23.8719407]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'133eafffa4b1ca86', u'name': u'Uttar Pradesh'}, User Location: Kanpur}
+
+{ID: 582090163523715072, Place: {u'full_name': u'Gorakhpur, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/1279db2db14240db.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[83.0856444, 26.4888994], [83.0856444, 26.9999208], [83.6342578, 26.9999208], [83.6342578, 26.4888994]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'1279db2db14240db', u'name': u'Gorakhpur'}, User Location: Lucknow}
+
+{ID: 582090551152902144, Place: {u'full_name': u'Uttar Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0962362, 23.8719407], [77.0962362, 30.4075762], [84.6388734, 30.4075762], [84.6388734, 23.8719407]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'133eafffa4b1ca86', u'name': u'Uttar Pradesh'}, User Location: Golden Bird Country.}
+
+{ID: 582109164144480256, Place: {u'full_name': u'Lucknow, Uttar Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.6586134, 26.6422911], [80.6586134, 27.0080478], [81.1066319, 27.0080478], [81.1066319, 26.6422911]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'74effb34539b2d64', u'name': u'Lucknow'}, User Location: }
+
+{ID: 582110621526724608, Place: None, User Location: Kanpur, Uttar Pradesh, India}
+
+{ID: 582113263191613440, Place: {u'full_name': u'Uttar Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0962362, 23.8719407], [77.0962362, 30.4075762], [84.6388734, 30.4075762], [84.6388734, 23.8719407]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'133eafffa4b1ca86', u'name': u'Uttar Pradesh'}, User Location: Kanpur}
+{ID: 582039453801127936, Place: None, User Location: Lucknow, UttarPradesh, India}
+
+{ID: 582055731416801280, Place: None, User Location: Lucknow,India}
+
+{ID: 582059324207448064, Place: None, User Location: India, Lucknow }
+
+{ID: 582072917090942976, Place: None, User Location: Lucknow , India}
+
+{ID: 582076762181390336, Place: None, User Location: Lucknow , India}
+
+{ID: 582076802044071937, Place: None, User Location: Lucknow , India}
+
+{ID: 582078949682872320, Place: None, User Location: Lucknow,India}
+
+{ID: 582079085330853888, Place: None, User Location: Lucknow, India }
+
+{ID: 582081624243773441, Place: None, User Location: Lucknow,India}
+
+{ID: 582081912270819328, Place: None, User Location: Lucknow,India}
+
+{ID: 582082635012280320, Place: None, User Location: Lucknow,India}
+
+{ID: 582086620662214656, Place: None, User Location: Lucknow , India}
+
+{ID: 582088021501054976, Place: None, User Location: Lucknow,India}
+
+{ID: 582090169777418240, Place: None, User Location: Lucknow,India}
+
+{ID: 582096152150958080, Place: None, User Location: Lucknow , India}
+
+{ID: 582096344707305472, Place: None, User Location: Lucknow,India}
+
+{ID: 582103434041556992, Place: None, User Location: Lucknow , India}
+
+{ID: 582108898028474368, Place: None, User Location: Lucknow, UttarPradesh, India}
+
+
+{ID: 582096019795509248, Place: None, User Location: Ghaziabad, India}
+
+{ID: 582096623334903809, Place: None, User Location: Ghaziabad(u.p.)India}
+{ID: 582045744619634688, Place: None, User Location: Meerut - UP - India}
+
+{ID: 582045832393850881, Place: None, User Location: Meerut U.P India}
+
+{ID: 582047189544783872, Place: None, User Location: Meerut U.P India}
+{ID: 582047055658364929, Place: None, User Location: Agra, India}
+
+{ID: 582071159501373440, Place: None, User Location: agra,India}
+{ID: 582039661029117952, Place: None, User Location: India,UP}
+
+{ID: 582041504555765763, Place: None, User Location: India,UP}
+
+{ID: 582044239267115008, Place: None, User Location: India,UP}
+
+{ID: 582046081678057472, Place: None, User Location: India,UP}
+
+{ID: 582047932536336386, Place: None, User Location: Allahabad/Jaunpur, UP, India}
+
+{ID: 582053493189394432, Place: None, User Location: India,UP}
+
+{ID: 582080223849488384, Place: None, User Location: Allahabad/Jaunpur, UP, India}
+
+{ID: 582081160852865024, Place: None, User Location: Allahabad/Jaunpur, UP, India}
+{ID: 582029069258125312, Place: None, User Location: Nashik, India.}
+
+{ID: 582074931959099392, Place: None, User Location: Nashik, India.}
+
+{ID: 582084768495366144, Place: None, User Location: Nashik, India.}
+
+{ID: 582087022648504321, Place: None, User Location: Nashik, India.}
+
+{ID: 582093311772528642, Place: None, User Location: Nashik-India}
+
+{ID: 582109387877040128, Place: None, User Location: Nashik-India}
+
+{ID: 582077311723446272, Place: None, User Location: Pithoragarh India}
+
+{ID: 582078667649515520, Place: None, User Location: Pithoragarh India}
+
+{ID: 582030786603298816, Place: None, User Location: Etawah (U.P) India }
+
+{ID: 582032999128023040, Place: None, User Location: Etawah (U.P) India }
+
+{ID: 582044516191838208, Place: None, User Location: Etawah (U.P) India }
+
+{ID: 582072041529962496, Place: None, User Location: Varanasi, U.P, India}
+
+{ID: 582082066545655809, Place: None, User Location: Saharanpur (U.P.) India}
+
+{ID: 582086686324051968, Place: None, User Location: Saharanpur (U.P.) India}
+
+{ID: 582086801742962689, Place: None, User Location: Saharanpur (U.P.) India}
+{ID: 582040389588115456, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582040429891211264, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582040497851486209, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582040572522684416, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582040599429193728, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041189534212096, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041264419274752, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041629055299584, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041653923356673, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041713134325760, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041726988103680, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041796244426752, Place: None, User Location: Lakhimpur kheri,India }
+
+{ID: 582041819858370560, Place: None, User Location: Lakhimpur kheri,India }
+{ID: 582069356395249665, Place: None, User Location: Kanpur,India}
+
+{ID: 582070311597666304, Place: None, User Location: Kanpur,India}
+
+{ID: 582071779666984961, Place: None, User Location: Kanpur,India}
+{ID: 582042611436785664, Place: None, User Location: Aligarh,India}
+
+{ID: 582069755214831616, Place: None, User Location: Aligarh, India}
+
+{ID: 582093319737475072, Place: None, User Location: Aligarh-India}
+
+{ID: 582104303084564480, Place: None, User Location: Aligarh, India}
+{ID: 582080078055481344, Place: None, User Location: Allahabad,India}
+
+{ID: 582108934657286144, Place: None, User Location: Allahabad India}
+{ID: 582100785405652992, Place: None, User Location: Varanasi, India.}
+
+{ID: 582107125712756736, Place: None, User Location: Varanasi, India.}
+{ID: 582108346758529024, Place: None, User Location: Hapur (India)}
+{ID: 582040215897800704, Place: None, User Location: Sarya,Padrauna-India}
+{ID: 582085302195351552, Place: None, User Location: Sarya,Padrauna-India}
+{ID: 582047523663003649, Place: None, User Location: jhansi India}
+

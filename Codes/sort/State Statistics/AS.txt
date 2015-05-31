@@ -1,0 +1,92 @@
+{ID: 582038359557685249, Place: None, User Location: Assam, India}
+{ID: 582038916968136704, Place: None, User Location: Assam, India}
+{ID: 582040214937280512, Place: None, User Location: Assam, India}
+{ID: 582075966769532928, Place: None, User Location: Assam, India}
+{ID: 582084221490962433, Place: None, User Location: Assam, India}
+{ID: 582084288830513152, Place: None, User Location: Assam, India}
+{ID: 582095992427696129, Place: None, User Location: Assam, India}
+{ID: 582107494396219392, Place: None, User Location: Assam, India}
+{ID: 582107819983249408, Place: None, User Location: Assam, India}
+{ID: 582107995628183552, Place: None, User Location: Assam, India}
+{ID: 582028448144625665, Place: None, User Location: Assam, NorthEast, India}
+{ID: 582028398555353089, Place: {u'full_name': u'Barpeta, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/4b9ff36c94787019.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[91.0022589, 26.3023628], [91.0022589, 26.3326636], [91.0225595, 26.3326636], [91.0225595, 26.3023628]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4b9ff36c94787019', u'name': u'Barpeta'}, User Location: Guwahati, Assam, India}
+{ID: 582028505019453440, Place: None, User Location: Guwahati,India}
+{ID: 582030121520988160, Place: None, User Location: Guwahati,India}
+{ID: 582030396558282753, Place: None, User Location: Guwahati,India}
+{ID: 582031383360573440, Place: None, User Location: Guwahati,India}
+{ID: 582031420383625216, Place: None, User Location: Guwahati,India}
+{ID: 582052552633634816, Place: None, User Location: Guwahati,India}
+{ID: 582052753297543169, Place: None, User Location: Guwahati,India}
+{ID: 582075976596766720, Place: None, User Location: Guwahati,India}
+{ID: 582077067229061120, Place: None, User Location: Guwahati,India}
+{ID: 582086897440284672, Place: None, User Location: Guwahati,India}
+{ID: 582035503555330049, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582035575454064640, Place: None, User Location: Jorhat (Assam),India}
+
+{ID: 582038463848927232, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582038756951085056, Place: None, User Location: Kxj,Assam,India.}
+
+{ID: 582039394904768512, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582040129184792576, Place: None, User Location: Assam, India :-)}
+
+{ID: 582040149673918464, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati, India}
+
+{ID: 582041259868491776, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582042628948029441, Place: {u'full_name': u'Silchar, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/0d0bbb37919ac683.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[92.419839, 24.3735601], [92.419839, 25.1428734], [93.2627695, 25.1428734], [93.2627695, 24.3735601]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0d0bbb37919ac683', u'name': u'Silchar'}, User Location: Kxj,Assam,India.}
+
+{ID: 582042711047319552, Place: None, User Location: Bongaigaon, Assam, India}
+
+{ID: 582043805173424128, Place: None, User Location: Bongaigaon, Assam, India}
+
+{ID: 582045295397109760, Place: {u'full_name': u'Silchar, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/0d0bbb37919ac683.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[92.419839, 24.3735601], [92.419839, 25.1428734], [93.2627695, 25.1428734], [93.2627695, 24.3735601]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0d0bbb37919ac683', u'name': u'Silchar'}, User Location: Kxj,Assam,India.}
+
+{ID: 582045943307988992, Place: None, User Location: Assam,India}
+
+{ID: 582047665317249024, Place: None, User Location: Guwahati, Assam, India}
+
+{ID: 582052143416262658, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582052590285774850, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582060250154426368, Place: None, User Location: Assam,India}
+
+{ID: 582060497375105025, Place: None, User Location: Assam,India}
+
+{ID: 582065139282657280, Place: None, User Location: Makum,Tinsukia,Assam,India}
+
+{ID: 582066243991052289, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: ÜT: 26.176029,91.738374}
+
+{ID: 582072045053169664, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582073461373329408, Place: None, User Location: Assam,India}
+
+{ID: 582074143895605248, Place: None, User Location: Guwahati, Assam, India}
+
+{ID: 582077355369234432, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati}
+
+{ID: 582079367225872384, Place: None, User Location: Silchar,Assam,India}
+
+{ID: 582079908190404608, Place: {u'full_name': u'Guwahati, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/05d4ae94d9d30b3b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[90.9390968, 25.7227276], [90.9390968, 26.7966137], [92.1804179, 26.7966137], [92.1804179, 25.7227276]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'05d4ae94d9d30b3b', u'name': u'Guwahati'}, User Location: Guwahati, Assam}
+
+{ID: 582081197192282112, Place: None, User Location: Tezpur.Assam.India}
+
+{ID: 582085169621954560, Place: None, User Location: Guwahati, Assam, India}
+
+{ID: 582087322474188800, Place: {u'full_name': u'Chabua, Assam', u'url': u'https://api.twitter.com/1.1/geo/id/392efc86a867ae92.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[95.1543611, 27.4741701], [95.1543611, 27.5066056], [95.2123182, 27.5066056], [95.2123182, 27.4741701]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'392efc86a867ae92', u'name': u'Chabua'}, User Location: india}
+
+{ID: 582096249177800704, Place: None, User Location: Dhemaji,Assam,India}
+
+{ID: 582096444061982720, Place: None, User Location: Dhemaji,Assam,India}
+
+{ID: 582096466203693057, Place: None, User Location: Dhemaji,Assam,India}
+
+{ID: 582096711612436480, Place: None, User Location: Dhemaji,Assam,India}
+{ID: 582085174986330112, Place: None, User Location: Hamren karbi Anglong, India}
+
+{ID: 582085479677341696, Place: None, User Location: Hamren karbi Anglong, India}
+
+{ID: 582086609182400513, Place: None, User Location: Hamren karbi Anglong, India}

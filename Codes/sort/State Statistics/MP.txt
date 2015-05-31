@@ -1,0 +1,78 @@
+{ID: 582028268901023744, Place: None, User Location: Bhopal, India}
+{ID: 582029101524865024, Place: None, User Location: Bhopal, India}
+{ID: 582035743008301056, Place: None, User Location: Bhopal, India}
+{ID: 582086163407732736, Place: None, User Location: Bhopal, India}
+{ID: 582028806778548224, Place: None, User Location: Madhya Pradesh, India}
+{ID: 582028980078821377, Place: None, User Location: Madhya Pradesh, India}
+{ID: 582038403031564289, Place: None, User Location: Madhya Pradesh, India}
+{ID: 582072858899136512, Place: None, User Location: India- Bhopal}
+{ID: 582028248831254528, Place: {u'full_name': u'Ratlam, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/5738766812c26ca5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.9061009, 23.0873123], [74.9061009, 23.5468933], [75.3267071, 23.5468933], [75.3267071, 23.0873123]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5738766812c26ca5', u'name': u'Ratlam'}, User Location: Ratlam( M P)}
+{ID: 582029870441455616, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: Indore}
+
+{ID: 582034030482190336, Place: {u'full_name': u'Dhamnod, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/5254bd7704bc1299.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.466195, 22.2043125], [75.466195, 22.225667], [75.4854462, 22.225667], [75.4854462, 22.2043125]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5254bd7704bc1299', u'name': u'Dhamnod'}, User Location: Indore,India}
+
+{ID: 582035024985206785, Place: {u'full_name': u'Madhya Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/159a141cad06f102.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.0306864, 21.0732547], [74.0306864, 26.8685353], [82.8097716, 26.8685353], [82.8097716, 21.0732547]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'159a141cad06f102', u'name': u'Madhya Pradesh'}, User Location: जबलपुर।महाकौशल MP}
+
+{ID: 582036161691975680, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: }
+
+{ID: 582036842314227712, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: }
+
+{ID: 582049773441662977, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: India}
+
+{ID: 582053471928500224, Place: {u'full_name': u'Basoda, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/76569e8205ec6647.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.9208026, 23.8349202], [77.9208026, 23.8629827], [77.949308, 23.8629827], [77.949308, 23.8349202]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'76569e8205ec6647', u'name': u'Basoda'}, User Location: Madhya Pradesh, India}
+
+{ID: 582055262367830016, Place: {u'full_name': u'Ujjain, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/34b91ade8e112ddd.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6091928, 23.0003028], [75.6091928, 23.4579649], [75.9966258, 23.4579649], [75.9966258, 23.0003028]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'34b91ade8e112ddd', u'name': u'Ujjain'}, User Location: ujjain}
+
+{ID: 582055346073522176, Place: None, User Location: Madhya Pradesh , India}
+
+{ID: 582062073300926464, Place: None, User Location: Madhya Pradesh , India}
+
+{ID: 582065466828435456, Place: {u'full_name': u'Sehore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/76d02690416ab45a.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.068181, 23.1963032], [77.068181, 23.2254167], [77.1069673, 23.2254167], [77.1069673, 23.1963032]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'76d02690416ab45a', u'name': u'Sehore'}, User Location: }
+
+{ID: 582066418742616064, Place: {u'full_name': u'Madhya Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/159a141cad06f102.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.0306864, 21.0732547], [74.0306864, 26.8685353], [82.8097716, 26.8685353], [82.8097716, 21.0732547]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'159a141cad06f102', u'name': u'Madhya Pradesh'}, User Location: जबलपुर।महाकौशल MP}
+
+{ID: 582066793243488256, Place: None, User Location: Madhya Pradesh India}
+
+{ID: 582074931862642688, Place: None, User Location: Madhya Pradesh India}
+
+{ID: 582081096138936320, Place: {u'full_name': u'Madhya Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/159a141cad06f102.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[74.0306864, 21.0732547], [74.0306864, 26.8685353], [82.8097716, 26.8685353], [82.8097716, 21.0732547]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'159a141cad06f102', u'name': u'Madhya Pradesh'}, User Location: Manawar Madhya Pradesh}
+
+{ID: 582082088083439617, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: UJJAIN}
+
+{ID: 582083305824129024, Place: {u'full_name': u'Indore, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.6907894, 22.5255843], [75.6907894, 22.8173812], [76.2455794, 22.8173812], [76.2455794, 22.5255843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'4a00f902bee39847', u'name': u'Indore'}, User Location: }
+
+{ID: 582083481192116224, Place: {u'full_name': u'Jabalpur, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/6d9c3de0c61e1d52.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.733709, 22.8299047], [79.733709, 23.4012867], [80.5841844, 23.4012867], [80.5841844, 22.8299047]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6d9c3de0c61e1d52', u'name': u'Jabalpur'}, User Location: India}
+
+{ID: 582096594377412608, Place: {u'full_name': u'Khandwa, Madhya Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/35227fe298ee84e7.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.0240854, 21.5407746], [76.0240854, 22.3404584], [76.6724325, 22.3404584], [76.6724325, 21.5407746]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'35227fe298ee84e7', u'name': u'Khandwa'}, User Location: }
+
+{ID: 582037786179424256, Place: None, User Location: Indore, India}
+
+{ID: 582040851393572864, Place: None, User Location: Indore, India }
+
+{ID: 582041901089447936, Place: None, User Location: Indore,India }
+
+{ID: 582049558227595264, Place: None, User Location: Indore, India}
+
+{ID: 582061267650617344, Place: None, User Location: Indore, India}
+
+{ID: 582068512836820992, Place: None, User Location: Indore, India}
+
+{ID: 582069072466092032, Place: None, User Location: Indore,India}
+
+{ID: 582076510971908097, Place: None, User Location: Indore, India}
+
+{ID: 582079422078935041, Place: None, User Location: Indore, India}
+
+{ID: 582096230949376000, Place: None, User Location: indore,  India}
+
+{ID: 582103922308857856, Place: None, User Location: Indore,India }
+
+{ID: 582108152985882624, Place: None, User Location: indore,  India}
+
+{ID: 582109649173807104, Place: None, User Location: indore,  India}
+{ID: 582095486644981760, Place: None, User Location: Jabalpur,India}
+{ID: 582040753976664064, Place: None, User Location: Gwalior,India}
+
+{ID: 582086859217571840, Place: None, User Location: Gwalior, India}
+{ID: 582076779029987328, Place: None, User Location: rewa, India}
+

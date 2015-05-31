@@ -1,0 +1,48 @@
+{ID: 582041176477290496, Place: None, User Location: Himachal, India.}
+
+{ID: 582057404088520704, Place: {u'full_name': u'Solan, Himachal Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/3e1b57656f8427eb.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[77.0803735, 30.8839848], [77.0803735, 30.9214918], [77.1173403, 30.9214918], [77.1173403, 30.8839848]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3e1b57656f8427eb', u'name': u'Solan'}, User Location: Solan, Himachal Pradesh}
+
+{ID: 582108446142504961, Place: {u'full_name': u'Himachal Pradesh, India', u'url': u'https://api.twitter.com/1.1/geo/id/6c8e1b263e2eee66.json', u'country': u'India', u'place_type': u'admin', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[75.5936439, 30.3796247], [75.5936439, 33.254896], [79.0118852, 33.254896], [79.0118852, 30.3796247]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6c8e1b263e2eee66', u'name': u'Himachal Pradesh'}, User Location: Dharamshala}
+{ID: 582038317727756288, Place: None, User Location: h.p. India}
+
+{ID: 582038502298107904, Place: None, User Location: h.p. India}
+
+{ID: 582035124297932802, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582037688255062016, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582040517900300288, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582040636490018816, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582046019103236096, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582066256053846016, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582066481355063296, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582073908032983040, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582081562155429888, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582083151431774208, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582084735138074625, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582085148692230144, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582085326128074752, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582098048660037632, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582108068411895808, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582108238616768512, Place: None, User Location: H.P, India ,Asia, Earth}
+
+{ID: 582030039115382785, Place: None, User Location: Nahan, India}
+{ID: 582041095011364864, Place: None, User Location: Shimla, India}
+
+{ID: 582072993209139200, Place: None, User Location: Shimla, India}
+
+{ID: 582082711633813505, Place: None, User Location: Shimla India}
+

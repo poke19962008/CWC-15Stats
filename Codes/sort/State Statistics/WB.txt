@@ -1,0 +1,394 @@
+{ID: 582028159438036992, Place: None, User Location: kolkata India}
+{ID: 582028206426853379, Place: None, User Location: kolkata India}
+{ID: 582028247589724160, Place: None, User Location: kolkata India}
+{ID: 582028275574157312, Place: None, User Location: kolkata India}
+{ID: 582028319115210752, Place: None, User Location: kolkata India}
+{ID: 582028832296697857, Place: None, User Location: kolkata India}
+{ID: 582029848228470784, Place: None, User Location: kolkata India}
+{ID: 582049007393853440, Place: None, User Location: kolkata India}
+{ID: 582059841247580160, Place: None, User Location: Kolkata India}
+{ID: 582062615611904000, Place: None, User Location: kolkata India}
+{ID: 582066640776392704, Place: None, User Location: kolkata India}
+{ID: 582076534107697152, Place: None, User Location: kolkata India}
+{ID: 582076770003738624, Place: None, User Location: kolkata India}
+{ID: 582076815985917952, Place: None, User Location: kolkata India}
+{ID: 582083732728717312, Place: None, User Location: kolkata India}
+{ID: 582094746241257472, Place: None, User Location: kolkata India}
+{ID: 582108337287761920, Place: None, User Location: Kolkata India}
+{ID: 582108442002739200, Place: None, User Location: Kolkata India}
+{ID: 582039301610844160, Place: None, User Location: Calcutta,India}
+{ID: 582052937305706496, Place: None, User Location: Calcutta,India}
+{ID: 582053036043866112, Place: None, User Location: Calcutta,India}
+{ID: 582053105279188992, Place: None, User Location: Calcutta,India}
+{ID: 582053373836333057, Place: None, User Location: Calcutta,India}
+{ID: 582112755164958721, Place: None, User Location: Calcutta,India}
+{ID: 582028334013378560, Place: None, User Location: Kolkata, India}
+{ID: 582029145774817281, Place: None, User Location: Kolkata, India}
+{ID: 582033005574664192, Place: None, User Location: Kolkata, India}
+{ID: 582034927983562752, Place: None, User Location: Kolkata, India}
+{ID: 582035059680514048, Place: None, User Location: Kolkata, India}
+{ID: 582035743473811456, Place: None, User Location: Kolkata, India}
+{ID: 582036728501772290, Place: None, User Location: Kolkata, India}
+{ID: 582036733170032640, Place: None, User Location: Kolkata, India}
+{ID: 582037090751238144, Place: None, User Location: Kolkata, India}
+{ID: 582037374625951745, Place: None, User Location: Kolkata, India}
+{ID: 582037399082930176, Place: None, User Location: Kolkata, India}
+{ID: 582037607325954048, Place: None, User Location: Kolkata, India}
+{ID: 582038722968825856, Place: None, User Location: Kolkata, India}
+{ID: 582040932679188480, Place: None, User Location: Kolkata, India}
+{ID: 582042392699645952, Place: None, User Location: Kolkata, India}
+{ID: 582042535465353216, Place: None, User Location: Kolkata, India}
+{ID: 582046435513765888, Place: None, User Location: Kolkata, India}
+{ID: 582046469458292736, Place: None, User Location: Kolkata, India}
+{ID: 582047479396327424, Place: None, User Location: Kolkata, India}
+{ID: 582047504243507200, Place: None, User Location: Kolkata, India}
+{ID: 582048611946516480, Place: None, User Location: Kolkata, India}
+{ID: 582052545306042368, Place: None, User Location: Kolkata, India}
+{ID: 582054300882329600, Place: None, User Location: Kolkata, India}
+{ID: 582054362576343040, Place: None, User Location: Kolkata, India}
+{ID: 582062124236611584, Place: None, User Location: Kolkata, India}
+{ID: 582066589329154048, Place: None, User Location: Kolkata, India}
+{ID: 582067460754423810, Place: None, User Location: Kolkata, India}
+{ID: 582069032825724928, Place: None, User Location: Kolkata, India}
+{ID: 582070303343284225, Place: None, User Location: Kolkata, India}
+{ID: 582071988681863168, Place: None, User Location: Kolkata, India}
+{ID: 582072023490306048, Place: None, User Location: Kolkata, India}
+{ID: 582072032373813249, Place: None, User Location: Kolkata, India}
+{ID: 582074933766799360, Place: None, User Location: Kolkata, India}
+{ID: 582076202350981120, Place: None, User Location: Kolkata, India}
+{ID: 582076817260969984, Place: None, User Location: Kolkata, India}
+{ID: 582077360452685824, Place: None, User Location: Kolkata, India}
+{ID: 582079076229218304, Place: None, User Location: Kolkata, India}
+{ID: 582079223638192128, Place: None, User Location: Kolkata, India}
+{ID: 582079588047548416, Place: None, User Location: Kolkata, India}
+{ID: 582079669941366784, Place: None, User Location: Kolkata, India}
+{ID: 582080733633593344, Place: None, User Location: Kolkata, India}
+{ID: 582081163663015936, Place: None, User Location: Kolkata, India}
+{ID: 582082108836868096, Place: None, User Location: Kolkata, India}
+{ID: 582082702070849536, Place: None, User Location: Kolkata, India}
+{ID: 582083416797020160, Place: None, User Location: Kolkata, India}
+{ID: 582083852522233856, Place: None, User Location: Kolkata, India}
+{ID: 582083920339959808, Place: None, User Location: Kolkata, India}
+{ID: 582084896534859777, Place: None, User Location: Kolkata, India}
+{ID: 582084986913701888, Place: None, User Location: Kolkata, India}
+{ID: 582086154863927296, Place: None, User Location: Kolkata, India}
+{ID: 582086220525662208, Place: None, User Location: Kolkata, India}
+{ID: 582086389551923200, Place: None, User Location: Kolkata, India}
+{ID: 582091646134657024, Place: None, User Location: Kolkata, India}
+{ID: 582096008055644160, Place: None, User Location: Kolkata, India}
+{ID: 582109025774403584, Place: None, User Location: Kolkata, India}
+{ID: 582028529669271552, Place: None, User Location: Kolkata, India.}
+{ID: 582029858689011712, Place: None, User Location: Kolkata, India.}
+{ID: 582031111355682816, Place: None, User Location: Kolkata, India.}
+{ID: 582037137786167296, Place: None, User Location: Kolkata, India.}
+{ID: 582037307974377472, Place: None, User Location: Kolkata, India.}
+{ID: 582041106038161408, Place: None, User Location: Kolkata, India.}
+{ID: 582043756737638400, Place: None, User Location: Kolkata, India.}
+{ID: 582045869186273280, Place: None, User Location: Kolkata, India.}
+{ID: 582055421982023680, Place: None, User Location: Kolkata, India.}
+{ID: 582056466489602048, Place: None, User Location: Kolkata, India.}
+{ID: 582059587437645824, Place: None, User Location: Kolkata, India.}
+{ID: 582060045866668033, Place: None, User Location: Kolkata, India.}
+{ID: 582060301400444928, Place: None, User Location: Kolkata, India.}
+{ID: 582035836234911745, Place: None, User Location: Calcutta, India}
+{ID: 582036166716747776, Place: None, User Location: Calcutta, India}
+{ID: 582042913758048257, Place: None, User Location: Calcutta, India}
+{ID: 582059915750993921, Place: None, User Location: Calcutta, India}
+{ID: 582061257915703297, Place: None, User Location: Calcutta, India}
+{ID: 582079754750283776, Place: None, User Location: Calcutta, India}
+{ID: 582086622046351361, Place: None, User Location: Calcutta, India}
+{ID: 582087037890641920, Place: None, User Location: Calcutta, India}
+{ID: 582095193316282369, Place: None, User Location: Calcutta, India}
+{ID: 582096040704135168, Place: None, User Location: Calcutta, India}
+{ID: 582066730052128768, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582072820936482818, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582088765960679424, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582090192732860416, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582090630555275265, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582093316398825472, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582093722067677184, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582094811215241217, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582095087649234944, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582095206943600640, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582106955998613504, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582107241005727744, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582107611580928002, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582107735916822528, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582108309387280384, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582108576811913216, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582108973240688640, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582109317303656448, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582110153333338112, Place: None, User Location: Malda, West Bengal, India}
+{ID: 582031658913677312, Place: None, User Location: west bengal, India}
+{ID: 582049507598200832, Place: None, User Location: West Bengal, India}
+{ID: 582079584776011777, Place: None, User Location: West Bengal, India}
+{ID: 582094172900864000, Place: None, User Location: West Bengal, India}
+{ID: 582095608569196544, Place: None, User Location: West Bengal, India}
+{ID: 582090839930744832, Place: None, User Location:  Kolkata, India}
+{ID: 582029101092880384, Place: None, User Location: kolkata,India}
+{ID: 582044112192286720, Place: None, User Location: kolkata,India}
+{ID: 582056458927415296, Place: None, User Location: kolkata,India}
+{ID: 582060295155257345, Place: None, User Location: kolkata,India}
+{ID: 582028199070044160, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata,India.}
+{ID: 582029100379815936, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Hyderabad, India}
+
+{ID: 582029244043149312, Place: None, User Location: Kolkata, West Bengal, India}
+
+{ID: 582029509882335232, Place: None, User Location: Kolkata, West Bengal, India}
+
+{ID: 582029691806052354, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582031122470604800, Place: None, User Location: Kolkata, West Bengal India}
+
+{ID: 582031384857837568, Place: {u'full_name': u'Siliguri, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6bd0a62ff9d565f0.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.1065961, 26.4461338], [88.1065961, 26.9608182], [88.4987468, 26.9608182], [88.4987468, 26.4461338]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6bd0a62ff9d565f0', u'name': u'Siliguri'}, User Location: siliguri,west bengal}
+
+{ID: 582031694120685568, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582031944394805248, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: Durgapur, India}
+
+{ID: 582034934505742336, Place: None, User Location: Kolkata West Bengal India }
+
+{ID: 582035081495060480, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Calcutta / Kolkata}
+
+{ID: 582036184890617856, Place: {u'full_name': u'Haora, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3135579c0c859cee.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0142444, 22.3960213], [88.0142444, 23.0219497], [88.4211239, 23.0219497], [88.4211239, 22.3960213]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3135579c0c859cee', u'name': u'Haora'}, User Location: Kolkata, India}
+
+{ID: 582036354088878080, Place: None, User Location: Kolkata West Bengal India }
+
+{ID: 582036449366675456, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582037207143227392, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata}
+
+{ID: 582037210586685440, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata}
+
+{ID: 582037433786613760, Place: {u'full_name': u'Haora, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3135579c0c859cee.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0142444, 22.3960213], [88.0142444, 23.0219497], [88.4211239, 23.0219497], [88.4211239, 22.3960213]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3135579c0c859cee', u'name': u'Haora'}, User Location: Kolkata, India}
+
+{ID: 582037439079804928, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Mumbai/Kolkata}
+
+{ID: 582037804068163584, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582037958640832512, Place: {u'full_name': u'Durgapur, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3a86c1f0605c8a9b.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.1516318, 23.3170165], [87.1516318, 23.7495928], [87.5810981, 23.7495928], [87.5810981, 23.3170165]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3a86c1f0605c8a9b', u'name': u'Durgapur'}, User Location: Durgapur, West Bengal, India}
+
+{ID: 582038150257590273, Place: {u'full_name': u'Siliguri, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6bd0a62ff9d565f0.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.1065961, 26.4461338], [88.1065961, 26.9608182], [88.4987468, 26.9608182], [88.4987468, 26.4461338]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6bd0a62ff9d565f0', u'name': u'Siliguri'}, User Location: siliguri,west bengal}
+
+{ID: 582038581532762112, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: PATORY,SAMASTIPUR,BIHAR,INDIA}
+
+{ID: 582038583680184321, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582038667104931841, Place: None, User Location: Bankura, West Bengal, India}
+
+{ID: 582041242348826625, Place: None, User Location: Kolkata West Bengal India }
+
+{ID: 582041583605850113, Place: {u'full_name': u'India', u'url': u'https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json', u'country': u'India', u'place_type': u'country', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[68.1061138, 6.7604429], [68.1061138, 37.07827], [97.4152924, 37.07827], [97.4152924, 6.7604429]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'b850c1bfd38f30e0', u'name': u'India'}, User Location: West Bengal, India}
+
+{ID: 582044305809768448, Place: None, User Location: Howrah, West Bengal ,India}
+
+{ID: 582044522978234370, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: kolkata}
+
+{ID: 582045649430028288, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: KOLKATA}
+
+{ID: 582047481975848960, Place: {u'full_name': u'Bidhan Nagar, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6a432d7e9a987731.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.3906811, 22.4925843], [88.3906811, 22.6341518], [88.614477, 22.6341518], [88.614477, 22.4925843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a432d7e9a987731', u'name': u'Bidhan Nagar'}, User Location: Kolkata}
+
+{ID: 582052794082832384, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata, India}
+
+{ID: 582053430362914816, Place: {u'full_name': u'Bidhan Nagar, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6a432d7e9a987731.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.3906811, 22.4925843], [88.3906811, 22.6341518], [88.614477, 22.6341518], [88.614477, 22.4925843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a432d7e9a987731', u'name': u'Bidhan Nagar'}, User Location: Madras / Calcutta.}
+
+{ID: 582054420927545344, Place: {u'full_name': u'Digha, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/681f8da978d662de.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[87.4282632, 21.6026475], [87.4282632, 22.1781095], [88.0677983, 22.1781095], [88.0677983, 21.6026475]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'681f8da978d662de', u'name': u'Digha'}, User Location: kanthi,Digha}
+
+{ID: 582054468314800128, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata;India}
+
+{ID: 582055739167891456, Place: None, User Location: Kolkata, West Bengal, India}
+
+{ID: 582059412472213504, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata, WB, INDIA}
+
+{ID: 582060963852984320, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata}
+
+{ID: 582061728424275968, Place: None, User Location: Kolkata, West Bengal, India}
+
+{ID: 582062573635264512, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata}
+
+{ID: 582063878814756864, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Calcutta, India}
+
+{ID: 582064337281519616, Place: None, User Location: Krishnagar,West Bengal,India}
+
+{ID: 582066155168333824, Place: None, User Location: Asansol-Durgapur, West Bengal, India}
+
+{ID: 582066234100817920, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata, West Bengal, India}
+
+{ID: 582066799828578304, Place: None, User Location: Dhubulia,West Bengal, India}
+
+{ID: 582068592717348864, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: city of joy,Kolkata}
+
+{ID: 582069044926242816, Place: None, User Location: Chinsurah,West Bengal,India}
+
+{ID: 582069055458127872, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata}
+
+{ID: 582072538483830784, Place: None, User Location: Calcutta, West Bengal, India.}
+
+{ID: 582077094428999680, Place: {u'full_name': u'Bidhan Nagar, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/6a432d7e9a987731.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.3906811, 22.4925843], [88.3906811, 22.6341518], [88.614477, 22.6341518], [88.614477, 22.4925843]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'6a432d7e9a987731', u'name': u'Bidhan Nagar'}, User Location: Kolkata, India}
+
+{ID: 582080242614865920, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: kolkata}
+
+{ID: 582080279176552448, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata, West Bengal}
+
+{ID: 582082094236508160, Place: None, User Location: Howrah, West Bengal, India}
+
+{ID: 582082202130759680, Place: None, User Location: Howrah, West Bengal, India}
+
+{ID: 582082577265102848, Place: None, User Location: Howrah, West Bengal, India}
+
+{ID: 582082950809853953, Place: None, User Location: Howrah, West Bengal, India}
+
+{ID: 582084568838107137, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Hyderabad, India}
+
+{ID: 582086157644611584, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata }
+
+{ID: 582086504710680576, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582086961013260288, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata }
+
+{ID: 582087621079265280, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Hyderabad, India}
+
+{ID: 582088412540194816, Place: {u'full_name': u'Haora, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3135579c0c859cee.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0142444, 22.3960213], [88.0142444, 23.0219497], [88.4211239, 23.0219497], [88.4211239, 22.3960213]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3135579c0c859cee', u'name': u'Haora'}, User Location: Kolkata, India}
+
+{ID: 582089751911510016, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582093388050141184, Place: {u'full_name': u'Haora, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3135579c0c859cee.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0142444, 22.3960213], [88.0142444, 23.0219497], [88.4211239, 23.0219497], [88.4211239, 22.3960213]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3135579c0c859cee', u'name': u'Haora'}, User Location: Kolkata, India}
+
+{ID: 582093477447487488, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582096376814645248, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: Kolkata, West Bengal}
+
+{ID: 582105642917175296, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582106462505189376, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582106828554661888, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582107825666555905, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582108031145488384, Place: {u'full_name': u'Haora, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/3135579c0c859cee.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0142444, 22.3960213], [88.0142444, 23.0219497], [88.4211239, 23.0219497], [88.4211239, 22.3960213]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'3135579c0c859cee', u'name': u'Haora'}, User Location: kolkata}
+
+{ID: 582108222317707266, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582108548202508288, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582108599574503424, Place: None, User Location: Birbhum, West bengal, India}
+
+{ID: 582108698794848256, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: }
+
+{ID: 582109008166682624, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582109355157299200, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: KOLKATA}
+
+{ID: 582109541636005888, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: তিলোত্তমা KOLKATA, India}
+
+{ID: 582110259050758144, Place: {u'full_name': u'Kolkata, West Bengal', u'url': u'https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[88.0944569, 22.2694931], [88.0944569, 22.9559184], [88.6100265, 22.9559184], [88.6100265, 22.2694931]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'70957ac3123b3249', u'name': u'Kolkata'}, User Location: KOLKATA}
+
+{ID: 582113100268179456, Place: None, User Location: West Bengal, India...}
+{ID: 582029216671133696, Place: None, User Location: Kolkata,India}
+
+{ID: 582029886665043968, Place: None, User Location: India,kolkata}
+
+{ID: 582030151828959233, Place: None, User Location: Kolkata,India}
+
+{ID: 582031280478363649, Place: None, User Location: Barasat/kolkata, India}
+
+{ID: 582031888921001986, Place: None, User Location: Kolkata/Jamshedpur (India)}
+
+{ID: 582035008463851522, Place: None, User Location: Kolkata, Cuttack, India}
+
+{ID: 582036832403095553, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582037393680678912, Place: None, User Location: Kolkata_India_Asia_BluePlanet!
+
+{ID: 582037766881464320, Place: None, User Location:  Kolkata, India...}
+
+{ID: 582037810586091521, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582037850218057728, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582038795475812352, Place: None, User Location: India,kolkata}
+
+{ID: 582040984067821568, Place: None, User Location: Kolkata (Calcutta), India}
+
+{ID: 582041208144297984, Place: None, User Location: Kolkata,India}
+
+{ID: 582044286801162240, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582044514732273664, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582044607304757248, Place: None, User Location: Kolkata (Calcutta), India}
+
+{ID: 582044939707543552, Place: None, User Location: Kolkata , India}
+
+{ID: 582045934340567040, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582046121633001472, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582046254256906240, Place: None, User Location: Kolkata, India, Asia}
+
+{ID: 582052141117808642, Place: None, User Location: Kolkata,India}
+
+{ID: 582054424442331136, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582055867077394432, Place: None, User Location: Kolkata, Bengal, India}
+
+{ID: 582059664885485568, Place: None, User Location: Kolkata (Calcutta), India}
+
+{ID: 582060010508722176, Place: None, User Location: Kolkata,India}
+
+{ID: 582060037268328449, Place: None, User Location: Kolkata,India}
+
+{ID: 582065455642243073, Place: None, User Location: Kolkata,India}
+
+{ID: 582073421942521857, Place: None, User Location: Kolkata, Cuttack, India}
+
+{ID: 582075743322030080, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582078298647240704, Place: None, User Location: Kolkata , India}
+
+{ID: 582079678585827328, Place: None, User Location: Kolkata,India}
+
+{ID: 582079992827236352, Place: None, User Location: Kolkata, Jhargram, India}
+
+{ID: 582080166756667392, Place: None, User Location: Kolkata,India}
+
+{ID: 582080476392734721, Place: None, User Location: Kolkata , India}
+
+{ID: 582080579333541888, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582081430848606208, Place: None, User Location: Kolkata,India}
+
+{ID: 582083580291096577, Place: None, User Location: Kolkata,India}
+
+{ID: 582085886717730816, Place: None, User Location: India, Kolkata}
+
+{ID: 582085996076011520, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582091585824800768, Place: None, User Location: Kolkata , India}
+
+{ID: 582096629798318080, Place: None, User Location: Kolkata_India_Asia_BluePlanet!}
+
+{ID: 582105664241041408, Place: None, User Location: Kolkata, WB, India}
+
+{ID: 582106964567703552, Place: None, User Location: Kolkata/Jamshedpur (India)}
+{ID: 582035766454460416, Place: None, User Location: Kozhikode, Kerala, India}
+{ID: 582037096950468608, Place: None, User Location: Jamshedpur, India}
+
+{ID: 582038486229733376, Place: {u'full_name': u'Jamshedpur, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/667dd44a16e84e94.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.067565, 22.2120435], [86.067565, 23.0159788], [86.8935469, 23.0159788], [86.8935469, 22.2120435]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'667dd44a16e84e94', u'name': u'Jamshedpur'}, User Location: Jamshedpur}
+
+{ID: 582039645807992832, Place: {u'full_name': u'Jamshedpur, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/667dd44a16e84e94.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.067565, 22.2120435], [86.067565, 23.0159788], [86.8935469, 23.0159788], [86.8935469, 22.2120435]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'667dd44a16e84e94', u'name': u'Jamshedpur'}, User Location: Jamshedpur}
+
+{ID: 582043302079246336, Place: None, User Location: Jamshedpur, India}
+
+{ID: 582044077929054209, Place: {u'full_name': u'Jamshedpur, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/667dd44a16e84e94.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.067565, 22.2120435], [86.067565, 23.0159788], [86.8935469, 23.0159788], [86.8935469, 22.2120435]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'667dd44a16e84e94', u'name': u'Jamshedpur'}, User Location: Jamshedpur}
+
+{ID: 582082303314149377, Place: None, User Location: Jamshedpur, India}
+
+{ID: 582086147121111040, Place: {u'full_name': u'Jamshedpur, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/667dd44a16e84e94.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.067565, 22.2120435], [86.067565, 23.0159788], [86.8935469, 23.0159788], [86.8935469, 22.2120435]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'667dd44a16e84e94', u'name': u'Jamshedpur'}, User Location: Jamshedpur}
+
+{ID: 582093078795722752, Place: {u'full_name': u'Jamshedpur, Jharkhand', u'url': u'https://api.twitter.com/1.1/geo/id/667dd44a16e84e94.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[86.067565, 22.2120435], [86.067565, 23.0159788], [86.8935469, 23.0159788], [86.8935469, 22.2120435]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'667dd44a16e84e94', u'name': u'Jamshedpur'}, User Location: Jamshedpur}
+{ID: 582035809672396801, Place: None, User Location: Calcutta India}
+
+{ID: 582047865238745088, Place: None, User Location: Calcutta India}
+

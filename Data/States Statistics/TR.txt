@@ -1,0 +1,31 @@
+{ID: 582055258953625602, Place: {u'full_name': u'Agartala, Tripura', u'url': u'https://api.twitter.com/1.1/geo/id/0f4b5c09e18deeea.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[91.1525087, 23.5632733], [91.1525087, 24.1089715], [91.5747271, 24.1089715], [91.5747271, 23.5632733]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'0f4b5c09e18deeea', u'name': u'Agartala'}, User Location: Agartala,Tripura,India}
+
+{ID: 582065118629920768, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582066435914006528, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582070282656968705, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582071153537064961, Place: None, User Location: Agartala,Tripura,India}
+
+{ID: 582072836988149760, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582073275854913536, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582074276615823360, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582074760114237440, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582079061268135937, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582079114179268610, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582079166830354433, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582082144714919936, Place: None, User Location: Tripura, India}
+
+{ID: 582082280463544320, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582082421270519808, Place: None, User Location: Tripura, Agartala, India}
+
+{ID: 582082496952606720, Place: None, User Location: Tripura, Agartala, India}

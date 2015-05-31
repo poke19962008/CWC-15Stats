@@ -1,0 +1,324 @@
+{ID: 582028187481219072, Place: None, User Location: India,Hyderabad,500-047}
+{ID: 582039302500065280, Place: None, User Location: India,Hyderabad,500-047}
+{ID: 582069041289822208, Place: None, User Location: India,Hyderabad,500-047}
+{ID: 582085352745148416, Place: None, User Location: India,Hyderabad,500-047}
+{ID: 582030170665570304, Place: None, User Location: Hyderabad, India}
+{ID: 582031422027780096, Place: None, User Location: Hyderabad, India}
+{ID: 582032637604327426, Place: None, User Location: Hyderabad, India}
+{ID: 582033042656497665, Place: None, User Location: Hyderabad, India}
+{ID: 582034741723062272, Place: None, User Location: Hyderabad, India}
+{ID: 582034801646927872, Place: None, User Location: Hyderabad, India}
+{ID: 582035890559680513, Place: None, User Location: Hyderabad, India}
+{ID: 582036006414745600, Place: None, User Location: Hyderabad, India}
+{ID: 582036323571142656, Place: None, User Location: Hyderabad, India}
+{ID: 582036381452599296, Place: None, User Location: Hyderabad, India}
+{ID: 582036797120626688, Place: None, User Location: Hyderabad, India}
+{ID: 582037005774667776, Place: None, User Location: Hyderabad, India}
+{ID: 582037338592690176, Place: None, User Location: Hyderabad, India}
+{ID: 582037394943287296, Place: None, User Location: Hyderabad, India}
+{ID: 582037537494990849, Place: None, User Location: Hyderabad, India}
+{ID: 582037581451292672, Place: None, User Location: Hyderabad, India}
+{ID: 582037850952060928, Place: None, User Location: Hyderabad, India}
+{ID: 582040774268743680, Place: None, User Location: Hyderabad, India}
+{ID: 582041281968230400, Place: None, User Location: Hyderabad, India}
+{ID: 582041318232174592, Place: None, User Location: Hyderabad, India}
+{ID: 582041436612214784, Place: None, User Location: Hyderabad, India}
+{ID: 582041777395269632, Place: None, User Location: Hyderabad, India}
+{ID: 582042677237059584, Place: None, User Location: Hyderabad, India}
+{ID: 582042978299998208, Place: None, User Location: Hyderabad, India}
+{ID: 582044605476052992, Place: None, User Location: Hyderabad, India}
+{ID: 582044974998401024, Place: None, User Location: Hyderabad, India}
+{ID: 582045749774577664, Place: None, User Location: Hyderabad, India}
+{ID: 582046028452478976, Place: None, User Location: Hyderabad, India}
+{ID: 582048174233100289, Place: None, User Location: Hyderabad, India}
+{ID: 582048782402990080, Place: None, User Location: Hyderabad, India}
+{ID: 582049612808093696, Place: None, User Location: Hyderabad, India}
+{ID: 582052066975031297, Place: None, User Location: Hyderabad, India}
+{ID: 582052122595762176, Place: None, User Location: Hyderabad, India}
+{ID: 582052188173656064, Place: None, User Location: Hyderabad, India}
+{ID: 582052388749516800, Place: None, User Location: Hyderabad, India}
+{ID: 582052517992738816, Place: None, User Location: Hyderabad, India}
+{ID: 582052602973683712, Place: None, User Location: Hyderabad, India}
+{ID: 582052667049938944, Place: None, User Location: Hyderabad, India}
+{ID: 582053071368290304, Place: None, User Location: Hyderabad, India}
+{ID: 582054894791626752, Place: None, User Location: Hyderabad, India}
+{ID: 582054897702432768, Place: None, User Location: Hyderabad, India}
+{ID: 582057180569825280, Place: None, User Location: Hyderabad, India}
+{ID: 582059671101399040, Place: None, User Location: Hyderabad, India}
+{ID: 582060518388600832, Place: None, User Location: Hyderabad, India}
+{ID: 582061271538790400, Place: None, User Location: Hyderabad, India}
+{ID: 582062111867588608, Place: None, User Location: Hyderabad, India}
+{ID: 582062317380116480, Place: None, User Location: Hyderabad, India}
+{ID: 582062949306535937, Place: None, User Location: Hyderabad, India}
+{ID: 582062959238627328, Place: None, User Location: Hyderabad, India}
+{ID: 582064288556146689, Place: None, User Location: Hyderabad, India}
+{ID: 582065082814701568, Place: None, User Location: Hyderabad, India}
+{ID: 582066006404673537, Place: None, User Location: Hyderabad, India}
+{ID: 582066996944052224, Place: None, User Location: Hyderabad, India}
+{ID: 582067310589968385, Place: None, User Location: Hyderabad, India}
+{ID: 582067493889425408, Place: None, User Location: Hyderabad, India}
+{ID: 582070260393611264, Place: None, User Location: Hyderabad, India}
+{ID: 582070272972308480, Place: None, User Location: Hyderabad, India}
+{ID: 582072444124413952, Place: None, User Location: Hyderabad, India}
+{ID: 582073023227809793, Place: None, User Location: Hyderabad, India}
+{ID: 582073085223825408, Place: None, User Location: Hyderabad, India}
+{ID: 582073682798866432, Place: None, User Location: Hyderabad, India}
+{ID: 582076548485775360, Place: None, User Location: Hyderabad, India}
+{ID: 582078305857228800, Place: None, User Location: Hyderabad, India}
+{ID: 582078964929146880, Place: None, User Location: Hyderabad, India}
+{ID: 582080522077151232, Place: None, User Location: Hyderabad, India}
+{ID: 582080629388378113, Place: None, User Location: Hyderabad, India}
+{ID: 582082109231104000, Place: None, User Location: Hyderabad, India}
+{ID: 582083117696958465, Place: None, User Location: Hyderabad, India}
+{ID: 582084007057227776, Place: None, User Location: Hyderabad, India}
+{ID: 582084963979284480, Place: None, User Location: Hyderabad, India}
+{ID: 582085322730835969, Place: None, User Location: Hyderabad, India}
+{ID: 582086080712699905, Place: None, User Location: Hyderabad, India}
+{ID: 582086286887923712, Place: None, User Location: Hyderabad, India}
+{ID: 582086516781903874, Place: None, User Location: Hyderabad, India}
+{ID: 582086665050546176, Place: None, User Location: Hyderabad, India}
+{ID: 582086761909657600, Place: None, User Location: Hyderabad, India}
+{ID: 582086967573159936, Place: None, User Location: Hyderabad, India}
+{ID: 582087326098022400, Place: None, User Location: Hyderabad, India}
+{ID: 582091630989086720, Place: None, User Location: Hyderabad, India}
+{ID: 582091918038831104, Place: None, User Location: Hyderabad, India}
+{ID: 582091982253621249, Place: None, User Location: Hyderabad, India}
+{ID: 582093443112923136, Place: None, User Location: Hyderabad, India}
+{ID: 582095560649285632, Place: None, User Location: Hyderabad, India}
+{ID: 582095829344788480, Place: None, User Location: Hyderabad, India}
+{ID: 582096588169822208, Place: None, User Location: Hyderabad, India}
+{ID: 582098311068274688, Place: None, User Location: Hyderabad, India}
+{ID: 582099066982506497, Place: None, User Location: Hyderabad, India}
+{ID: 582107089985626113, Place: None, User Location: Hyderabad, India}
+{ID: 582107146814271488, Place: None, User Location: Hyderabad, India}
+{ID: 582107827801497600, Place: None, User Location: Hyderabad, India}
+{ID: 582108062237921280, Place: None, User Location: Hyderabad, India}
+{ID: 582108371936899072, Place: None, User Location: Hyderabad, India}
+{ID: 582109167147593728, Place: None, User Location: Hyderabad, India}
+{ID: 582109253332123648, Place: None, User Location: Hyderabad, India}
+{ID: 582110683476676608, Place: None, User Location: Hyderabad, India}
+{ID: 582029363182374912, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582029572637487104, Place: None, User Location: Hyderabad , Telangana, India.}
+
+{ID: 582030395505446915, Place: None, User Location: Hyderabad - India}
+
+{ID: 582030534601150464, Place: None, User Location: Hyderabad(India)}
+
+{ID: 582031793294995456, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582032155619946498, Place: None, User Location: Hyderabad, India }
+
+{ID: 582034836354797568, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582035327432294400, Place: None, User Location: Hyderabad/India}
+
+{ID: 582035473381507072, Place: None, User Location: Hyderabad , India}
+
+{ID: 582035915926679552, Place: None, User Location: Hyderabad,India}
+
+{ID: 582036335306805250, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582036775285075968, Place: None, User Location: Hyderabad, India }
+
+{ID: 582037147596640256, Place: None, User Location: Hyderabad, India.}
+
+{ID: 582037505106554880, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Baramati}
+
+{ID: 582037644634259456, Place: None, User Location: Hyderabad - India}
+
+{ID: 582037804340789248, Place: None, User Location: Hyderabad, India }
+
+{ID: 582037845809885184, Place: {u'full_name': u'Nellore, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/5cd1bd2bc98eb67f.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[79.7793203, 14.1503952], [79.7793203, 14.5669968], [80.1946461, 14.5669968], [80.1946461, 14.1503952]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'5cd1bd2bc98eb67f', u'name': u'Nellore'}, User Location: hyderabad}
+
+{ID: 582039281457238017, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582039375564836864, Place: None, User Location: Hyderabad - India}
+
+{ID: 582040922671620096, Place: None, User Location: Hyderabad - India}
+
+{ID: 582042197068886017, Place: None, User Location: Hyderabad,India }
+
+{ID: 582042253889155073, Place: None, User Location: Hyderabad,India }
+
+{ID: 582042435338924032, Place: None, User Location: Hyderabad,India }
+
+{ID: 582042531103318016, Place: None, User Location: Hyderabad, India }
+
+{ID: 582042888772591616, Place: None, User Location: Hyderabad, India }
+
+{ID: 582042899325399040, Place: None, User Location: Hyderabad.India}
+
+{ID: 582042975091363841, Place: None, User Location: Hyderabad/India}
+
+{ID: 582042982955626497, Place: None, User Location: Hyderabad,India }
+
+{ID: 582043068552994816, Place: None, User Location: Hyderabad,India }
+
+{ID: 582043646544969728, Place: None, User Location: Hyderabad -Ts, India. }
+
+{ID: 582044087043301376, Place: None, User Location: Hyderabad , India}
+
+{ID: 582044903711973376, Place: None, User Location: Hyderabad, India }
+
+{ID: 582045903080427520, Place: None, User Location: Hyderabad.India}
+
+{ID: 582046207918391296, Place: {u'full_name': u'Karimnagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/475ad86263768eb5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.9523345, 17.9792968], [78.9523345, 18.6884835], [79.3396729, 18.6884835], [79.3396729, 17.9792968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'475ad86263768eb5', u'name': u'Karimnagar'}, User Location: warangal/hyderabad/karimnagar}
+
+{ID: 582046526827970563, Place: None, User Location: Hyderabad , India }
+
+{ID: 582047180732522497, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: Hyderabad }
+
+{ID: 582047293563535360, Place: None, User Location: Hyderabad , India }
+
+{ID: 582047655896846336, Place: None, User Location: A Proud Hyderabadi, India !!!}
+
+{ID: 582047723110539264, Place: None, User Location: Hyderabad , India }
+
+{ID: 582047738302345216, Place: None, User Location: Hyderabad.India}
+
+{ID: 582047943257014273, Place: None, User Location: Hyderabad , India }
+
+{ID: 582048212455821312, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location:  ну∂єяαвα∂, ιи∂ια }
+
+{ID: 582048827563061248, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Hyderabad, India}
+
+{ID: 582049025207103488, Place: None, User Location: Hyderabad,Telangana, India.!! }
+
+{ID: 582049583036915712, Place: None, User Location: India [Hyderabad]}
+
+{ID: 582051008445984768, Place: None, User Location: Hyderabad,India}
+
+{ID: 582052105738805248, Place: None, User Location: Hyderabad India }
+
+{ID: 582052705213919233, Place: None, User Location: Hyderabad - India}
+
+{ID: 582052795240484864, Place: None, User Location: hyderabad, India}
+
+{ID: 582053071666040832, Place: None, User Location: hyderabad, India}
+
+{ID: 582053336846708736, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582053345558319104, Place: None, User Location: India [Hyderabad] }
+
+{ID: 582055364390064130, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582057306638008320, Place: None, User Location: Hyderabad, India }
+
+{ID: 582057409683673088, Place: None, User Location: Hyderabad India}
+
+{ID: 582059503044071424, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582059880862781441, Place: None, User Location: A Proud Hyderabadi, India !!!}
+
+{ID: 582059895156961280, Place: None, User Location: A Proud Hyderabadi, India !!!}
+
+{ID: 582059916107456512, Place: None, User Location: Hyderabad,India}
+
+{ID: 582059974446084096, Place: None, User Location: A Proud Hyderabadi, India !!!}
+
+{ID: 582062086013865985, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Hyderabad, India}
+
+{ID: 582062585618419713, Place: None, User Location: Hyderabad,India}
+
+{ID: 582063636937490433, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: Hyderabad}
+
+{ID: 582063897470844928, Place: None, User Location: HYderabad- Proud Indian.}
+
+{ID: 582065794512609280, Place: None, User Location: Hyderabad,India}
+
+{ID: 582066680861429760, Place: None, User Location: Hyderabad, India }
+
+{ID: 582066783437238272, Place: {u'full_name': u'Karimnagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/475ad86263768eb5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.9523345, 17.9792968], [78.9523345, 18.6884835], [79.3396729, 18.6884835], [79.3396729, 17.9792968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'475ad86263768eb5', u'name': u'Karimnagar'}, User Location: warangal/hyderabad/karimnagar}
+
+{ID: 582067593382526978, Place: None, User Location: Hyderabad(India)}
+
+{ID: 582067623778652161, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Hyderabad}
+
+{ID: 582067893124247552, Place: None, User Location: Hyderabad, Telangana,India.}
+
+{ID: 582068549658677249, Place: None, User Location: India,Hyderabad}
+
+{ID: 582068552624009216, Place: None, User Location: Hyderabad, Telangana,India.}
+
+{ID: 582068723411914753, Place: None, User Location: Hyderabad(India)}
+
+{ID: 582069026358079488, Place: {u'full_name': u'Karimnagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/475ad86263768eb5.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.9523345, 17.9792968], [78.9523345, 18.6884835], [79.3396729, 18.6884835], [79.3396729, 17.9792968]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'475ad86263768eb5', u'name': u'Karimnagar'}, User Location: warangal/hyderabad/karimnagar}
+
+{ID: 582069074647085056, Place: None, User Location: Hyderabad.India}
+
+{ID: 582071181806682112, Place: None, User Location: Hyderabad, Telangana,India.}
+
+{ID: 582072061016707072, Place: {u'full_name': u'Pehowa, Haryana', u'url': u'https://api.twitter.com/1.1/geo/id/7d029feb35a72a56.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[76.566404, 29.9573393], [76.566404, 29.9937444], [76.6005549, 29.9937444], [76.6005549, 29.9573393]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7d029feb35a72a56', u'name': u'Pehowa'}, User Location: Hyderabad}
+
+{ID: 582073098184212481, Place: None, User Location: India [Hyderabad] }
+
+{ID: 582073726037946368, Place: None, User Location: Hyderabad.India}
+
+{ID: 582073906745356288, Place: None, User Location: Hyderabad, India }
+
+{ID: 582078279298875392, Place: None, User Location: Hyderabad,India}
+
+{ID: 582079444132614144, Place: {u'full_name': u'Medchal, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/23644d3c33b1fe02.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.2478407, 17.150579], [78.2478407, 17.7123495], [78.7200457, 17.7123495], [78.7200457, 17.150579]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'23644d3c33b1fe02', u'name': u'Medchal'}, User Location: Hyderabad, India}
+
+{ID: 582079643517198336, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: India}
+
+{ID: 582080136666742784, Place: {u'full_name': u'Gachibowli, Rajendra Nagar', u'url': u'https://api.twitter.com/1.1/geo/id/626ceef6bc3cab87.json', u'country': u'India', u'place_type': u'neighborhood', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.362601, 17.4143291], [78.362601, 17.4590309], [78.3980452, 17.4590309], [78.3980452, 17.4143291]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'626ceef6bc3cab87', u'name': u'Gachibowli'}, User Location: Hyderabad,India}
+
+{ID: 582080374672474112, Place: None, User Location: Hyderabad Deccan,India.}
+
+{ID: 582080809139470336, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582080908099862528, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: Maybe Somewhere West of Hell}
+
+{ID: 582081623870443520, Place: {u'full_name': u'Rajendra Nagar, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.233173, 17.2371055], [78.233173, 17.5529688], [78.5373982, 17.5529688], [78.5373982, 17.2371055]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'7a8b600fe5f170bc', u'name': u'Rajendra Nagar'}, User Location: Hyderabad,India}
+
+{ID: 582086410326306817, Place: None, User Location: Hyderabad,India}
+
+{ID: 582086548516044800, Place: None, User Location: Singapore / Hyderabad, India}
+
+{ID: 582087316434386944, Place: None, User Location: Hyderabad, India.}
+
+{ID: 582087318858682368, Place: {u'full_name': u'Vijayawada, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/25360dd906b4b627.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[80.3971605, 16.2834561], [80.3971605, 16.9382742], [80.8438161, 16.9382742], [80.8438161, 16.2834561]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'25360dd906b4b627', u'name': u'Vijayawada'}, User Location: hyderabad}
+
+{ID: 582096619744546816, Place: None, User Location: Hyderabad ,India}
+
+{ID: 582104240815878145, Place: None, User Location: Hyderabad,India}
+
+{ID: 582107675808251906, Place: None, User Location: Hyderabad , India }
+
+{ID: 582108149613604864, Place: None, User Location: Hyderabad , India }
+
+{ID: 582109577308549121, Place: None, User Location: Hyderabad,India}
+
+{ID: 582109854199910400, Place: None, User Location: Hyderabad,India}
+
+{ID: 582110411052355584, Place: {u'full_name': u'Hyderabad, Andhra Pradesh', u'url': u'https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json', u'country': u'India', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[78.3897718, 17.3013989], [78.3897718, 17.4759], [78.5404168, 17.4759], [78.5404168, 17.3013989]]]}, u'country_code': u'IN', u'attributes': {}, u'id': u'243cc16f6417a167', u'name': u'Hyderabad'}, User Location: }
+
+{ID: 582032604079091712, Place: None, User Location: Nalgonda/Hyd/Telangana/India}
+
+{ID: 582033489597366273, Place: None, User Location: Tandur, Telangana State, India}
+
+{ID: 582039203111813120, Place: None, User Location: Tandur, Telangana State, India}
+
+{ID: 582039423207895040, Place: None, User Location: Karimnagar, Telangana, India.}
+
+{ID: 582041988008050689, Place: None, User Location: Telangana, India.}
+
+{ID: 582047148818202625, Place: None, User Location: Telangana, India}
+
+{ID: 582080335002882048, Place: None, User Location: India, Telangana, Metpalli.}
+
+{ID: 582081176002756608, Place: None, User Location: India,Telangana,Metpally}
+
+{ID: 582081839080312832, Place: None, User Location: India,Telangana,Metpally}
+
+{ID: 582081985998360576, Place: None, User Location: India,Telangana,Metpally}
+
+{ID: 582082317021155328, Place: None, User Location: Nalgonda/Hyd/Telangana/India}
+
+{ID: 582084265116082176, Place: None, User Location: India,Telangana,Metpally}
+
+{ID: 582084337451057152, Place: None, User Location: India,Telangana,Metpally}
+
+{ID: 582085383703363584, Place: None, User Location: India,Telangana,Metpally}
